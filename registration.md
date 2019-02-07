@@ -4,7 +4,7 @@ layout: default
 menu-index: 4
 ---
 
-# {{ Registration Information }}
+# Registration Information
 
 ## Online Registration
 
