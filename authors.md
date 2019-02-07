@@ -4,7 +4,7 @@ layout: default
 menu-index: 2
 ---
 
-# {{ Author Information }}
+# Author Information
 
 ## Submission guidelines
 
