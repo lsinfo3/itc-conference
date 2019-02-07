@@ -1,6 +1,7 @@
 ---
 title: Committees
 layout: default
+menu: top-nav
 menu-index: 5
 ---
 

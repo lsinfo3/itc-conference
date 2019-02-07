@@ -1,6 +1,7 @@
 ---
 title: TPC
 layout: default
+menu: top-nav
 menu-index: 6
 ---
 

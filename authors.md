@@ -1,6 +1,7 @@
 ---
 title: Authors
 layout: default
+menu: top-nav
 menu-index: 2
 ---
 
