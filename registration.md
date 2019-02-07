@@ -4,6 +4,8 @@ layout: default
 menu-index: 4
 ---
 
+# {{ Registration Information }}
+
 ## Online Registration
 
 Registration for ITC31 is not open yet.
