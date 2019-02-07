@@ -42,63 +42,65 @@
                 <ul class="nav-collapse nav-collapse-0 closed" aria-hidden="false" style="-webkit-transition: max-height 284ms; transition: max-height 284ms; position: relative;">
                     {% assign pages = site.pages | sort: "menu-index" %}
                     {% for p in pages %}
-                        <li>
-                            <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-                        </li>
+                    <li>
+                        <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+                    </li>
                     {% endfor %}
                     <!--
-                    <li class="normal">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="normal">
-                        <a href="news.html">News</a>
-                    </li>
-                    <li class="normal">
-                        <a href="authors.html">Authors</a>
-                    </li>
-                    <li class="normal">
-                        <a href="cfp.html">CfP</a>
-                    </li>
-                    <li class="normal">
-                        <a href="registration.html">Registration</a>
-                    </li>
-                    <li class="normal">
-                        <a href="committees.html">Committees</a>
-                    </li>
-                    <li class="normal">
-                        <a href="tpc.html">TPC</a>
-                    </li>
-                    <li class="normal">
-                        <a href="about-itc.html">About ITC</a>
-                    </li>
-                    <li class="normal">
-                        <a href="contact.html">Contact</a>
-                    </li>
+                        <li class="normal">
+                            <a href="/">Home</a>
+                        </li>
+                        <li class="normal">
+                            <a href="news.html">News</a>
+                        </li>
+                        <li class="normal">
+                            <a href="authors.html">Authors</a>
+                        </li>
+                        <li class="normal">
+                            <a href="cfp.html">CfP</a>
+                        </li>
+                        <li class="normal">
+                            <a href="registration.html">Registration</a>
+                        </li>
+                        <li class="normal">
+                            <a href="committees.html">Committees</a>
+                        </li>
+                        <li class="normal">
+                            <a href="tpc.html">TPC</a>
+                        </li>
+                        <li class="normal">
+                            <a href="about-itc.html">About ITC</a>
+                        </li>
+                        <li class="normal">
+                            <a href="contact.html">Contact</a>
+                        </li>
                     -->
                 </ul>
+                <!--
                 <script>
                     var navigation = responsiveNav(".nav-collapse");
                 </script>
+                -->
             </div>
         </header>
         <!--
-        <article class="slider">
-            <div>
-                <p></p>
-                <a href="/en/posts.html">Learn More »</a>
-                <div style="clear: both;"></div>
-            </div>
-        </article>
+            <article class="slider">
+                <div>
+                    <p></p>
+                    <a href="/en/posts.html">Learn More »</a>
+                    <div style="clear: both;"></div>
+                </div>
+            </article>
         -->
     </div>
     <div class="in">
         <aside class="cont_left">
             <!--
-            <ul class="breadcrumb">
-                <li class="current">
-                    {{ page.title }}
-                </li>
-            </ul>
+                <ul class="breadcrumb">
+                    <li class="current">
+                        {{ page.title }}
+                    </li>
+                </ul>
             -->
             <div class="neos-contentcollection">
                 {{ content }}
@@ -112,7 +114,12 @@
                 <div class="right_links">Important dates</div>
                 
                 <div class=" typo3-neos-nodetypes-text">
-                    <div><p>March 4, 2019: Paper Registration<br/>March 11, 2019: Submission deadline<br/> May 13, 2019: Expected notification date<br/> June 10, 2019: Camera ready copy deadline<br/> June 17, 2019: Author registration deadline<br/>August 27-29, 2019: Conference Date<br/></p></div>
+                    <div>
+                        <p>
+                            {% capture my_include %}{% include important_dates.md %}{% endcapture %}
+                            {{ my_include | markdownify }}
+                        </p>
+                    </div>
                 </div>
                 
                 <a class="right_links" href="/">
@@ -120,19 +127,28 @@
                 </a>
                 
                 <div class=" typo3-neos-nodetypes-text">
-                    <div><p><span></span>itc31@lists.i-teletraffic.org<br/></p></div>
-                </div></div>
-            </nav>
-            
-            
-            <footer class="footer">
-                <div class="in">
-                    ©  2018 <a href="http://www.i-teletraffic.org">i-teletraffic.org</a> | <a href="/impressum.html">Impressum</a> | <a href="/en/privacy-disclaimer.html">Privacy Disclaimer</a>  &nbsp; 
-                    <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/twss_icon.png" width="25" alt=""></a> &nbsp; 
-                    <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/li_icon.png" width="25" alt=""></a>
+                    <div>
+                        <p>
+                            {% capture my_include %}{% include contact.md %}{% endcapture %}
+                            {{ my_include | markdownify }}
+                        </p>
+                    </div>
                 </div>
-            </footer>
-            
-            
-            <!-- Put your scripts inclusions for the end of the body here, they will be included in your website by TypoScript -->
-            <script data-neos-node="/sites/iteletraffic@live;language=en_US" src="https://itc31.org/_Resources/Static/Packages/TYPO3.Neos/JavaScript/LastVisitedNode.js" async></script></body></html>
+            </div>
+        </nav>
+        
+        
+        <footer class="footer">
+            <div class="in">
+                ©  2018 <a href="http://www.i-teletraffic.org">i-teletraffic.org</a> | <a href="/impressum.html">Impressum</a> | <a href="/en/privacy-disclaimer.html">Privacy Disclaimer</a>  &nbsp; 
+                <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/twss_icon.png" width="25" alt=""></a> &nbsp; 
+                <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/li_icon.png" width="25" alt=""></a>
+            </div>
+        </footer>
+        
+        
+        <!-- Put your scripts inclusions for the end of the body here, they will be included in your website by TypoScript -->
+        <script data-neos-node="/sites/iteletraffic@live;language=en_US" src="https://itc31.org/_Resources/Static/Packages/TYPO3.Neos/JavaScript/LastVisitedNode.js" async>
+        </script>
+    </body>
+    </html>
