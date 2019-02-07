@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: default
+menu: top-nav
 menu-index: 8
 ---
 # {{ page.title }}

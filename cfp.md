@@ -1,6 +1,7 @@
 ---
 title: CfP
 layout: default
+menu: top-nav
 menu-index: 3
 ---
 

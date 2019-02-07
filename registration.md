@@ -1,6 +1,7 @@
 ---
 title: Registration
 layout: default
+menu: top-nav
 menu-index: 4
 ---
 

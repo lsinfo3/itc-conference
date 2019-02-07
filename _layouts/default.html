@@ -8,17 +8,21 @@
     <link rel="stylesheet" href="assets/css/style.css"/>
     <link rel="stylesheet" href="assets/css/custom.css" />
     <link rel="stylesheet" href="assets/css/responsive.css" />
-	
+    
     <script type="text/javascript" src="assets/js/responsive-nav.js"></script>
     <script type="text/javascript" src="assets/js/jquery.js"></script>
     <script type="text/javascript" src="assets/js/parallax.js"></script>
+    
     <meta name="keywords" content />
     <meta name="description" content />
     <meta name="robots" content="index,follow" />
+
     <link rel="canonical" href="https://itc31.org/" />
     
+    <!--
     <link rel="alternate" hreflang="en-US" href="https://itc31.org/"/>
     <link rel="alternate" hreflang="en-UK" href="https://itc31.org/uk"/>
+    -->
 </head>
 
 <body> 
@@ -40,7 +44,7 @@
                 </div>
                 
                 <ul class="nav-collapse nav-collapse-0 closed" aria-hidden="false" style="-webkit-transition: max-height 284ms; transition: max-height 284ms; position: relative;">
-                    {% assign pages = site.pages | sort: "menu-index" %}
+                    {% assign pages = site.pages | sort: "menu-index" | where:"menu","top-nav" %}
                     {% for p in pages %}
                     <li>
                         <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
@@ -77,9 +81,9 @@
                     -->
                 </ul>
                 <!--
-                <script>
-                    var navigation = responsiveNav(".nav-collapse");
-                </script>
+                    <script>
+                        var navigation = responsiveNav(".nav-collapse");
+                    </script>
                 -->
             </div>
         </header>
@@ -140,15 +144,19 @@
         
         <footer class="footer">
             <div class="in">
-                ©  2018 <a href="http://www.i-teletraffic.org">i-teletraffic.org</a> | <a href="/impressum.html">Impressum</a> | <a href="/en/privacy-disclaimer.html">Privacy Disclaimer</a>  &nbsp; 
-                <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/twss_icon.png" width="25" alt=""></a> &nbsp; 
-                <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!"><img src="https://itc31.org/_Resources/Static/Packages/Itc.ITeleTraffic/assets/li_icon.png" width="25" alt=""></a>
+                ©  2018 <a href="http://www.i-teletraffic.org">i-teletraffic.org</a> 
+                {% assign pages = site.pages | sort: "menu-index" | where:"menu","footer-nav" %}
+                {% for p in pages %}
+                     | <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+                {% endfor %} 
+                <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank">
+                    <img src="assets/images/twss_icon.png" width="25" alt="">
+                </a>
+                &nbsp; 
+                <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!">
+                    <img src="assets/images/li_icon.png" width="25" alt="">
+                </a>
             </div>
         </footer>
-        
-        
-        <!-- Put your scripts inclusions for the end of the body here, they will be included in your website by TypoScript -->
-        <script data-neos-node="/sites/iteletraffic@live;language=en_US" src="https://itc31.org/_Resources/Static/Packages/TYPO3.Neos/JavaScript/LastVisitedNode.js" async>
-        </script>
     </body>
     </html>

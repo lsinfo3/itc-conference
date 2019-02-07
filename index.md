@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+menu: top-nav
 menu-index: 0
 ---
 
