@@ -1,8 +1,6 @@
-title: "ITC 31"
-conference-name: "ITC 31 - Networked Systems and Services"
-conference-date: "27. - 29. August 2019"
-conference-location: Budapest
+title: "ITC Conference"
+source: _source
 
 # deployment
-host: 0.0.0.0
+host: 127.0.0.1
 port: 4000
