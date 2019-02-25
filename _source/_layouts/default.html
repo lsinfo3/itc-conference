@@ -127,5 +127,18 @@
                 </a>
             </div>
         </footer>
-    </body>
-    </html>
+
+    <script>
+        // Fixes broken parallax when the page content is shorter than the sidebar.
+        window.onload = function() {
+            var right=document.getElementsByClassName('cont_right')[0].offsetHeight;
+            right += 600; // about the height of the lazy loading twitter timeline
+            var left=document.getElementsByClassName('cont_left')[0].offsetHeight;
+            // window.alert("right: " + right)
+            // window.alert("left: " + left)
+            if (right > left)
+                document.getElementsByClassName('cont_left')[0].style.height=right + "px";
+        };
+    </script>
+</body>
+</html>
