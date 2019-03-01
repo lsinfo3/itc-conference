@@ -1,0 +1,37 @@
+---
+confdate: TODO
+title: ITC15 Conference
+---
+
+## ITC 15: Teletraffic Contributions for the Information Age
+
+![](/assets/Persistent/itc15-200x114.gif){:class="typo3-neos-alignment-right"}
+
+22.-27. June 1997, Washington D.C., USA
+
+General chairs: V.A. Bolotin, A.N Kashper<br/>
+TPC chairs: V. Ramaswami, P. E. Wirth<br/>
+Proceedings: [ITC digital library](/itc-library/itc15.html)
+
+## ITC 15 Awards
+
+IAC Lifetime Achievement Awards
+
+  * P. J. Burke
+
+  * J.W. Cohen
+
+
+
+## ITC 15 Facts
+
+  * Number of submissions: more than 300
+  * Accepted papers: 138
+
+
+
+## ITC 15 Proceedings
+
+Presented here are two volumes of extremely important technical contributions by the most esteemed researchers and practitioners of the teletraffic community. The papers have been refereed by international experts and have undergone the additional scrutiny of a team of knowledgeable and renowned experts on the Technical Program Committee of the International Traffic Congress (ITC), the premier and most influential international body in the development of teletraffic methods, theory and applications. ITC brings together researchers and practitioners from industries, government, and universities around the world. ITC is a leader in helping to solve the increasingly important network design, congestion management and control issues of the evolving information networking, including those of wireless, broadband, multi-media, and global networking.<br/>
+ITC 15, underscores the importance of teletraffic methods in the context of challenges ensuing from convergence of computing, communications and information technologies. Critical current issues as well as those on the horizon, both short-term and long-term are addressed.<br/>
+ITC is considered by the best researchers and practitioners in the field as the forum for publication and socialization of their important work. In all, 16 plenary and 122 contributed papers have been selected, based on expert reviews. These are indeed the cream of the crop, 138 of the more than 300 high-quality papers submitted. While the breadth and depth of the papers presented here truly bear testimony to the ITC's role and commitment in furthering the fields of teletraffic and performance analysis, their quality and timeliness will, we are certain, make these an archival volume of work for the future as well.

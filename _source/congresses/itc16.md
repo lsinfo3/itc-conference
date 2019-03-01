@@ -1,0 +1,35 @@
+---
+confdate: TODO
+title: ITC16 Conference
+---
+
+## ITC 16: Teletraffic engineering in a competitive world
+
+
+![](/assets/Persistent/itc16.gif){:class="typo3-neos-alignment-right"}
+
+7.-11. 1999, Edinburgh, UK
+
+General chairs: D. Songhurst, N. Milway<br/>
+TPC chairs: Peter Key, D. G. Smith<br/>
+Proceedings: [ITC digital library](/itc-library/itc16.html)
+
+Invited speakers: Scott Shenker, Francois Baccelli, Martin Cave and Alastair Urie.
+
+
+ITC16 will reflect three major themes:
+\- New Performance issues arising from the development of new technologies and the convergence of telecommunications and multimedia.
+\- The impact of an increasingly competitive market.
+\- The Gathering pace of technical development.
+
+
+## ITC 16 Awards
+
+  *  **Best Student Paper Award** : _"An Approach to Routing Elastic Flows"_ by Sara Oueslati-Boulahia and Eliane Oubagha
+
+
+
+## ITC 16 Facts
+
+  * Accepted papers: 131
+

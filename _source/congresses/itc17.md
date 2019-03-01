@@ -1,0 +1,50 @@
+---
+confdate: TODO
+title: ITC17 Conference
+---
+
+## ITC 17: Teletraffic engineering in the Internet era
+
+![](/assets/Persistent/itc17-2.gif){:class="typo3-neos-alignment-right"}
+
+2.-7. December 2001, Salvador da Bahia, Brazil
+
+General chairs: Carlos Alberto Costa Nunes, Marcos Bafutto<br/>
+TPC chairs: Jorge Moreira de Souza, Nelson L. S. da Fonseca, E. de Souza e Silva<br/>
+Proceedings: [ITC digital library](/itc-library/itc17.html)
+
+The 17th International Teletraffic Congress (ITC17) has been held on 2-7 December 2001 in Salvador da Bahia, Brazil. Initially foreseen Mid-September, this congress was shifted due the 9/11 events in the USA.<br/>
+97 papers have been finally presented both in Plenary and Technical Sessions.<br/>
+ITC 17 presents recent developments on teletraffic science and engineering, especially on traffic modelling and control of the Internet (TCP/IP), Wireless and Multimedia Networks. Moreover, it presents new queueing and optimisation methods applied to the planning and control of the telecommunications networks.
+
+## ITC 17 Awards
+
+  *  **Best Student Paper Award** : _"Some observations on equation-based rate control"_ by Milan Vojnović, Milan and Jean-Yves Le Boudec
+
+
+
+
+## ITC 17 Facts
+
+  * Number of submissions: 272
+  * Accepted papers: 98
+
+
+
+## ITC 17 Postponed: A note from the ITC 17 Organizing Committee
+
+Mon, 17 Sep 2001
+
+
+_Dear Colleagues and Delegates of ITC 17,
+
+The Organizing Committee of ITC 17 has, jointly with the International dvisory Council (IAC) of ITC, decided to postpone ITC 17. We regret to inform you about this decision which will cause a lot of inconveniences for all of us.<br/>
+The decision has been made with respect to the security of ITC delegates from overseas due to the uncertain political situation after the terroristic attacks in the USA. In this situation the risk can hardly be estimated, but security must have priority. This decision was hard but we hope you will understand it. We all have highest sympathy with the victims, their relatives and with the people of the USA after this tragedy. Our US colleagues will be assured that we share their mourning and that we stay together as a family.<br/>
+We work towards another date for ITC 17, which is likely December 2-7, 2001. The conference site and hotel bookings will be maintained. The new date will be confirmed soon so that you can make corresponding flight arrangements. Most airline carriers will probably be able to change your reservation at a reasonable additional fee in case of tourist class tickets. The Organizing Committee will try to keep eventual additional airline costs as small as possible.<br/>
+For more information please check with our homepage and with the IAC homepage which will be updated to inform you continuously.<br/>
+We hope you will understand our position. We also hope that life will return to normal soon so that we can welcome you here in Brazil.<br/>
+It is very important for us that you confirm the reception of this message to the ITC 17 Secretariat.<br/>
+We would appreciate your help in broadcasting this message to people which you know are planning to attend ITC 17.
+
+Bests Regards<br/>
+ITC 17 Organizing Committee_

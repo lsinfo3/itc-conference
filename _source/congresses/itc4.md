@@ -1,0 +1,55 @@
+---
+confdate: TODO
+title: ITC4 Conference
+---
+
+## ITC 4: The Fourth International Teletraffic Congress
+
+15.-21. July 1964, London, UK
+
+Report of the Proceedings of the Fourth International Teletraffic Congress<br/>
+Proceedings: [ITC digital library](/itc-library/itc4.html)
+
+## ITC 4 Facts
+
+  * Number of papers: 60
+  * Number of participants: 179
+  * Countries of participants: 22
+
+
+
+## Report by Prof. E. C. Cherry
+
+Broadly speaking, teletraffic studies cover the relations between telephone-exchange operation and subscribers' behaviour. People's telephone habits, both at home and in business, follow certain patterns which may be discussed as probabilities and which can result in certain delays and frustrations, represented by 'queuing' of excess call demands at exchanges and of 'congestion' of the exchanges. These factors are of considerable social importance today, with the very rapidly growing usage of telephones for both inland and overseas purposes, and the mathematical studies have, as their broad aim, understanding of the relations between the different principles of operation of various types of exchange, their interconnection by networks, their capacities, the probabilities of faults occurring, the traffic-demand patterns, the queuing of calls and waiting times. Again, there are overriding conditions of economics, in capital costs, in earning capacity, in operation and in maintenance; there is also the most important question, so easily overlooked by the layman, of expansion of networks and exchanges, with the 'explosive' demands occurring in all the advanced countries today. Telephone systems must evolve; they cannot lightly be scrapped.
+
+
+The 4th International Teletraffic Congress was held at Savoy Place from the 15th-21st July 1964. This was in accordance with the invitation extended at the previous congress in 1961 in Paris by the Telecommunication Engineering and Manufacturing Association of Great Britain (TEMA) and the British Post Office. This congress is governed by a permanent international advisory council, under the chairmanship of Prof. Arne Jensen. Mr. E. P. G. Wright, the British member, acted as chairman of the London Organising Committee. The congress was opened by Sir Robert Harvey, deputy director-general of the British Post Office. The congress had as its general field of study 'the application of the theory of probabilities to telecommunication engineering and administration'. Altogether, about 50 papers were read and some half-dozen others presented instead, in the course of ten sessions. The papers, in the short form in which they were presented, together with discussions, will be published in a special issue of the Post Office Telecommunications Journal.
+
+### Mathematician's paradise
+
+The papers fell into three broad classes:
+
+  * general mathematical theory
+  * systems already existing
+  * future needs and possibilities.
+
+
+
+
+The mathematical theory has been developed to a very sophisticated extent; the subject is, indeed, a mathematician's paradise. One principal reason is that, because subscribers' call demands are more or less independent of one another, a Poisson distribution may be assumed and mathematical models may be set up which have real relation to practice. Telephone traffic is utterly different from motor traffic and its theory has leaped ahead. However, call demands are not entirely independent, and this fact is now recognised by those theoreticians who have more interest in improving the telephone service than in stretching nature to fit mathematical tractability. One thing that stood out at this congress was that computers have come to save the day; they have put the whole subject onto a new level of utility. Experimental telephone exchanges would be very expensive: computers can simulate them. We can, in addition, observe the actions of existing exchanges. For the practical purpose of setting up new exchanges, only a limited accuracy may be needed, rather than the rigour of exact analysis, because only an approximate value of the traffic demands may be known. The majority of the papers referred to the use of computers. But analysis certainly has its place. Several papers dealt with general theory, for guidance to future policy. Thus, in **Session 3** , Syski dealt with systems of interconnected exchanges as a topological problem and with probability measures and utilities (costs) which decide the economics; but his paper gave theorems and long-term guidance rather than immediate assistance to engineers struggling to get the best out of existing systems. The paper by Benes, and others in this session, were also theoretical, dealing particularly with queuing theory —a subject to which probability theory is particularly applicable.
+
+
+Probability theory was used in **session 4** in quite another way. Thus Christiansen of Denmark applied it to faults and to subscribers' complaints, whilst Lind of Sweden also dealt with faults and component reliability. Reliability, as all communication engineers know, is probably the most important factor in all systems today as their scale and complexity increase and as exchanges and other systems become unattended. Bryan and Knight, of Britain, compared an exchange system to a computer, suggesting the need for, perhaps, triplication of elements, with 'majority decisions' to locate faults. Stormer of Germany also dealt with reliability.<br/>
+Session 7 dealt with overflow conditions which also render inadequate the assumption of randomness, thereby restricting analysis. Mathematics becomes very difficult, and, according to assumptions, results tend to vary. There is clearly a great scope for further research in this field. C. F. Best, of the Post Office, made a useful descriptive analysis of possible causes of non-randomness of telephone demands. Two simple causes quoted were that any subscriber has only a limited number of acquaintances and that many sources of traffic are affected collectively (owing, for example, to Stock Exchange activity, or to special functions of different days of the week).<br/>
+One answer to congestion and overflow is alternative routing of traffic. Ideally this might spread the traffic more uniformly over the existing trunk lines and so raise the economy and efficiency of systems. Wilkinson, of the United States, presented an excellent paper on this subject which offers much for future research and practical application. Mina, also of the United States, presented another most valuable paper, practical and not self-conscious with mathematical rigour. It was the three **sessions (3, 4 and 7)** which have been mentioned that seem to the writer to be the most important and forward-looking of the whole Congress.
+
+
+### Diversity of principles
+
+
+One thing that cannot fail to be evident at a conference on telephones is the variety of principles of exchange design that are in use; different countries and different manufacturers expound the charms of their own offspring, like mothers at a baby show. The difficulty of adjudication is aggravated because they do not all seem to speak the same language. **Sessions 1, 2 and 8** particularly brought the different exchange principles to the front, dealing with existing systems and their traffic-handling properties. Electronic exchanges were given less attention than one might have hoped; however, Bear and Warman discussed them in **session 2** with reference to the 3000-line Post Office 'space division' exchange, which is being installed at Leighton Buzzard, and tests made using a digital computer to simulate traffic. Another British contribution to this subject was by Duerdoth and Walker, who referred especially to the problems of time-division exchange synchronisation if the signals are to be preserved in digital form.<br/>
+Telephones always involve people. All this analysis, computation and theory is directed to giving the customer his telephone calls with minimum delays, with minimum errors and at the cheapest rate. The ultimate criterion is what has been termed 'grade of service'. **Session 9** was devoted entirely to this concept and its difficulties. Reference here will be made only to the paper by E. P. G. Wright, chairman of the British Organising Committee, presenting the conclusions and recommendations of Working Party 5 of the CCITT Study Group XIII upon this criterion.
+**Session 10** was brief, being a formal presentation of the recommendations of the Nomenclature and the Bibliography Committees, and the ceremony of closing the Congress by Sir Ronald German, C.M.G., Director General of the British GPO.
+
+
+

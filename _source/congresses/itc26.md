@@ -1,0 +1,33 @@
+---
+confdate: TODO
+title: ITC26 Conference
+---
+
+## ITC 26: Teletraffic Contributions Towards a Sustainable World
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+09.-11. September 2014, Karlskrona, Sweden
+
+
+General chairs: Åke Arvidsson, Ulf Körner<br/>
+TPC chairs: Hiroshi Saito, Markus Fiedler<br/>
+Local chairs: Dragos Ilie, Patrik Arlos<br/>
+Homepage: <http://www.itc26.org/><br/>
+Proceedings: [ITC digital library](/itc-library/itc26.html)
+
+## ITC 26 Awards
+
+  *  **Arne Jense Lifetime Achievement Award** : Onno J. Boxma
+  *  **Best Paper Award** : "Energy-aware Job Assignment in Server Farms with Setup Delays under LCFS and PS" by Esa Hyytiä, Rhonda Righter and Samuli Aalto
+  *  **Best Student Paper Award** : "Catalog Dynamics: Impact of Content Publishing and Perishing on the Performance of a LRU Cache", by Felipe Olmos, Bruno Kauffmann, Alain Simonian, Yannick Carlinet
+
+
+
+## ITC 26 Facts
+
+  * Number of submissions: 72
+  * Accepted papers: 27
+  * Acceptance rate: 38%
+  * Number of participants: 103
+

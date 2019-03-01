@@ -1,0 +1,39 @@
+---
+title: Special Issue of Computer Networks on “Traffic and Performance in the Big Data Era”
+---
+
+The [27th ITC in Ghent 2015](http://www.itc27.org/ "Opens external link in new window") is organizing a special issue of the journal Computer Networks on "Traffic and Performance in the Big Data Era". The SI will contain a selection of 3-4 papers from ITC 27 and papers selected from an [open call](http://www.journals.elsevier.com/computer-networks/call-for-papers/special-issue-of-computer-networks-on-traffic-and-performanc/ "Opens external link in new window").
+
+With the emergence of the Internet of Things, the number of devices being connected to the Internet is steadily growing and huge amounts of data are being generated worldwide. Big data brings new traffic and performance related challenges and calls for a deep revisit of the methodological tools that were traditionally used for performance evaluation and traffic engineering. New models and approaches are needed to investigate big data characteristics in terms of volume, velocity and variability and their impact on network performance; new solutions have to be designed to efficiently and securely manage information; new techniques are needed to support all phases of network planning, design and optimization. The scope of this Special Issue of Computer Networks reflects these challenges aiming at providing innovative contributions in this field. In the context of big data, we are interested in new methodologies and mode ling techniques, as well as new solutions; topics of interest include but are not limited to:
+
+  * Traffic measurement, network planning and management in the Big Data Era
+  * Impact of the Internet of Things- Use of Software-Defined Networking for the Big Data challenges
+  * Big Data traffic modeling and management- Simulation methods and tools
+  * Pricing, billing and business models
+  * Traffic and performance monitoring in the Big Data environment
+  * Anomaly and DoS attack detection
+  * Privacy and trust
+
+
+
+Schedule
+
+
+  * Submission deadline: September 30th, 2015
+  * Author notification: January 15th, 2015
+  * Revised paper due: February 15th, 2016
+  * Final author notification: April 1st, 2016
+  * Publication: mid 2016
+
+
+
+Guest-editors are the TPC co-chairs from ITC 27
+
+  * Sabine Wittevrongel (Ghent University, Belgium)
+  * Michela Meo (Politecnico di Torino, Italy)
+  * Catherine Rosenberg (University of Waterloo, Canada)
+
+
+
+
+Call for Paper: <http://www.journals.elsevier.com/computer-networks/call-for-papers/special-issue-of-computer-networks-on-traffic-and-performanc/>

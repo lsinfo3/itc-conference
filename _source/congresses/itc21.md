@@ -1,0 +1,32 @@
+---
+confdate: TODO
+title: ITC21 Conference
+---
+
+## ITC 21: Traffic and Performance Issues in Networks of the Future
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+15.-17. September 2009, Paris, France
+
+General chairs: Prosper Chemouil, Daniel Kofman<br/>
+TPC chairs: Fabrice Guillemin, Michael Menth<br/>
+Local chairs:<br/>
+Homepage: <http://www.itc21.net/><br/>
+Proceedings: [ITC digital library](/itc-library/itc21.html)
+
+## ITC 21 Awards
+
+  *  **Arne Jensen Lifetime Achievement Award** : Paul J. Kühn
+  *  **Best Paper Award** : "A New Statistical Approach to Estimate Global File Populations in the eDonkey P2P File Sharing System" by Sanja Petrovic and Patrick Brown
+  *  **Best Student Paper Award** : "Maximum Weight Independent Sets in an Infinite Plane" by Jarno Nousiainen, Jorma Virtamo and Pasi Lassila
+
+
+
+## ITC 21 Facts
+
+  * Number of submissions: 174
+  * Accepted papers: 58
+  * Acceptance rate: 33%
+  * Number of participants: 139
+

@@ -1,0 +1,140 @@
+---
+confdate: TODO
+title: ITC29 Conference
+---
+
+## ITC 29: Ubiquitous, software-based, and sustainable networks and services
+
+4 - 8 September 2017, Genoa, Italy
+
+General chairs: Franco Davoli, Nikhil Jain<br/>
+TPC chairs: Raffaele Bolla, Florin Ciucu<br/>
+Homepage: <http://itc29.org/>[
+](https://itc28.org/en/gallery.html)
+
+## ITC 29 Program in a Nutshell
+
+![](/assets/Persistent/Scoglio_mille-249x167.jpg){:class="typo3-neos-alignment-right"}
+
+**Keynotes:**
+
+  * John Daigle (University of Mississippi, USA) Performance Perspective on Function Virtualization for Small Cells in 5G cellular Networks
+
+  * Melissa Frank (Google, USA) Journey into an Emerging Product Space: Building Android Wear
+
+  * Giuseppe Bianchi (University of Rome Tor Vergata, Italy) Data Plane Programmability: the Next Step in Software Defined Networking
+
+
+
+
+
+**Sessions:** Resource Allocation, Wireless, Big Data Analytics, Performance Modelling, Demos and Tools, Virtualization and Measurements, Monitoring, Caching, Queueing
+
+ **Workshop:** Three workshops are co-located at ITC 29. ****
+
+  * [ICT Standards Workshop](https://itc29.org/en/workshops/ITC.html): Workshop on Information and Communication Technology (ICT) Standards
+  * [COST ACROSS Workshop](https://itc29.org/en/workshops/CostAcross.html): "Management & Control for Reliable Softwarized Networks"
+
+  * [Soft 5G Workshop](https://itc29.org/en/workshops/5g.html): First International Workshop on Softwarized Infrastructures for 5G and Fog Computing
+  * [PhD Workshop](https://itc29.org/en/workshops/PHD.html): “Modelling Communication Networks” at ITC 2017
+
+
+
+
+
+## Arne Jensen Lifetime Award
+
+
+The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) is pleased to announce that the recipient of the 2017 Arne Jensen Lifetime Award is Prof. Dr. Hans van den Berg for his huge contribution to teletraffic research and exceptional dedication to the ITC organization and community.
+
+Recipient of the 2017 Arne Jensen Lifetime Award: [Prof. Dr. Hans van den Berg](/bio/hans-van-den-berg.html)
+
+## ITC 29 Best Paper Awards
+
+  * Best Paper Award
+    * Zaid Allybokus, Konstantin Avrachenkov, Jeremie Leguay, Lorenzo Maggi, _["Real-Time Fair Resource Allocation in Distributed<br/>
+Software Defined Networks"](/assets/Persistent/Real-Time Fair Resource Allocation in Distributed Software Defined Networks.pdf)_
+
+  * Best Student Paper Award
+    * Gaetano Manzo, Marco G. Ajmone Marsan, Gianluca A. Rizzo, _["Performance Modelling of Vehicular Floating Content in Urban Settings”](/assets/Persistent/Performance Modelling of Vehicular Floating Content in Urban Settings.pdf)_
+
+
+
+
+## ITC 29 Facts
+
+  * Number of (full paper) submissions: 91 (94 including 3 demo papers)
+  * Accepted papers: 28 (+2 short demo papers)
+  * Acceptance rate: 31%
+  * Number of participants: 71
+  * Student Travel Grants (sponsored by IAC): 5
+
+
+
+## Welcome Message from ITC 29 General Chairs
+
+On behalf of the Organizing Committee, we are delighted to welcome you to the 29th International Teletraffic Congress (ITC 29), to be held on September 5-7, 2017, along with related Workshops on September 4 and 8, in Genoa, Italy!
+
+Established in 1955, ITC has gathered a lively and active community that has been at the forefront of the evolution of communications and networking over the years, focusing on all aspects of teletraffic engineering: from design, management and control of telecommunication networks to their performance evaluation through analytical modelling, measurements and experimental test beds. All types of networking and telecommunication systems have been touched in this long period, including wired and wireless, fixed and mobile, and spanning all architectural protocol layers, always with a characterization blending technological advancements and mathematical rigour.
+
+In the continuous evolution of the field, we have now come to the ongoing "softwarization" process in networks, along with hardware capability and new services, which is setting the pace for a tighter integration between computing and telecommunications technologies. At the same time, 5G and IoT are coming on the scene and will produce an unprecedented growth in wireless access and data generation. According to some estimates, there might be 25 billion connected "things" by 2020. The exponential growth of IoT nodes, flexibility in service provisioning and programmability are making networks more complex to manage and operate. In addition, network design presents new challenges, raised by ultralow power consumption requirements of IoT nodes and by the use of less energy-efficient general-purpose hardware. The new paradigms will affect and shape the statistical features of teletraffic, along with its performance analysis and control. With this perspective in mind, ITC 29 has focused on the topic of Ubiquitous, software-based, and sustainable networks and services.
+
+This year’s ITC technical program is composed of 30 contributed full papers to be presented in a single-track session, three keynote addresses and a demo session. We also sponsor a PhD Workshop on "Modelling Communication Networks", and three workshops dedicated to more specific timely topics: Workshop on Information and Communication Technology (ICT) Standards, ACROSS COST Action Workshop on “Management & Control for Reliable Softwarized Networks”, and the 1st International Workshop on Softwarized Infrastructures for 5G and Fog Computing (Soft5 2017). A tutorial on network survivability will be given by Poul E. Heegaard from NTNU, Norway and Kishor S. Trivedi from Duke University, USA.
+
+Special thanks go to the keynote speakers Melissa Frank from Google, USA, Giuseppe Bianchi from the University of Rome Tor Vergata, Italy, and John Daigle, from the University of Mississippi, USA. We also thank the ITC’s International Advisory Committee (IAC) for their support of student travel grants and best paper awards. We would also like to extend our thanks to the Technical Program Co-Chairs, Raffaele Bolla and Florin Ciucu; to the Workshops Chair Markus Fiedler; to the Publications Co-Chairs Tobias Hoßfeld (also member of the Awards Committee) and Thomas Zinner; to the Award Co-Chairs Prosper Chemouil and Luigi Fratta; to the Publicity Co-Chairs, Oliver Hohlfeld, Dan Li, and Nguyen Huu Thanh. Riccardo Rapuzzi has taken care of EDAS configuration and of all related issues, and Marco Garré has constantly kept the website updated: we heartily thank them for their effort. Last but not least, our thanks go to the Area Chairs, the TPC members and the authors.
+
+Franco Davoli (University of Genoa, Italy)<br/>
+Nikhil Jain (Qualcomm Technologies, USA)<br/>
+September 2017
+
+
+## Welcome Message from ITC 29 Technical Program Co-Chairs
+
+On behalf of the Technical Program Committee, we are delighted to welcome you to ITC 29, the 29th International Teletraffic Congress. ITC 29 takes place between September 4th-8th, 2017 in Genoa, Italy.
+
+ITC boasts a rich tradition since its founding in 1955 and has evolved into one of the most reputable networking conferences with a particular emphasis on rigorous methodology. Over more than 50 years ITC has provided a forum for leading researchers from academia and industry to present and discuss key technological and methodological advances in the design, performance evaluation and control of communication networks, protocols and applications and in traffic measurement and management. ITC 29 continues this tradition by featuring the theme “Ubiquitous, software-based, and sustainable networks and services”, which is well aligned with the ongoing “softwarization” process in networks as well as the ever increasing hardware capabilities and new services.
+
+In terms of organization, ITC 29 adopted the thematic “Areas” model which was first implemented by the previous ITC 28 with noticeable success. Each Area was run by an individual Technical Program Committee whose expertise best suited the Area’s topics. ITC 29 was structured into five regular Areas and one Demo Session:
+
+  * Area 1: Networking, Cloud/Fog/Ubiquitous Computing, and Applications (incl. energy, multimedia, security, privacy)<br/>
+Chairs: Steve Uhlig (QMUL, UK) and CedricWestphal (UC Santa Cruz, USA)
+  * Area 2: Future Internet Architectures (incl. SDN, NFV, HPC, ICN, CCN)<br/>
+Chairs: Marco Canini (KAUST, KSA) and KK Ramakrishnan (UC Riverside, USA)
+  * Area 3: Wireless Networks and Applications (incl. 5G, IoT)<br/>
+Chairs: Antonio Capone (Politecnico di Milano, Italy) and Jianwei Huang (Chinese University of Hong Kong, HK)
+  * Area 4: Measurements and Big Data Analytics (incl. characterization, monitoring, debugging, fault-tolerance, reliability, forensics, simulation, QoE)<br/>
+Chairs: Pedro Casas (AIT Austrian Institute of Technology, Austria) and Dario Rossi (Telecom ParisTech, France)
+  * Area 5: Performance Evaluation, Control, and Optimization (incl. queueing, game theory, machine learning)<br/>
+Chairs: Nicolas Gast (INRIA, France) and Zhi-Li Zhang (University of Minnesota, USA)
+  * Demo Session<br/>
+Chairs: Artur Hecker (Huawei, Germany), Rick McGeer (SAP Americas Labs, USA), and Chuan Wu (University of Hong Kong, HK)
+
+
+
+ITC 29 attracted 94 paper submissions across all areas and with authors from 32 different countries, out of which 80% were from Europe/Middle East/Africa, 10% from the USA and Canada, 9% from Asia/Pacific, and 1% from Latin America.
+
+Each submitted paper was reviewed by at least three experts manually assigned by the Area and TPC chairs. In special cases, when the discussion of reviewers did not converge, additional expert reviews were requested. In total, there were 375 completed reviews for the 94 submitted papers, i.e., an average of 3.98 reviews per paper. The area chairs and TPC members fostered discussions to converge the reviewers’ recommendations towards a decision. The area chairs provided a ranked list of papers with suggestions for papers to be either accepted, rejected, or further discussed.
+
+A full-day TPC meeting was held at Politecnico di Milano, Italy, on May 22nd, 2017. The purpose of the meeting was to jointly discuss the lists provided by the Area Chairs, and especially to make final decisions accounting for the Areas altogether. The TPC decided to accept 30 out of the 94 submitted papers, with the overall acceptance rate of 32% and the following distribution:
+
+
+  *  _Area: Accepted / Submitted_
+
+  * Area 1: 4 / 14
+
+  * Area 2: 4 / 14
+  * Area 3: 4 / 18
+  * Area 4: 7 / 20
+  * Area 5: 9 / 25
+  * Demos 2 3
+
+
+
+
+The accepted papers are to be presented during the main conference in a single-track format. A selection of the best papers will be published by the international scientific journal Computer Networks in a special issue, after being subject to an additional refereeing process according to the journal’s standards.
+
+ITC 29 was possible by the significant effort of many people to whom we would like to express our sincere gratitude. Researchers submitted interesting technical papers; TPC members and reviewers ensured a high quality of the reviewing process; keynote speakers have provided additional value to the conference. We are also grateful to the members of the International Advisory Council (IAC) of the ITC for their support, and also to Politecnico di Milano for kindly agreeing to host the PC meeting. We further express our special thanks to all co-chairs of the various activities and committees, and to the sponsors. We finally thank all attendees, whose participation is always essential to the success of the conference.
+
+Raffele Bolla (University of Genoa, Italy)<br/>
+Florin Ciucu (University of Warwick, UK)<br/>
+September 2017

@@ -1,0 +1,13 @@
+---
+confdate: TODO
+title: ITC9 Conference
+---
+
+## ITC 9: The Ninth International Teletraffic Congress
+
+16.-24. October 1979, Torremolinos, Spain
+
+Number of accepted papers: 151<br/>
+Proceedings: [ITC digital library](/itc-library/itc9.html)
+
+![](/assets/Persistent/itc09-small.png)

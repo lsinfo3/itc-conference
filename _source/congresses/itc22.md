@@ -1,0 +1,32 @@
+---
+confdate: TODO
+title: ITC22 Conference
+---
+
+## ITC 22: The 22nd International Teletraffic Congress
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+7.-9. September 2010, Amsterdam, The Netherlands
+
+General chairs: Hans van den Berg, Rob van der Mei<br/>
+TPC chairs: Sem Borst, Michel Mandjes, Mark Squillante<br/>
+Local chairs: Marko Boon, Susanne van Dam<br/>
+Homepage: <http://www.itc22.com/><br/>
+Proceedings: [ITC digital library](/itc-library/itc22.html)
+
+## ITC 22 Awards
+
+  *  **Arne Jensen Lifetime Achievement Award** : James W. Roberts
+  *  **Best Paper Award** : "Balancing SRPT Priorization vs Opportunistic Gain in Wireless Systems with Flow Dynamics" by Bilal Sadiq and Gustavo de Veciana
+  *  **Best Student Paper Award** : "Fastrack for Taming Burstiness and Saving Power in Multi-Tier Systems" by Andrew Caniff, Lei Lu, Ningfang Mi, Lucy Cherkasova and Evgenia Smirni
+
+
+
+## ITC 22 Facts
+
+  * Number of submissions: 97
+  * Accepted papers: 35
+  * Acceptance rate: 36%
+  * Number of participants: 120
+

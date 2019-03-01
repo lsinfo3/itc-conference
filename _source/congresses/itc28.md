@@ -1,0 +1,160 @@
+---
+confdate: TODO
+title: ITC28 Conference
+---
+
+## ITC28: Digital Connected World
+
+12.-16. September 2016, Würzburg, Germany
+
+General chairs: Phuoc Tran-Gia, Hisashi Kobayashi<br/>
+TPC chairs: Tobias Hossfeld, Andreas Timm-Giel, Gary Chan, Brian Mark<br/>
+Homepage: <http://itc28.org/><br/>
+Proceedings: [ITC digital library](/itc-library/itc28.html)<br/>
+Photos:[ ITC 28 Gallery](https://itc28.org/en/gallery.html)
+
+
+## ITC 28 Program in a Nutshell
+
+![](/assets/Persistent/2016-09-12_11-29-36-HDR-249x166.jpg){:class="typo3-neos-alignment-right"}
+
+**Keynotes:**
+
+  * Nikhil Jain (Vice President of Technology, Qualcommm Technologies, Inc.): Internet of Everything: Engineering Challenges and Opportunities
+  * Wolfgang Kellerer (Technical University of Munich (TUM), Germany): Towards flexible networking in dynamically changing environments
+  * Eitan Altman (INRIA Sophia Antipolis, France): Dynamic games for analyzing competition in the Internet
+
+
+
+**Sessions:** Clouds and Data Center, Traffic and Network Management, Wireless, Cellular, Video Streaming, Caching Strategies, Performance Analysis, Demo Session, Softwarization, Information and Social Networks, Measurements, Caching, Virtualization
+
+ **
+**
+
+ **Workshop: Three workshops are co-located at ITC 28.**
+
+  *  **[2016 International Workshop on Quality of Experience Centric Management (QCMan)](https://itc28.org/en/schedule/workshop-qcman.html)**
+  *  **[Workshop on Programmability for Cloud Networks and Applications (PROCON)](https://itc28.org/en/schedule/workshop-procon.html)**
+  *  **[Workshop of COST Action ACROSS on "Quality Engineering for a Reliable Internet of Services"](https://itc28.org/en/schedule/workshop-across.html)**
+
+
+
+
+
+![](/assets/Persistent/2016-09-12_11-27-52-3-HDR-300x200.jpg){:class="typo3-neos-alignment-center"}
+
+## ITC 28 Awards
+
+  *  **Best Paper Award**
+    * [ _"Access-time Aware cache Algorithms"_ by Giovanni Neglia; Damiano Carra; Mingdong Feng; Vaishnav Janardhan; Pietro Michiardi; Dimitra Tsigkari](https://itc28.org/en/schedule/accepted-papers/area4-paper7.html)
+  *  **Best Student Paper Award**
+    * [ _"Port Based Capacity Extensions (PBCEs): Improving SDNs Flow Table Scalability"_ by Robert Bauer; Martina Zitterbart ](https://itc28.org/en/schedule/accepted-papers/area4-paper3.html)
+  * **Best Demo Award**
+    * [ _"Self-Optimization of Software Defined Radios Through Evolutionary Algorithms"_ by Zubair Shaik; André Puschmann; Andreas Mitschele-Thiel](https://itc28.org/en/schedule/accepted-papers/demos-paper3.html)
+
+
+
+## Arne Jensen Lifetime Award
+
+
+The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) is pleased to announce that the recipient of the 2016 Arne Jensen Lifetime Award is Prof. Dr.-Ing. Phuoc Tran-Gia for his huge contribution to teletraffic research and exceptional dedication to the ITC organization and community.
+
+Recipient of the 2016 Arne Jensen Lifetime Award: [Prof. Dr.-Ing. Phuoc Tran-Gia](/bio/phuoc-tran-gia.html)
+
+## ITC 28 Facts
+
+  * Number of (full paper) submissions: 108
+  * Accepted papers: 36
+  * Acceptance rate: 34%
+  * Number of participants: 117
+  * Student Travel Grants (sponsored by IAC): 5 ****
+
+
+
+## Welcome Message from ITC 28 General Chairs
+
+On behalf of the Organizing Committee, we are delighted to welcome you to the 28th International Teletraffic Congress (ITC 28) to be held on September 12-16, 2016 in lovely Würzburg, Germany!<br/>
+Since its inception in 1955, ITC has witnessed the evolution of communications and networking: the influence of computer science on telecommunications, the advent of the Internet and the massive deployment of mobile communications and optics, the emergence of peer-to-peer networking and social network services, the ever increasing speed and flexibility of new communication technologies, networks, devices, and applications, and the ever changing operational challenges arising from these developments. ITC has also documented this evolution with state-of-the-art measurement studies, performance analyses of new technologies, recommendations for provisioning and configuration, and greatly contributed to the advancement of methodologies for network design and analysis.<br/>
+Its inherent roots in solid methodological foundations has allowed ITC to constantly adapt its technological focus without losing its original identity. ITC continues to serve as a broad and lively community for researchers and practitioners dedicated to advancing the limits of knowledge in networking. As such, ITC regularly organizes such events as congresses, specialist seminars and workshops for experts to gather and discuss the latest developments in design, modelling, and performance evaluation of communication systems, networks, and services.<br/>
+This year’s ITC technical program is composed of 37 contributed full papers and 6 short demo papers to be presented in two parallel sessions, three keynote addresses and a demo session. We also sponsor three workshops dedicated to timely topics: Workshop on Programmability for Cloud Networks and Applications (PROCON), 2016 International Workshop on Quality of Experience Centric Management (QCMan), COST Action ACROSS Workshop on "Quality Engineering for a Reliable Internet of Services."<br/>
+We are especially grateful to our keynote speakers: Dr. Nikhil Jain (Qualcomm Technologies), who will talk on “Internet of Everything: Engineering Challenges and Opportunities”; Prof. Wolfgang Kellerer (Technische Universität München), who will talk on “Towards flexible networking in dynamically changing environments”; and Dr. Eitan Altman (INRIA Sophia Antipolis), who will talk on “Dynamic games for analyzing competition in the Internet.”<br/>
+We also thank ITC’s International Advisory Committee (IAC) for their support of student travel grants and best paper awards. The IAC has graciously decided to offer a number of travel grants available to full-time students. ITC 28 has set up three prestigious awards. The Best Paper Award will be granted to the best contribution presented at ITC 28. The Best Student Paper Award will be conferred upon the best paper whose first author is a full-time student at the time of submission of the paper and is the presenter. The Best Demo Award will be granted to the best demo presented during the ITC 28 meeting. These awards will be selected based on scientific merit and oral presentation or demo presentation quality.<br/>
+A successful conference requires dedication and engagement of many people. We would like to recognize the efforts of the TPC Co-Chairs, Professors Tobias Hoßfeld, Brian Mark, Gary Chan and Andreas Timm-Giel, who put together this excellent technical program. We thank Mrs. Alison Wichmann for the local arrangements, Dr. Matthias Hirth and Dr. Florian Wamser, Local Organization Co-Chairs, as well as Mr. Christopher Metter and Dr. Florian Metzger, Web & EDAS Co-Chairs. Dr. Prosper Chemouil as Award Chair reviewed the student travel grant applications and will lead the best paper award selection process. Our Publicity Co-Chairs, Prof. Florin Ciucu and Prof. Sheng Zhou, disseminated information about ITC 28 throughout the world. Our Publication Co-Chairs, Prof. Jörg Liebeherr and Prof. Michael Menth, organized the publications with the CPS publisher.<br/>
+Our thanks also go to Dr. Florian Wamser, Dr. Roberto Bruschi and Dr. Anastasios Zafeiropoulos for organizing the PROCON workshop; Dr. Thomas Zinner, Dr. Oliver Hohlfeld, Dr. Raimund Schatz, and Prof. Prasad Calyam for organizing the QCMan workshop; Prof. Hans van den Berg and Prof. Rob van der Mei for organizing the ACROSS workshop.<br/>
+We greatly appreciate everyone who submitted papers to the conference, particularly those who will be presenting their work at ITC 28. The IEEE, IEEE Communications Society, and the Information Technology Society within VDE (ITG VDE) kindly agreed to technically co-sponsor ITC 28, and ACM SIGCOMM helped us through their in-cooperation agreement.<br/>
+Last, but not least, we are grateful to our corporate patrons: Infosim, kubusIT, and Orange, who generously provided financial support to ITC 28,as well as the Julius Maximilian Universität Würzburg for their support in organizing and hosting the conference.
+
+
+
+Phuoc Tran-Gia (University of Würzburg, Germany)<br/>
+Hisashi Kobayashi (Princeton University, USA)<br/>
+September 2016
+
+## Welcome Message from Technical Program Co-Chairs
+
+Welcome to Würzburg and the 28th International Teletraffic Congress (ITC 28).
+
+The evolution of communication and networking is changing the world we are living in. The digital connected world is triggered by the advances on telecommunications, the penetration of the Internet, the massive deployment of mobile communications and optics, the adoption of collaborative networking and social networks, the ever-increasing speed and flexibility of new communication technologies, networks, user devices, and applications, and various operational challenges arising from this development.
+
+ITC was established as the first international conference on networking science and practice. It gathers a wide and lively community of researchers and practitioners dedicated to pushing the envelope in the area of networking. As such, ITC has provided a forum for leading researchers from academia and industry to present and discuss the latest changes and developments in design, modelling, measurement, and performance evaluation of communication systems, networks, and services.
+
+ITC 28 has continued this tradition, while employing some new approaches to attract high-quality papers and researchers. In particular, ITC 28 introduced the concept of areas and a demo session. ITC 28 is structured into eight different areas which address hot topics in networking. Each area is chaired by two internationally well recognized experts in that area. The area chairs organized a smaller TPC per area. The idea was that the area chairs invited experts for their areas from the ITC community as well as other well-known experts worldwide. On the one hand, the concept was aimed at expanding the ITC community and attracting high-quality submissions. On the other hand, the areas helped to improve the quality of the review process. The area chairs assigned the reviews to experts in their domain and evaluate all papers in their domain.
+
+In addition, we introduced demo sessions for ITC 28 that cuts thematically across the areas. The demo session is distinguished from the regular sessions only in the presentation format. “Demo papers” are papers whose content is best understood by an audience if the material is demonstrated rather than presented in a lecture style slide presentation. With the demo session, we aimed to provide a different kind of interactions among the participants, so as to make ITC more attractive for other communities.
+
+Accordingly, ITC 28 is structured into the following eight different areas and demo session with the listed chairs:
+
+  * Area 1: Smart cities and IoT (Alberto Leon-Garcia, Yanmin Zhu)
+  * Area 2: Cloud services and networking (Arup Acharya, Patrick Lee)
+  * Area 3: Mobile, wireless and 5G (Kin Leung, Thomas Hou)
+  * Area 4: Next generation and future Internet architectures (Michael Zink, Thomas Zinner)
+  * Area 5: Network and traffic management (Florin Ciucu, Peter Reichl)
+  * Area 6: Network design and optimization (Thomas Bauschert, Eric Wong)
+  * Area 7: Network measurements and analysis (Marco Mellia, Mark Squillante)
+  * Area 8: Networked applications (Zhu Li, Lea Skorin-Kapov)
+  * Demonstration Session (Mark Berman, Michael Jarschel, Rick McGeer)
+
+
+
+ITC 28 attracted 116 international paper submissions across all areas, while 157 papers were registered. The 116 papers were submitted by authors from 33 different countries, out of which 20% were from the USA and Canada, 68% from Europe/Middle East/Africa, 11% from Asia/Pacific and the remainder from Latin America.
+
+Each submitted paper was reviewed by at least three experts assigned by the area chairs and TPC chairs. All papers are single-blind reviewed. In special cases, when the discussion of reviewers did not converge, additional expert reviews were requested to come to a solicited decision. In total, there were 420 completed reviews for the 116 submitted papers, i.e. an average of 3.6 reviews per paper. The area chairs and TPC members fostered discussions to converge the reviewers’ recommendations towards a decision. In total, 300 discussion posts were provided for papers with diverging review scores. The area chairs provided a ranked list of papers with suggestions for papers to be accepted and rejected.
+
+A full-day TPC meeting was held at the University of Würzburg, Germany, from 9.00 – 19.30 on May 3, 2016. The meeting was structured according to the areas. The area chairs presented the papers submitted to their area and the list of ranked papers.
+
+Based on the reviews and the recommendations from the area chairs, it was decided during the TPC meeting which papers were to be accepted or rejected per area. In addition, for each area a few reserve papers were identified. It should be noted that those papers were also good contributions. After the discussion of all areas, the reserve papers were discussed by the physically attending TPC members in Würzburg. The papers were evaluated and compared across different areas in order to identify the best papers from among the reserve papers. If an accepted paper was flagged as needing improvement, shepherding of such papers was initiated by the area chairs. Shepherding was led by the area chairs or a TPC member assigned to a particular area.
+
+Finally, 37 full papers were accepted out of the 108 full paper submissions, yielding an acceptance rate of 34%. In addition, 6 short demo papers were accepted. The statistics per area are given below. From among the authors of accepted papers, 28% are from USA and Canada, 61% from Europe/Middle East/Africa, 8% from Asia/Pacific and the remaining are from Latin America.
+
+Given the accepted papers, we then group the papers according to their topics. On behalf of the Technical Program Committee (TPC), we proudly present to you an excellent technical program covering a wide range of topics which are manifested in 12 technical oral sessions and a demo session.
+
+The technical program is presented in the form of double-track sessions spanning three days, from September 13 to 15, 2016. The demo session, the three keynote speeches, and two selected sessions are presented as plenary sessions. On the first day of the congress, September 12, 2016, a half-day workshop on Programmability for Cloud Networks and Applications (PROCON) takes place. On the final day of the congress, September 16, there are two full-day workshops: (1) 2016 International Workshop on Quality of Experience Centric Management (QCMan) and (2) Workshop of COST Action ACROSS on "Quality Engineering for a Reliable Internet of Services."
+
+We are delighted to have three excellent keynote speakers in the main program. We thank them for agreeing to be keynote speakers and presenting their visions in spite of their busy schedules.
+
+  * Nikhil Jain (Vice President of Technology, Qualcomm Technologies, Inc.): Internet of Everything: Engineering Challenges and Opportunities
+  * Wolfgang Kellerer (Technical University of Munich (TUM), Germany): Towards Flexible Networking in Dynamically Changing Environments
+  * Eitan Altman (INRIA Sophia Antipolis, France): Dynamic Games for Analyzing Competition in the Internet
+
+
+
+The TPC co-chairs wish to thank in particular, the area chairs who did a fantastic job and dedicated much effort to make ITC 28 a success. We thank the TPC members and experts that provided paper reviews, contributed to the discussions and attended the TPC meeting for the conference. Without their diligence and hard work the program could not have been put together. And, of course, we thank everyone who submitted a paper and those who are presenting their work at the conference.
+
+Further we wish to give special thanks to the University of Würzburg for hosting the TPC meeting and we are particularly indebted to Thomas Zinner for his willingness to help in all aspects of organizing ITC 28. Special thanks for their efforts in the TPC meeting are dedicated to Benny Van Houdt, Florin Ciucu, and Michael Zink. We thank the members of the ITC steering committee, particularly Michela Meo for providing guidance. Last but not least we wish to thank the previous ITC organizers for passing on their thoughts and experiences: Dragos Illie, Peter Van Daele, Markus Fiedler, Michela Meo, Sabine Wittevrongel. We thank Harry Rudin for supporting us in setting up the Elsevier Computer Networks Special Issue on “Softwarization and Caching in NGN” related to ITC 28.
+
+Special thanks go to the ITC 28 publications chairs, Michael Menth and Jörg Liebeherr, who took care of the publication process and made the technical co-sponsorship happen with IEEE Communications Society (IEEE ComSoc) as well as the cooperation with ACM SIGCOMM. We acknowledge the publicity chairs, Florin Ciucu and Sheng Zhou, for their extensive efforts to make ITC 28 visible and to attract submissions and attendees. We thank Prosper Chemouil, the awards chair, for taking care of the student travel grants and the best paper awards.
+
+We extend our sincere thanks to Florian Metzger for facilitating the paper submission and review process electronically in EDAS, Christopher Metter for taking care of the ITC 28 mailing lists and web site, as well as the local organizers Matthias Hirth, Florian Wamser and Alison Wichmann for implementing the ITC 28 registration process, all local arrangements and the social events to make ITC 28 happen.
+
+Finally, we would like to express our appreciation the general chairs, Phuoc Tran-Gia and Hisashi Kobayashi, for all of their hard work in putting together an excellent overall program and a wonderful ITC 28 event.
+
+Tobias Hoßfeld (University of Duisburg-Essen, Germany)<br/>
+Brian L. Mark (George Mason University, US)<br/>
+Gary Chan (The Hong Kong University of Science and Technology, China)<br/>
+Andreas Timm-Giel (Hamburg University of Technology, Germany)<br/>
+September 2016
+
+
+
+
+

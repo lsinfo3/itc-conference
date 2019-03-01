@@ -1,0 +1,13 @@
+---
+confdate: TODO
+title: ITC8 Conference
+---
+
+## ITC 8: Eigth International Teletraffic Congress
+
+10.-17. November 1976, Melbourne, Australia
+
+Number of accepted papers: 163<br/>
+Proceedings: [ITC digital library](/itc-library/itc8.html)
+
+![](/assets/Persistent/itc8-proc-logo.png)

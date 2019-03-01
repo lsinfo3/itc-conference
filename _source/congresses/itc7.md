@@ -1,0 +1,34 @@
+---
+confdate: TODO
+title: ITC7 Conference
+---
+
+## ITC 7: Application of the Theory of Probability to Telecommunication Research, Engineering and Administration
+
+![](/assets/Persistent/itc07-small.png){:class="typo3-neos-alignment-right"}
+
+13.-20. June 1973, Stockholm, Sweden
+
+General chair: Christian Jacobaeus<br/>
+Proceedings: [ITC digital library](/itc-library/itc7.html)
+
+
+
+
+## ITC 7 Facts
+
+  * Number of papers: 130
+  * Number of participants: 328
+  * Countries of participants: 30
+
+
+
+## ITC 7: Some Impressions
+
+![](/assets/Persistent/itc7-congress-400x421.png)
+
+_Opening Ceremony of ITC 7_
+
+![](/assets/Persistent/itc7-diner-399x280.png)
+
+_Christian Jacobaeus and Clem Pratt spoke at the farewell dinner._

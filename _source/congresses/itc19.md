@@ -1,0 +1,55 @@
+---
+confdate: TODO
+title: ITC19 Conference
+---
+
+## ITC 19: Performance Challenges for Efficient Next Generation Networks
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+29\. August - 2. September 2005, Beijing, China
+
+General chairs: Wu Jichuan, Ye Peida, Lin Jintong<br/>
+TPC chairs: X. Liang, Z. Xin, V. B. Iversen and G. S. Kuo<br/>
+Local chairs: Liu Cai, Hu Weiyi, John Liu Yun<br/>
+Homepage: <http://www.itc19.com/><br/>
+Proceedings: [ITC digital library](/itc-library/itc19.html)
+
+## ITC 19 Facts
+
+  * Number of submissions: 424
+  * Accepted papers:152
+  * Acceptance rate: 36%
+
+
+
+## ITC 19 Awards
+
+  * Best Student Paper Award: _"A Detection Approach of User Behaviors Based on HsMM"_ by Xie Yi and Yu Shunzheng
+  * Best Student Paper Award: _"A Simple Model for the IP Packet Service Time in UMTS Networks"_ by Marc C. Necker
+  * Best Student Paper Award: _"Analysis of an Asynchronous Single-Wavelength FDL Buffer"_ by Wouter Rogiest, Koenraad Laevens, Dieter Fiems, Herwig Bruneel
+
+
+
+## ITC 19: Message from the IAC Chairperson Paul J. Kühn
+
+ _"Teletraffic is the discipline dealing with all phenomena of control and transport of information within telecommunications networks. The flow of user/control information, as a result of a large number of users, typically experiences a stochastic nature.<br/>
+Teletraffic Science is a well-established field. It is based on the theory and on methods of probability and stochastic processes on one hand, and on methods for control such as scheduling, synchronization of concurrent processes and queuing, on the other hand. Teletraffic Science is therefore strongly related to subjects as performance modeling, queuing theory, operations research, computer science and telecommunications.<br/>
+Teletraffic Engineering is based on the knowledge of the organization and technology of modern, computer controlled telecommunication systems such as switching systems, computer networks, broadband and mobile communications systems, for the integration of a broad spectrum of telecommunication services such as voice, audio, graphics, video, individually or in combination (multimedia), and all kinds of computer and data base applications. Teletraffic Engineering comprises methods and tools for modeling of telecommunication systems and services, performance evaluation, resource dimensioning, cost optimization, forecasting, planning and network management.<br/>
+The International Teletraffic Congress (ITC) has a long tradition. It was founded in 1955; since then, 18 ITC World Congresses, 16 ITC Specialist Seminars and 18 Regional Seminars have been held. ITC covers topics from networking technologies (telecommunication networks, mobile communication networks, internet), architectures and protocols, teletraffic measurements and traffic modeling, queuing theory and performance evaluation, traffic engineering, network planning and network management. ITC has strong links with ITU, both with the ITU-T (Telecommunication Standardization) and ITU-D (Development Sector, BDT), and supports training in Telecommunication and Teletraffic Engineering. ITC is guided by the International Advisory Council (IAC), which is supported by associated members and experts from research, development and network operations and standards organizations (ITU-TS, ETSI, and IETF).<br/>
+The IAC is proud that ITC19 will be hosted by China. On behalf of the IAC, I would like to invite experts and research students from all mentioned fields to contribute to ITC19 in order to make it a great event."_
+
+Paul J. Kuehn Chairman,<br/>
+IAC of ITC University of Stuttgart, Germany
+
+## ITC 19: Invitation from the ITC 19 General Chair
+
+ _"The 19th International Teletraffic Congress (ITC19) will be held in Beijing , P. R. China, from August 29 to September 2, 2005. On behalf of China Institute of Communications (CIC) and Beijing University of Posts and Telecommunications (BUPT), we would like to extend our warm welcome to professionals, engineers, entrepreneurs and friends working in the fields of teletraffic theory and its applications to come to Beijing and participate in ITC19. Participants will be able to take this opportunity to exchange ideas and experiences, and share with us new progress and achievements in IT and telecommunications field.<br/>
+Since the first International Seminar on Teletraffic and Network (ISTN), which was the branch of ITC in China , initiated by us in 1988, we have witnessed a steadily increasing activity in China in telecommunications network and technologies. China has gained a leading status today in information communication science and technology, with the developments of IT and telecommunications around the world. Hundreds of experts, scholars, entrepreneurs, as well as graduate and postgraduate students in the relevant areas will be expected to attend this congress. As the host and sponsor of the congress, we will do our utmost to put the ITC19 into a success.<br/>
+Beijing is the capital of the P. R. China. It has been the capital of six feudal dynasties in the Chinese history. The Great Wall, the Forbidden City, the Temple of Heaven, the Summer Palace and Zhoukou Dian Site of Beijing ape-man, are only a few of the famous spots of the long history of Beijing. They are also the epitome of the splendid Chinese culture, with large amount of cultural relics and historical wonders, which are listed by the UNESCO as world natural and cultural heritages.<br/>
+On behalf of the organizing committee of ITC19, we sincerely welcome you and your family to Beijing. We believe you will have an enjoyable and fruitful trip in both technical and leisure aspects."_
+
+Ye Peida<br/>
+Chairman of ITC19<br/>
+Senior Member of Chinese Academy of Sciences<br/>
+Honorary President of BUPT, China

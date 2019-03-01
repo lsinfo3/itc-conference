@@ -1,0 +1,12 @@
+---
+title: CfP for ITC 29 in Genoa
+---
+
+The ITC conference 2017 will be held at the University of Genoa, Italy from September 5 to September 7. The 29th event of the series features the topic Ubiquitous, Software-Based, and Sustainable Networks and Services.
+
+Paper registration: February 19, 2017<br/>
+Full paper due: March 05<br/>
+Acceptance notification: May 14<br/>
+Final paper due: June 18
+
+More Information: <http://itc29.org>

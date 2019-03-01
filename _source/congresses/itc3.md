@@ -1,0 +1,31 @@
+---
+confdate: TODO
+title: ITC3 Conference
+---
+
+## ITC 3: Troisieme Congres International de Teletrafic
+
+11.-16. September 1961, Paris, France
+
+General chairs: M. Cabanne, M. Croze, M. Fortet, M. Marzin<br/>
+Proceedings: [ITC digital library](/itc-library/itc3.html)
+
+## ITC 3 Facts
+
+  * Number of papers: 48
+  * Number of authors: 60
+  * Number of participants: 134
+  * Countries of participants: 20
+
+
+
+## ITC 3: Some Impressions
+
+![](/assets/Persistent/itc3-400x367.png)
+
+_ITC 3 onstage_
+
+
+![](/assets/Persistent/itc3-participants-400x226.png)
+
+_ITC 3 participants_

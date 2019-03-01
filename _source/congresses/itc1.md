@@ -1,0 +1,45 @@
+---
+confdate: TODO
+title: ITC1 Conference
+---
+
+## ITC 1: The First International Congress on the Application of the Theory of Probability in Telephone Engineering and Administration
+
+20.-23. June 1955, Copenhagen, Denmark
+
+Chair: Arne Jensen<br/>
+Proceedings: [ITC digital library](/itc-library/itc1.html)
+
+The programme of the first congress was defined in the very title: _Application of the Theory of Probability in Telephone Engineering and Administration_. In the papers presented at it there was a strong emphasis on different sections of traffic research such as gradings, link systems, queueing theory and traffic measurements.
+
+
+![](/assets/Persistent/itc1-photo-itc1-400x214.png)
+
+_The First International Congress on the Application of the Theory of Probability in Telephone Engineering and Administration_
+
+## ITC 1 Facts
+
+  * Number of papers: 26
+  * Number of authors: 29
+  * Number of participants: 69
+  * Countries of participants: 13
+
+
+
+## ITC 1: The origin of the teletraffic congresses
+
+In the late forties and early fifties it became clear to many of those working on traffic theory questions that closer contact between researchers in the field would be of great value. A meeting at which people could present their work, where ideas and experience could be exchanged, and, not least, where personal contacts could be made, was considered to be greatly desirable. In the autumn of 1953 an organizational committee was formed consisting of<br/>
+E. Brockmeyer, Denmark<br/>
+C. Jacobaus, Sweden<br/>
+A. Jensen, Denmark<br/>
+L. Kosten, Holland<br/>
+N. Rodenburg, Holland
+
+The committee considered that Denmark should be host nation for the first congress in view of the decisive contribution made within telephone traffic research by A. K. Eriang. Denmark also undertook with enthusiasm to organize he first teletraffic congress. It was held in Copenhagen on June 21-23, 1955, and was attended by 69 delegates from 13 countries. Twenty-six papers were presented and discussed.
+
+A report entitled The First International Congress on the Application of the Theory of Probability in Telephone Engineering and Administration was published in the Danish telecommunications journal TELETEKNIK, English edition, Vol. 1. No. 1, 1957. The report contains certain papers in their entirety and summaries of the contributions which had already been published in various journals.<br/>
+The delegates considered generally that the congress had been very successful and fruitful and it appeared self-evident that future congresses should be arranged.<br/>
+At the first congress a council entitled the International Advisory Council (IAC) was set up. From the start I AC has been composed of researchers from the leading countries within the field.
+
+
+_Source: ERICSSON REVIEW Vol. 50, No. 4, 1973_

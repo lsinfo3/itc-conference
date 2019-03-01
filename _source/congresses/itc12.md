@@ -1,0 +1,13 @@
+---
+confdate: TODO
+title: ITC12 Conference
+---
+
+## ITC 12: Teletraffic Science for New Cost-effective Systems, Networks and Services
+
+1.-8. June 1988, Torino, Italy
+
+TPC chairs: Mario Bonatti<br/>
+Proceedings: [ITC digital library](/itc-library/itc12.html)
+
+This 2-volume set presents new methodologies and applications of the theory of teletraffic analysis and planning. The theories and methodologies covered include general models, simulation, queueing theory and robust design. The applications cover the design and planning of POTS, NB-ISDN, BB-ISDN, LAN, MAN, dedicated networks and flexible manufacturing systems. The papers were originally presented at the 12th International Teletraffic Congress. These triannual congresses have been held since 1955, and have become established as an opportunity for specialists from tele-administrations, industry and universities to meet and exchange ideas.

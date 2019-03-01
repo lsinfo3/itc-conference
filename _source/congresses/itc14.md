@@ -1,0 +1,37 @@
+---
+confdate: TODO
+title: ITC14 Conference
+---
+
+## ITC 14: The Fundamental Role of Teletraffic in the Evolution of Telecommunications Networks
+
+![](/assets/Persistent/ITC14-small.jpg){:class="typo3-neos-alignment-right"}
+
+6.-10. June 1994, Juan-les-Pins, France
+
+TPC chairs: Jacque Labetoulle, James W. Roberts<br/>
+Proceedings: [ITC digital library](/itc-library/itc14.html)
+
+
+
+
+## ITC 14 Facts
+
+  * Accepted papers: 143
+
+
+
+## ITC 14 Preface from the TPC Chairs
+
+The International Teletraffic Congress is a recognized international organization taking part in the work of the International Telecommunications Union. The congress traditionally deals with the development of teletraffic theory and its application to the design, planning and operation of telecommunication systems, networks and services. Its objective is to bring together people working in the teletraffic field in universities, equipment manufacturers, network operators and service providers to enable the exchange of ideas and experience and to foster personal contacts.<br/>
+The first ITC took place in 1955 in Copenhagen and subsequent congresses have been held at three yearly intervals in The Hague, Paris, London, New York, Munich, Stockholm, Melbourne, Torremolinos, Montreal, Kyoto, Torino and Copenhagen (again). The present vitality of the ITC, which promotes specialist and regional seminars in addition to the triennial congresses, owes much to the energy and enthusiasm of Professor Arne JENSEN. Between the first and last congresses in Copenhagen, both of which he chaired, he has overseen an impressive development in the science (or art) of teletraffic theory and engineering as chairman of the International Advisory Council. At the end of the last congress, however, when he became Chairman Emeritus of the IAC, Arne JENSEN left the executive responsibility for the ITC to a new chairman, Professor Paul KUHN. ITC 14 is thus the first congress under a new chairman. It differs in two important respects from its predecessors.<br/>
+Firstly, the papers to be presented have been selected by an international programme committee after a thorough review of the full paper (and not just an abstract) by three independent referees. It was possible to accept only slightly more than half of the submitted papers. The choice was difficult and we regret that it has been necessary to exclude many good quality papers. The high rejection rate does, however, ensure a exceptionally high standard for the work presented in ITC 14.<br/>
+The second innovation concerns the congress schedule. ITC 14 takes place from Monday to Friday, breaking with the traditional Wednesday to Wednesday schedule of previous congresses. Regular sessions are scheduled for Monday, Tuesday, Thursday and Friday. Plenary sessions in the mornings will allow the presentation of high quality papers of general interest within subject areas of fairly broad scope. The majority of papers will be presented in more focussed parallel sessions taking place in the afternoons.<br/>
+Wednesday morning is reserved for three parallel tracks of special sessions of two types. Following the success of the similar event organized in ITC 13 in Copenhagen, a workshop on Teletraffic Engineering for Developing Countries will occupy one track. The other two tracks are devoted to sessions on "hot topics" where invited speakers will provide up to date input on important teletraffic issues arising in four different areas: Signalling and the Intelligent Network, Personal Communication Services, Traffic Measurement and Cost/Quality Tradeoffs for New Information Services. Papers presented in these sessions do not appear in the Proceedings.<br/>
+The contents of ITC 14 illustrate the important role of teletraffic in the current period of rapid evolution of telecommunications networks. A large number of papers address the teletraffic issues behind developments in broadband communications and ATM technology. The extension of possibilities for user mobility and personal communications together with the generalization of common channel signalling and the provision of new intelligent network services are further extremely significant developments whose teletraffic implications are explored in a number of contributions. These papers illustrate the expanding role of the teletraffic specialist whose concerns now include characterizing and quantifying the traffic of variable bit rate and mobile services, determining what quality of service criteria are appropriate for new services and defining the traffic control procedures by which they can be guaranteed, interpreting the impact on network dimensions and cost of proposed technical solutions and contributing to the elaboration of international standards compatible with the objective of a cost effective network providing reliable service.<br/>
+Of course, ITC 14 also addresses traditional teletraffic subjects, proposing enhancements to traffic engineering practices for existing circuit and packet switched telecommunications networks and making valuable original contributions to the fundamental mathematical tools on which teletraffic theory is based. Even the traditional role of the traffic engineer may be seen to gain in importance in an increasingly competitive environment where customers will naturally select the most cost effective and reliable networks and services. The contents of these Proceedings accurately reflect the extremely wide scope of the ITC, extending from basic mathematical theory to day-to-day traffic engineering practices, and constitutes the state of the art in 1994 of one of the fundamental telecommunications sciences.<br/>
+As Vice-chairman and Chairman of the Programme Committee, we have had the responsibility of implementing the new paper selection procedure and preparing the Technical Programme within the framework set out by Paul KUHN and the IAC. Overall responsibility for the organization of ITC 14 has been in the capable hands of the General Secretary, Prosper CHEMOUIL. He joins with us in wishing participants a highly fruitful and enjoyable congress.
+
+Jacques LABETOULLE and Jim ROBERTS
+
+![](/assets/Persistent/itc14-design-small.jpg)

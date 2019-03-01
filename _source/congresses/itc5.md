@@ -1,0 +1,27 @@
+---
+confdate: TODO
+title: ITC5 Conference
+---
+
+## ITC 5: The Fifth International Teletraffic Congress
+
+![](/assets/Persistent/itc05-small-249x149.png){:class="typo3-neos-alignment-right"}
+
+14.-20. June 1967, New York, USA
+
+Proceedings: [ITC digital library](/itc-library/itc5.html)
+
+![](/assets/Persistent/itc05-front---small.png)
+
+## ITC 5 Facts
+
+  * Number of papers: 80
+  * Number of participants: 159
+  * Countries of participants: 20
+
+
+
+## ITC 5: Announcement of Teletraffic Congress in 1967
+
+The Fifth International Teletraffic Congress on the Application of the Theory of Probability to Telecommunication Research, Engineering and Administration will take place in New York City, June 14-20, 1967. The Bell Telephone System and the United States Independent Telephone Association will be hosts to the meetings which will be held at The Rockefeller University, York Avenue and East 66th Street. Papers will be offered on recent developments in traffic theory and application, including the mathematical theory of telephone traffic, the character of customer and machine inputs, traffic measurement and the statistical analysis of traffic data, and the engineering and management of national and international telecommunication networks.<br/>
+Persons actively engaged in teletraffic analysis have been invited to submit papers and participate in the discussions. More than two-thirds of the invitations have gone to scientists and engineers outside of North America. Inquiries may be directed to the Secretary of the Organizing Committee, Room 2G-525, Bell Telephone Laboratories, Holmdel, N.J.

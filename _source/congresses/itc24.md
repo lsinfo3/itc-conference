@@ -1,0 +1,32 @@
+---
+confdate: TODO
+title: ITC24 Conference
+---
+
+## ITC 24: The 24th International Teletraffic Congress
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+4.-7. September 2012, Cracow, Poland
+
+General chairs: Andrzej Jajszczyk, Zdzisław Papir<br/>
+TPC chairs: Thomas Bonald, Michał Pióro, Iraj Saniee<br/>
+Local chair: Jerzy Domżał<br/>
+Homepage: <http://www.itc24.net/><br/>
+Proceedings: [ITC digital library](/itc-library/itc24.html)
+
+## ITC 24 Awards
+
+  *  **Arne Jensen Lifetime Achievement Award** : Debasis Mitra
+  *  **Best Paper Award** : _"Pull versus Push Mechanism in Large Distributed Networks: Closed Form Result"_ by Wouter Minnebo, Benny Van Houdt
+  *  **Best Student Paper Award** : _"Anomaly Detection in VoIP Traffic with Trends"_ by Felipe Mata, Piotr Zuraniewski, Michel Mandjes, Marco Mellia
+
+
+
+## ITC 24 Facts
+
+  * Number of submissions: 74
+  * Accepted papers: 24
+  * Acceptance rate: 33%
+  * Number of participants: 129
+

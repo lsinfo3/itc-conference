@@ -1,0 +1,99 @@
+---
+confdate: TODO
+title: ITC27 Conference
+---
+
+## ITC 27: Traffic, Performance and Big Data
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+08.-10. September 2015, Ghent, Belgium
+
+General chairs: Piet Demeester, Chris Blondia<br/>
+TPC chairs: Sabine Wittevrongel, Michela Meo, Catherine Rosenberg<br/>
+Local chair: Peter Van Daele<br/>
+Homepage: <http://www.itc27.org/><br/>
+Proceedings: [ITC digital library](/itc-library/itc27.html)
+
+![](/assets/Persistent/itc27-homepage.jpg)
+
+_City of Ghent<br/>
+_
+
+## ITC 27 Program in a Nutshell
+
+ **Keynotes** :
+\- Christian Jacquenet (Orange Labs, France): Fostering IoT Deployment: Challenges and Assets of SDN Techniques
+\- Luiz DaSilva (Trinity College Dublin, Ireland): Mobile Operators, Service Providers, and the Virtualisation of Wireless Networks
+\- Nelson Fonseca (State University of Campinas, Brazil): Networking in the Big Data Era
+
+ **Sessions** : Traffic and Performance Monitoring, Content Delivery and Caching, Scheduling Algorithms, Queueing and Traffic Models, Cloud Computing and Energy Efficiency, QoS, QoE and Streaming Applications, Wireless/Cellular Networks, and Software-Defined Networking.
+
+ **Workshop** : COST Action ACROSS on "Engineering and Control for Reliable Cloud Services"
+
+ **Tutorials**
+\- Jorg Liebeherr: Stochastic Network Calculus: From Theory to Applications
+\- Christian Timmerer and Tobias Hossfeld: Adaptive Media Streaming and Quality of Experience Evaluations using Crowdsourcing
+\- Daniel Figueiredo and Konstantin Avrachenkov: Complex Networks and their Analysis with Random Walks
+\- Suleyman Uludag and Bulent Tavli: Communications Security and Privacy of Smart Grid and Microgrid Optimization: A Conjoint Perspective
+
+
+## ITC 27 Awards
+
+  *  **Arne Jensen Lifetime Achievement Award** : Prosper Chemouil for his huge contribution to teletraffic research and exceptional dedication to the ITC organization and community.
+  *  **Best Paper Award** : Fabrice Guillemin for the paper "The Power of Randomized Routing in Heterogeneous Loss Systems" (Arpan Mukhopadhyay, Ravi R. Mazumdar, Fabrice M. Guillemin)
+  *  **Best Student Paper Award** : Danilo Giordano for the paper "YouLighter: An Unsupervised Methodology to Unveil YouTube CDN Changes" (Danilo Giordano, Stefano Traverso, Luigi Grimaudo, Marco Mellia, Elena Baralis, Alok Tongaonkar, Sabyasachi Saha)
+
+
+
+## ITC 27 Facts
+
+  * Number of submissions: 77
+  * Accepted papers: 26
+  * Acceptance rate: 34%
+  * Number of participants: 93
+  * Student Travel Grants (sponsored by IAC): 5
+
+
+
+## ITC 27: A Note from the Past-Chairperson Prosper Chemouil
+
+ _"Since its creation in 1955, the ITC is steered by an International Advisory Council (IAC). The role of the IAC is quite significant in the choice and the follow-up of all ITC-organized events. During the successful ITC 27 in Ghent, Belgium, we celebrated the 60th Anniversary of ITC, which makes ITC the oldest still-running event in ICT. It was a perfect opportunity to hand over the responsibility of the IAC to a new team that has been progressively involved in the IAC since last year.<br/>
+It has been an honor and a great pleasure for me to chair the IAC since 2007 with the very strong support and dedication of: Luigi Fratta, Ulf Körner, Deep Medhi, Hiroshi Saito, Phuoc Tran-Gia, Hans Van den Berg, Villy-Baek Iversen, Peter Key, Paul J Kuehn (the previous IAC Chairman), Xiongjian Liang, Jim Yan.<br/>
+_ _<br/>
+Of course, we remain still connected to future ITC as members of the community. I would like to introduce the new IAC team which appears to be very motivated and enthusiastic: Michela Meo (the new IAC Chairperson), Markus Fiedler, Tobias Hossfeld, Fabrice Guillemin, Zhisheng Niu, Dario Rossi, Michael Menth, Benny Van Houdt."_
+
+Prosper Chemouil<br/>
+Past-Chairman of the International Advisory Council of the ITC
+
+![](/assets/Persistent/itc27-3iacChairs-small-480x360.jpg)
+
+_Three generations of IAC Chairpersons: Prosper Chemouil, Michela Meo, Paul J. Kühn_
+
+## Foreword of the Co-Chairs of ITC 27
+
+Dear Teletraffic Delegates,
+
+Most welcome to the 27th International Teletraffic Congress (ITC) that takes place in Gent, Belgium. Gent is a historic city, yet at the same time a contemporary one, small enough to feel cosy, but big enough to stay vibrant. The conference takes place in an old Dominican monastery, located in the heart of the city on the banks of the river Leie, near the medieval port with the guildhalls as its remnants. ITC 27 is hosted by Ghent University, a top 100 university and one of the major Belgian universities counting over 41,000 students and 9,000 employees.<br/>
+Founded in 1955, the International Teletraffic Congress (ITC) initially brought together researchers with the aim to giving answers to the growing need to understand and model traffic in telephone networks using stochastic methods. Since then it has evolved to an international forum that deals with questions related to the planning, design, operation, security and economics of current and emerging communication networks and services. These problems are being addressed using methods and tools originating from different fields, such as stochastic processes, information theory, control theory, signal processing, game theory, optimization techniques, statistical methodologies, and artificial intelligence.<br/>
+The ITC addresses real-world networking questions related to network and service performance, management, and assessment, both present and futuristic and as such, its target audience is experts from research organizations, universities, equipment vendors and suppliers, network operators, service providers, system integrators and international technical organizations, guaranteeing a well-balanced contribution from theory, application, and practice. This year, with the emergence of the Internet of Things and the number of devices connected to the internet rapidly growing, the theme of the conference is “Traffic, Performance and Big Data” The general goal however remains to bring researchers and practitioners together toward operational understanding of all types of current and future networks.<br/>
+We are looking forward to interesting technical presentations and discussions and to meeting old and new colleagues.
+
+## Foreword of the TPC Co-Chairs of ITC 27
+
+Dear Participants
+
+We are happy to welcome you to ITC 27, the 27th International Teletraffic Congress. ITC 27 takes place from September 8th to September 10th, 2015 in the beautiful city of Ghent (Belgium).<br/>
+Over the past 60 years, ITC has provided a forum for leading researchers from academia and industry to present and discuss key technological and methodological advances in the design, performance evaluation and control of communication networks, protocols and applications and in traffic measurement and management. ITC 27 continues this tradition.<br/>
+The specific theme of ITC 27 is “Traffic, Performance and Big Data”. With the emergence of the Internet of Things, the number of devices being connected to the Internet is steadily growing and huge amounts of data are being generated worldwide. Big data brings new traffic and performance related challenges and calls for a deep revisit of the methodological tools that were traditionally used for performance evaluation and traffic engineering. New models and approaches are needed to investigate big data characteristics in terms of volume, velocity and variability and their impact on network performance; new solutions have to be designed to efficiently and securely manage information; new techniques are needed to support all phases of network planning, design and optimization. The technical sessions at ITC 27 are well aligned with these challenges.<br/>
+The 77 submitted papers underwent a rigorous review process with three reviews per paper and a TPC meeting hosted by Ghent University in May 2015. Merely 26 papers were selected for the main track, which brings the acceptance rate to 33,8 %. These papers are grouped into eight sessions: Traffic and Performance Monitoring, Content Delivery and Caching, Scheduling Algorithms, Queueing and Traffic Models, Cloud Computing and Energy Efficiency, QoS, QoE and Streaming Applications, Wireless/Cellular Networks, and Software-Defined Networking. Furthermore, the main track features three keynotes: (1) Christian Jacquenet Orange Labs, France, on “Fostering IoT Deployment: Challenges and Assets of SDN Techniques”; (2) Luiz DaSilva, Trinity College Dublin, Ireland, on “Mobile Operators, Service Providers, and the Virtualisation of Wireless Networks”; and (3) Nelson Fonseca, State University of Campinas, Brazil, on “Networking in the Big Data Era”. Also, ITC 27 hosts a panel discussion on this year's theme “Traffic, Performance and Big Data”. In addition to the main conference, four tutorial sessions are scheduled for September 7 and a workshop for September 11, respectively.<br/>
+The international scientific journal Computer Networks has agreed to publish a selection of the best papers presented at ITC 27 in a special issue devoted to the topic “Traffic and Performance in the Big Data Era”. All submitted papers will be refereed according to the high standards of the journal.<br/>
+The organization of an event as ITC 27 is based on the cooperation of many people. We would like to express our sincere thanks to all of them. Researchers submitted interesting technical papers; TPC members and reviewers ensured a high quality of the accepted papers; and keynote speakers and panel members have provided additional value to the conference. We are also grateful to the members of the International Advisory Council (IAC) of the ITC for their support. We further express our special thanks to all co-chairs of the various activities and committees, and to the sponsors. We finally thank all attendees, whose participation is vital to the success of the conference.
+
+## ITC 27 User Survey
+
+![](/assets/Persistent/ITC27-survey-local-399x240.png)
+
+![](/assets/Persistent/ITC27-survey-sessions-399x239.png)
+
+![](/assets/Persistent/ITC27-survey-tutorials-keynotes-399x240.png)

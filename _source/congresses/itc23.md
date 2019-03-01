@@ -1,0 +1,37 @@
+---
+confdate: TODO
+title: ITC23 Conference
+---
+
+## ITC 23: The 23rd International Teletraffic Congress
+
+![](/assets/Persistent/itc18-27-small.png){:class="typo3-neos-alignment-right"}
+
+6.-8. September 2011, San Francisco, USA
+
+
+General chairs: Charles Kalmanek, Deep Medhi<br/>
+TPC chairs: Åke Arvidsson, Gustavo de Veciana, Steven Low<br/>
+Local chairs: Gaurav Agrawal, Alex Clemm<br/>
+Homepage: <http://www.itc23.com/><br/>
+Proceedings: [ITC digital library](/itc-library/itc23.html)
+
+## ITC 23 Awards
+
+
+  *  **Arne Jensen Lifetime Achievement Award** : Villy-Baek Iversen
+  *  **Best Paper Award** : "Bounds on QoS-Constrained Energy Savings in Cellular Access Networks with Sleep Modes" by Balaji Rengarajan, Gianluca A. Rizzo, Marco G Ajmone Marsan
+  *  **Best Student Paper Award** : "Selfish Content Replication on Graphs" by Valentino Pacifici, György Dán
+  *  **Best Student Poster Award** Jointly conferred on to
+    * "Pytomo: A Tool for Analyzing Playback Quality of YouTube Videos" by Parikshit Juluri Louis Plissonneau, Deep Medhi
+    * "Estimating Optimal Cost of Allocating Virtualized Resources with Dynamic Demand" by Haiyang Qian, Deep Medhi
+
+
+
+## ITC 23 Facts
+
+  * Number of submissions: 115
+  * Accepted papers: 38
+  * Acceptance rate: 33%
+  * Number of participants: 131
+
