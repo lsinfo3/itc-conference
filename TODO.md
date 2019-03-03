@@ -2,7 +2,7 @@
 - [x] about-itc.html / index.html
 - [x] awards.html
 - [x] impressum.html
-- [ ] congresses.html
+- [x] congresses.html
 - [x] contact-us.html
 - [ ] itc-library.html
 - [x] join-itc.html

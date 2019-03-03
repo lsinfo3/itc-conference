@@ -12,4 +12,4 @@ We are pleased to present the ITC 29 best paper awards. Congratulations!
 **ITC 29 Best Student Paper Award**
 "Performance Modelling of Vehicular Floating Content in Urban Settings" by Gaetano Manzo, Marco G. Ajmone Marsan, Gianluca A. Rizzo
 
-More information and ITC 29 facts at https://itc-conference.org/congresses/itc29.html
+More information and ITC 29 facts at https://itc-conference.org/congresses/itc029.html
