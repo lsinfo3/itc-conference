@@ -14,7 +14,9 @@ import os
 
 html2text.config.BODY_WIDTH = 0
 
-frontmatterdict = {}
+frontmatterdict = {
+    "layout": "default",
+}
 files = []
 
 for i in sys.argv[1:]:
