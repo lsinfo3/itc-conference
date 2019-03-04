@@ -1,6 +1,8 @@
 ---
+author: ITC
 title: 28th ITC Conference in Würzburg, Sep 12-18, 2016
 ---
+
 
 The evolution of communications and networking is changing the world we are living in. The digital connected world is triggered by the influence of computer science on telecommunication, the advent of the Internet and the massive deployment of mobile communications and optics, the appearance of collaborative networking and social networks, the ever-increasing speed and flexibility of new communication technologies, networks, user devices, and applications, and the ever-changing operational challenges arising from this development.<br/>
 ITC 28 solicits original contributions that address the latest changes and developments in design, modelling, measurement, and performance evaluation of communication systems, networks, and services. ITC 28 is structured into eight different areas. The objectives in these areas include, among others, energy-efficiency and green IT, network security and privacy, QoS and QoE, and resilience.

@@ -1,6 +1,8 @@
 ---
+author: ITC 28
 title: Arne Jense Liftetime Award 2016
 ---
+
 
 The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) is pleased to announce that the recipient of the 2016 Arne Jensen Lifetime Award is Prof. Dr.-Ing. Phuoc Tran-Gia for his huge contribution to teletraffic research and exceptional dedication to the ITC organization and community.
 

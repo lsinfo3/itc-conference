@@ -20,6 +20,12 @@ defaults:
             type: "about-itc"
         values:
             sidebar: "about-itc"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            layout: "post"
 
 # deployment
 host: 127.0.0.1

@@ -1,6 +1,8 @@
 ---
-title: 1955-2015: ITC celebrates its 60th anniversary!
+author: ITC
+title: "1955-2015: ITC celebrates its 60th anniversary!"
 ---
+
 
 It is a pleasure to announce that ITC as the first conference in networking science & practice celebrates its 60th anniversary with special events to be held during the next edition, hosted in [Ghent, Belgium, on September 8th-10th, 2015](http://www.itc27.org/ "Opens external link in new window"). ITC has steered the evolutions in communications since its creation in 1955 and remains at the forefront of innovation regarding modeling and performance.<br/>
 Over the past 60 years, ITC has provided a forum for leading researchers from academia and industry to present and discuss key technological and methodological advances in the design, performance evaluation and control of communication networks like the Internet. Today, ITC addresses the emerging paradigms such as an increasing diversity of distributed applications and services over various media like mobile/optical networks, enabling new markets and economy. For example, the convergence between networking and information technology enabled by virtualization techniques and cloud architectures is providing new stakes in terms of network architecture and service operations. Beyond performance and Quality of Service (QoS), different challenges like Quality of Experience (QoE), economic aspects and business models, energy savings, but also societal impact are considered.<br/>
@@ -39,6 +41,7 @@ ITC still represents a wide and lively community of researchers and practitioner
 Join the ITC community to celebrate this significant anniversary and prepare the future of ICT in the attractive city of Ghent, Belgium!
 [www.itc27.org](http://www.itc27.org/)
 
-**Prosper Chemouil**, Orange Labs, France - Chair of the ITC International Advisory Council<br/>
-**Tobias Hossfeld**, University of Duisburg-Essen, Germany - Member of the ITC International Advisory Council<br/>
-**Michela Meo**, Politecnico di Torino, Italy - Chair-elect of the ITC International Advisory Council
+ **<br/>
+Prosper Chemouil** , Orange Labs, France - Chair of the ITC International Advisory Council
+ **Tobias Hossfeld** , University of Duisburg-Essen, Germany - Member of the ITC International Advisory Council
+ **Michela Meo** , Politecnico di Torino, Italy - Chair-elect of the ITC International Advisory Council

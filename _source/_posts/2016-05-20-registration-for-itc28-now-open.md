@@ -1,6 +1,8 @@
 ---
+author: ITC28
 title: Registration for ITC28 now open!
 ---
+
 
 We are pleased to invite you to join the ITC 28 taking place in Würzburg, Germany from 12th to 16th September 2016.
 
