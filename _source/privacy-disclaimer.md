@@ -1,6 +1,5 @@
 ---
 title: Privacy Disclaimer
-layout: default
 menu: footer-nav
 menu-index: 1
 ---

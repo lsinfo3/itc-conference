@@ -1,6 +1,5 @@
 ---
 title: Impressum
-layout: default
 menu: footer-nav
 menu-index: 0
 ---

@@ -1,6 +1,5 @@
 ---
 title: Join ITC
-layout: default
 menu: top-nav
 menu-index: 7
 ---

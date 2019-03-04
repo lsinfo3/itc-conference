@@ -1,6 +1,5 @@
 ---
 title: Organization
-layout: default
 ---
 
 ## Organization

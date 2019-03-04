@@ -8,6 +8,12 @@ collections:
     about-itc:
         title: About ITC
         output: True
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
 # deployment
 host: 127.0.0.1
 port: 4000

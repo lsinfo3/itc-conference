@@ -39,7 +39,6 @@ ITC still represents a wide and lively community of researchers and practitioner
 Join the ITC community to celebrate this significant anniversary and prepare the future of ICT in the attractive city of Ghent, Belgium!
 [www.itc27.org](http://www.itc27.org/)
 
- **<br/>
-Prosper Chemouil** , Orange Labs, France - Chair of the ITC International Advisory Council
- **Tobias Hossfeld** , University of Duisburg-Essen, Germany - Member of the ITC International Advisory Council
- **Michela Meo** , Politecnico di Torino, Italy - Chair-elect of the ITC International Advisory Council
+**Prosper Chemouil**, Orange Labs, France - Chair of the ITC International Advisory Council<br/>
+**Tobias Hossfeld**, University of Duisburg-Essen, Germany - Member of the ITC International Advisory Council<br/>
+**Michela Meo**, Politecnico di Torino, Italy - Chair-elect of the ITC International Advisory Council

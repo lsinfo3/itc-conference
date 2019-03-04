@@ -1,6 +1,5 @@
 ---
 title: Honorary Members
-layout: default
 ---
 
 # Honorary IAC Members

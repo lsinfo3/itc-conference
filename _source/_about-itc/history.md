@@ -1,6 +1,5 @@
 ---
 title: History
-layout: default
 ---
 
 # History of the ITC

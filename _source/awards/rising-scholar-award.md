@@ -1,6 +1,5 @@
 ---
 title: Rising Scholar Award
-layout: default
 ---
 
 ## ITC Rising Scholar Award 2018

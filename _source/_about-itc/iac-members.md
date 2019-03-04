@@ -1,6 +1,5 @@
 ---
 title: IAC Members
-layout: default
 ---
 
 # International Advisory Council
