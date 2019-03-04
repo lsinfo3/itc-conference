@@ -37,6 +37,9 @@ for currentfile in files:
         html = BeautifulSoup(f.read(), 'html.parser')
 
     content = html.select(".cont_left .neos-contentcollection")[0] # type: bs4.element.Tag
+    header = html.select(".cont_left .entry-header")
+    if header:
+        content.insert(0, header[0])
 
     for i in ( "href", "src" ):
         for tag in content.find_all(attrs={ i: True }):
