@@ -15,4 +15,4 @@ i. the Workshop on Programmability for Cloud Networks and Applications (PROCON);
 ii. the 2016 International Workshop on Quality of Experience Centric Management QCMan);<br/>
 iii. the ACROSS Workshop on Quality Engineering for a Reliable Internet of Services.
 
-Additionally, each paper can be accessed via the above program or our ITC Library at [https://i-teletraffic.org/en/itc-library/itc28.html.](https://i-teletraffic.org/en/itc-library/itc28.html)
+Additionally, each paper can be accessed via the above program or our ITC Library at [https://itc-conference.org/itc-library/itc28.html.](/itc-library/itc28.html)

@@ -1,6 +1,6 @@
 ---
 author: ITC 28
-title: Arne Jense Liftetime Award 2016
+title: Arne Jensen Lifetime Award 2016
 ---
 
 
@@ -10,7 +10,7 @@ Recipient of the 2016 Arne Jensen Lifetime Award:<br/>
 Prof. Dr.-Ing. Phuoc Tran-Gia
 
 More information:
-[https://i-teletraffic.org/en/awards.html](/awards.html)
+[https://itc-conference.org/awards.html](/awards.html)
 
 ![](/assets/Persistent/trangia_arne_award-549x366.jpg){:class="typo3-neos-alignment-center"}
 
