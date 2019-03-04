@@ -82,15 +82,27 @@
         </aside>
 
         <nav class="cont_right">
-            <div class="neos-contentcollection"></div>
+            <!-- <div class="neos&#45;contentcollection"></div> -->
             <div class="neos-contentcollection">
                 <!-- include page specific sidebar -->
                 {% if page.sidebar %}
-                {% capture sidebar %}{% include {{ page.sidebar }} %}{% endcapture %}
-                <div class=" typo3-neos-nodetypes-html">
-                    {{ sidebar  }}
-                </div>
-                <br/>
+                    {% assign name = page.sidebar %}
+                    {% assign col = site.collections | where:'label',name %}
+                    {% for c in col %}
+                    <div class=" typo3-neos-nodetypes-html">
+                        <a class="right_links" href="{{ page.url }}"> {{ c.title }} </a>
+                        <nav class="typo3-neos-nodetypes-menu">
+                            <ul class="{{ page.sidebarstyle | default:'' }}">
+                                {% for i in c.docs %}
+                                <li class="normal">
+                                    <a href="{{ i.url }}"> {{ i.title }}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </nav>
+                    </div>
+                    <br/>
+                    {% endfor %}
                 {% endif %}
 
                 <a class="right_links" href="/"> What's new? </a>

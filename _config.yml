@@ -3,6 +3,10 @@ source: _source
 
 collections:
     congresses:
+        title: Congresses
+        output: True
+    about-itc:
+        title: About ITC
         output: True
 # deployment
 host: 127.0.0.1
