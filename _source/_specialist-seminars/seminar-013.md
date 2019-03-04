@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 18-20 September 2000, Monterey, CA, USA
 title: Seminar 13
 ---
 

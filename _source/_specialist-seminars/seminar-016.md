@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 31 August - 2 September 2004, Antwerp, Belgium
 title: Seminar 16
 ---
 

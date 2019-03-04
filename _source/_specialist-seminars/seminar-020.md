@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 18-20 May 2009, Hoi An, Viet Nam
 title: Seminar 20
 ---
 

@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 8-9 October 2008, Berlin, Germany
 title: Seminar 19
 ---
 

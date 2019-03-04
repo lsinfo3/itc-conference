@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 20-22 November 2013, Christchurch, New Zealand
 title: Seminar 22
 ---
 

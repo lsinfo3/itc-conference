@@ -8,6 +8,10 @@ collections:
     about-itc:
         title: About ITC
         output: True
+    specialist-seminars:
+        title: Specialist Seminars
+        output: True
+
 defaults:
     -
         scope:

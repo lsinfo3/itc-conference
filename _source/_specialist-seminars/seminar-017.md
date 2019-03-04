@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 10-11 May 2006, Melbourne, Australia
 title: Seminar 17
 ---
 

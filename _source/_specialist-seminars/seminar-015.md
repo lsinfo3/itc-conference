@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 21-24 July 2002, Wuerzburg, Germany
 title: Seminar 15
 ---
 

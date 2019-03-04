@@ -1,5 +1,5 @@
 ---
-confdate: TODO
+confdate: 2-3 March 2010, Miyazaki, Japan
 title: Seminar 21
 ---
 
