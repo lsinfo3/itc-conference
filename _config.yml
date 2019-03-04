@@ -5,12 +5,18 @@ collections:
     congresses:
         title: Congresses
         output: True
+        url: /congresses.html
     about-itc:
         title: About ITC
         output: True
+        url: /
     specialist-seminars:
         title: Specialist Seminars
         output: True
+        url: /specialist-seminars.html
+    posts:
+        title: News
+        url: /news.html
 
 defaults:
     -

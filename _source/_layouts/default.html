@@ -72,6 +72,18 @@
     <div class="in">
         <aside class="cont_left">
             <ul class="breadcrumb">
+                {% unless page.url == "/" %}
+                <li class="active"><a href="/">Home</a> / </li>
+                {% endunless %}
+
+                {% if page.collection %}
+                {% capture current %}{{page.collection}}{% endcapture %}
+                {% assign col = site.collections | where:'label',current | first %}
+                <li class="active">
+                    <a href="{{ col.url }}"> {{ col.title }} </a> /
+                </li>
+                {% endif %}
+
                 <li class="current">
                     {{ page.title }}
                 </li>
@@ -82,13 +94,11 @@
         </aside>
 
         <nav class="cont_right">
-            <!-- <div class="neos&#45;contentcollection"></div> -->
             <div class="neos-contentcollection">
                 <!-- include page specific sidebar -->
                 {% if page.sidebar %}
                     {% assign name = page.sidebar %}
-                    {% assign col = site.collections | where:'label',name %}
-                    {% for c in col %}
+                    {% assign c = site.collections | where:'label',name | first %}
                     <div class=" typo3-neos-nodetypes-html">
                         <a class="right_links" href="{{ page.url }}"> {{ c.title }} </a>
                         <nav class="typo3-neos-nodetypes-menu">
@@ -102,7 +112,6 @@
                         </nav>
                     </div>
                     <br/>
-                    {% endfor %}
                 {% endif %}
 
                 <a class="right_links" href="/"> What's new? </a>
