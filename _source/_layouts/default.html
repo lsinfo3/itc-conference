@@ -17,7 +17,7 @@
     <meta name="description" content />
     <meta name="robots" content="index,follow" />
 
-    <link rel="canonical" href="https://itc31.org/" />
+    <link rel="canonical" href="https://itc-conference.org/" />
 </head>
 
 <body>
@@ -41,9 +41,11 @@
                 <ul class="nav-collapse nav-collapse-0 closed" aria-hidden="false" style="-webkit-transition: max-height 284ms; transition: max-height 284ms; position: relative;">
                     {% assign pages = site.pages | sort: "menu-index" | where:"menu","top-nav" %}
                     {% for p in pages %}
+                    {% unless p.url contains 'page' %}
                     <li>
                         <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
                     </li>
+                    {% endunless %}
                     {% endfor %}
                 </ul>
                 <!--

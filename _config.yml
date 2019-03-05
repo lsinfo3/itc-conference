@@ -1,5 +1,7 @@
 title: "ITC Conference"
 source: _source
+paginate: 10
+paginate_path: "/news/page:num/"
 
 collections:
     congresses:
@@ -16,7 +18,7 @@ collections:
         url: /specialist-seminars.html
     posts:
         title: News
-        url: /news.html
+        url: /news/
 
 defaults:
     -
