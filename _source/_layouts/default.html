@@ -18,11 +18,6 @@
     <meta name="robots" content="index,follow" />
 
     <link rel="canonical" href="https://itc31.org/" />
-
-    <!--
-    <link rel="alternate" hreflang="en-US" href="https://itc31.org/"/>
-    <link rel="alternate" hreflang="en-UK" href="https://itc31.org/uk"/>
-    -->
 </head>
 
 <body>
@@ -58,15 +53,6 @@
                 -->
             </div>
         </header>
-        <!--
-            <article class="slider">
-                <div>
-                    <p></p>
-                    <a href="/posts.html">Learn More »</a>
-                    <div style="clear: both;"></div>
-                </div>
-            </article>
-        -->
     </div>
 
     <div class="in">
@@ -114,14 +100,18 @@
                     <br/>
                 {% endif %}
 
-                <a class="right_links" href="/"> What's new? </a>
-                <div class=" typo3-neos-nodetypes-text">
-                    <p>
-                        <b>TODO:</b> auto generate 5 most recent news entries
-                    </p>
-                </div>
+                <a class="right_links" href="/news.html">What's new?</a>
+                <ul class="right_info">
+                    {% for i in site.posts limit: 5 %}
+                    {% capture postdate %}{{ i.date }}{% endcapture %}
+                    <li>
+                        <h2><a href="{{ i.url }}">{{ i.title }}</a></h2>
+                        <span>{% include insertpostdate date=postdate %}</span>
+                    </li>
+                    {% endfor %}
+                </ul>
 
-                <a class="right_links" href="/contact-us.html"> Contact Us </a>
+                <a class="right_links" href="/contact-us.html">Contact Us</a>
                 <div class=" typo3-neos-nodetypes-html">
                     <p>
                         <a class="twitter-timeline"  href="https://twitter.com/ITC_Tweets" data-widget-id="564733179064778752">Tweets von @ITC_Tweets </a>
