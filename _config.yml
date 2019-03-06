@@ -1,5 +1,5 @@
 title: "ITC Conference"
-source: _source
+#source: _source
 paginate: 10
 paginate_path: "/news/page:num/"
 
