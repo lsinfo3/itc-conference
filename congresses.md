@@ -10,7 +10,7 @@ A [world map of all congresses](https://www.google.com/maps/d/edit?hl=en&authuse
 {% assign congresses = site.congresses | reverse %}
 {% for c in congresses %}
 <p>
-    <a href="{{ c.url }}">
+    <a href="{{ c.url | relative_url }}">
       <b>ITC {{ c.path | slice: -6, 3 | abs }}:  <em> {{ c.conftitle }} </em></b><br/>
     </a>
     {{ c.confdate }}
