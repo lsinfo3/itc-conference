@@ -5,13 +5,13 @@
     <title>
         {{ page.title }} - ITC Conference
     </title>
-    <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}"/>
-    <link rel="stylesheet" href="assets/css/custom.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css"/>
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/responsive.css" />
 
-    <script type="text/javascript" src="assets/js/responsive-nav.js"></script>
-    <script type="text/javascript" src="assets/js/jquery.js"></script>
-    <script type="text/javascript" src="assets/js/parallax.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/responsive-nav.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/jquery.js"></script>
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/js/parallax.js"></script>
 
     <meta name="keywords" content />
     <meta name="description" content />
@@ -21,11 +21,11 @@
 </head>
 
 <body>
-    <div class="cont_top parallax-window" data-parallax="scroll" data-image-src="/assets/images/bg_top.jpg">
+    <div class="cont_top parallax-window" data-parallax="scroll" data-image-src="{{ site.baseurl }}/assets/images/bg_top.jpg">
         <header class="header">
             <div class="in">
-                <a href="/">
-                    <img src="/assets/images/logo.png" class="logo" alt="">
+                <a href="{{ site.baseurl }}/">
+                    <img src="{{ site.baseurl }}/assets/images/logo.png" class="logo" alt="">
                 </a>
                 <div>
                     <div>
@@ -61,7 +61,7 @@
         <aside class="cont_left">
             <ul class="breadcrumb">
                 {% unless page.url == "/" %}
-                <li class="active"><a href="/">Home</a> / </li>
+                <li class="active"><a href="{{ site.baseurl }}/">Home</a> / </li>
                 {% endunless %}
 
                 {% if page.collection %}
@@ -102,7 +102,7 @@
                     <br/>
                 {% endif %}
 
-                <a class="right_links" href="/news.html">What's new?</a>
+                <a class="right_links" href="{{ site.baseurl }}/news.html">What's new?</a>
                 <ul class="right_info">
                     {% for i in site.posts limit: 5 %}
                     {% capture postdate %}{{ i.date }}{% endcapture %}
@@ -113,7 +113,7 @@
                     {% endfor %}
                 </ul>
 
-                <a class="right_links" href="/contact-us.html">Contact Us</a>
+                <a class="right_links" href="{{ site.baseurl }}/contact-us.html">Contact Us</a>
                 <div class=" typo3-neos-nodetypes-html">
                     <p>
                         <a class="twitter-timeline"  href="https://twitter.com/ITC_Tweets" data-widget-id="564733179064778752">Tweets von @ITC_Tweets </a>
@@ -133,11 +133,11 @@
                  | <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
             {% endfor %}
             <a href="https://twitter.com/ITC_Tweets" alt="Join Us on Twitter!" target="_blank">
-                <img src="/assets/images/twss_icon.png" width="25" alt="">
+                <img src="{{ site.baseurl }}/assets/images/twss_icon.png" width="25" alt="">
             </a>
             &nbsp;
             <a href="https://www.linkedin.com/grp/home?gid=8260384" target="_blank" alt="Join Us on Linked.in!">
-                <img src="/assets/images/li_icon.png" width="25" alt="">
+                <img src="{{ site.baseurl }}/assets/images/li_icon.png" width="25" alt="">
             </a>
         </div>
     </footer>
