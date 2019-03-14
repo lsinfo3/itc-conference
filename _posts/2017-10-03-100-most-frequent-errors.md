@@ -27,7 +27,7 @@ Submissions will be peer reviewed. Authors are requested to use the following [l
 
 
 
-This activity emerged from the [ITG 5.2.1 section "System Architecture and Traffic Engineering"](http://itg521.de/) and is supported by [ITC - The First International Conference in Networking Science & Practice](/index.html).
+This activity emerged from the [ITG 5.2.1 section "System Architecture and Traffic Engineering"](http://itg521.de/) and is supported by [ITC - The First International Conference in Networking Science & Practice]({{site.baseurl}}/index.html).
 
 ### Contact
 

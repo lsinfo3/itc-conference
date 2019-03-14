@@ -10,7 +10,7 @@ Recipient of the 2016 Arne Jensen Lifetime Award:<br/>
 Prof. Dr.-Ing. Phuoc Tran-Gia
 
 More information:
-[https://itc-conference.org/awards.html](/awards.html)
+[https://itc-conference.org/awards.html]({{site.baseurl}}/awards.html)
 
 ![]({{site.baseurl}}/assets/Persistent/trangia_arne_award-549x366.jpg){:class="typo3-neos-alignment-center"}
 

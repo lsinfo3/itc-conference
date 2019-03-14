@@ -5,15 +5,14 @@ title: Arpan Mukhopadhyay
 ## Arpan Mukhopadhyay: Rising Scholar Award 2018
 
 
-The goal of the [ITC Rising Scholar Award ](/../awards.html) is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.
+The goal of the [ITC Rising Scholar Award ](../awards.html) is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.
 
 
 It is our pleasure to award the 2018 ITC Rising Scholar Award to Dr. Arpan Mukhopadhyay, post-doctoral researcher in the Computer Communations and Applications Laboratory-2 of Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, for fundamental mathematical results on mean-field approximations. His extremely strong and solid theoretic contributions extend a versatile performance analysis method for a very broad range of applications that are following the original spirit of ITC.
 
 **Award given for** : Exceptional contributions to mean field analysis of large heterogeneous networks
 
-## **Research Accomplishments
-**
+## Research Accomplishments
 
 The emergence of large networked systems such as cloud data centers, distributed caching systems, energy networks, social networks, etc. has driven the need to develop techniques to characterize their performance. One of the most promising techniques in this context is the mean field technique which deals with limits of Markov processes as the number of interacting entities (e.g., nodes or servers) in a system becomes large. The power of this technique lies in the fact that it can accurately predict the behavior of a large but finite system by studying the fluid or hydrodynamic limit of the underlying Markov process which is often a deterministic process and is much easier to analyze.
 

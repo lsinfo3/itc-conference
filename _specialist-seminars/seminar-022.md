@@ -57,8 +57,8 @@ Xiaohua Lu; Samuli Aalto; Pasi Lassila
   *  _High-Power LED Dimming Driver with Multi-Level Current for Smart Street Lighting System_<br/>
 Shih Chang Hsia
 
-  *  _Controversial Substantiation Between Disaster Risk Reduction and Hedging Investment Risk: Case Study on Data Center Risk Management<br/>
-_ Montri Wiboonrat
+  *  _Controversial Substantiation Between Disaster Risk Reduction and Hedging Investment Risk: Case Study on Data Center Risk Management_<br/>
+Montri Wiboonrat
 
 
 

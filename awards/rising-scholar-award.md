@@ -4,7 +4,7 @@ title: Rising Scholar Award
 
 ## ITC Rising Scholar Award 2018
 
-It is our pleasure to award the 2018 ITC Rising Scholar Award to [Dr. Arpan Mukhopadhyay](/bio/arpan-mukhopadhyay.html), post-doctoral researcher in the Computer Communations and Applications Laboratory-2 of Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, for fundamental mathematical results on mean-field approximations. His extremely strong and solid theoretic contributions extend a versatile performance analysis method for a very broad range of applications that are following the original spirit of ITC.
+It is our pleasure to award the 2018 ITC Rising Scholar Award to [Dr. Arpan Mukhopadhyay](../bio/arpan-mukhopadhyay.html), post-doctoral researcher in the Computer Communations and Applications Laboratory-2 of Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, for fundamental mathematical results on mean-field approximations. His extremely strong and solid theoretic contributions extend a versatile performance analysis method for a very broad range of applications that are following the original spirit of ITC.
 
 ## ITC Rising Scholar Award
 

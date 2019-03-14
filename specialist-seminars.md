@@ -11,7 +11,7 @@ Specialist Seminars are regularly organized on specific themes which are usually
 
 ## Previous ITC Specialist Seminars and workshops have been organized on the following themes
 
-**[22nd ITC Specialist Seminar on Energy Efficient and Green Networking](/specialist-seminars/seminar-022.html)**<br/>
+**[22nd ITC Specialist Seminar on _Energy Efficient and Green Networking_](specialist-seminars/seminar-022.html)**<br/>
 20-22 November 2013, Christchurch, New Zealand<br/>
 [Homepage](http://www.itcspecialistseminar22.com/)
 
