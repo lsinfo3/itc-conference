@@ -68,7 +68,7 @@
                 {% capture current %}{{page.collection}}{% endcapture %}
                 {% assign col = site.collections | where:'label',current | first %}
                 <li class="active">
-                    <a href="{{ col.url }}"> {{ col.title }} </a> /
+                    <a href="{{ col.url | relative_url }}"> {{ col.title }} </a> /
                 </li>
                 {% endif %}
 
@@ -88,12 +88,12 @@
                     {% assign name = page.sidebar %}
                     {% assign c = site.collections | where:'label',name | first %}
                     <div class=" typo3-neos-nodetypes-html">
-                        <a class="right_links" href="{{ page.url }}"> {{ c.title }} </a>
+                        <a class="right_links" href="{{ page.url | relative_url }}"> {{ c.title }} </a>
                         <nav class="typo3-neos-nodetypes-menu">
                             <ul class="{{ page.sidebarstyle | default:'' }}">
                                 {% for i in c.docs %}
                                 <li class="normal">
-                                    <a href="{{ i.url }}"> {{ i.title }}</a>
+                                    <a href="{{ i.url | relative_url }}"> {{ i.title }}</a>
                                 </li>
                                 {% endfor %}
                             </ul>
@@ -107,7 +107,7 @@
                     {% for i in site.posts limit: 5 %}
                     {% capture postdate %}{{ i.date }}{% endcapture %}
                     <li>
-                        <h2><a href="{{ i.url }}">{{ i.title }}</a></h2>
+                        <h2><a href="{{ i.url | relative_url }}">{{ i.title }}</a></h2>
                         <span>{% include insertpostdate date=postdate %}</span>
                     </li>
                     {% endfor %}

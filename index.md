@@ -16,7 +16,7 @@ The rootedness on solid methodological ground allowed ITC to adapt its technolog
 
 ## ITC Rising Scholar Award
 
-The goal of the ITC Rising Scholar Award  is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science. There is an open call for nominations: [https://itc-conference.org/awards/rising-scholar-award.html](https://itc-conference.org/awards/rising-scholar-award.html)
+The goal of the ITC Rising Scholar Award  is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science. There is an open call for nominations: [https://itc-conference.org/awards/rising-scholar-award.html](/awards/rising-scholar-award.html)
 
 ## ITC 30 "Teletraffic in a Smart World"
 
