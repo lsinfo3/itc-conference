@@ -12,7 +12,7 @@ Prof. Dr.-Ing. Phuoc Tran-Gia
 More information:
 [https://itc-conference.org/awards.html](/awards.html)
 
-![](/assets/Persistent/trangia_arne_award-549x366.jpg){:class="typo3-neos-alignment-center"}
+![]({{site.baseurl}}/assets/Persistent/trangia_arne_award-549x366.jpg){:class="typo3-neos-alignment-center"}
 
 Prof. Phuoc Tran-Gia receiving the Arne Jensen Lifetime Award 2016 from Michela Meo and Prof. Tobias Hoßfeld
 (from right to left)

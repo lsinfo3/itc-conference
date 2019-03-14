@@ -13,7 +13,7 @@ The International Advisory Council (IAC) of the International Teletraffic Congre
 ## Short Biography
 
 
-![](/assets/Persistent/luigi-149x163.jpg){:class="typo3-neos-alignment-right"}
+![]({{site.baseurl}}/assets/Persistent/luigi-149x163.jpg){:class="typo3-neos-alignment-right"}
 
 Luigi Fratta received the Doctorate in Electrical Engineering from the Politecnico di Milano, Milano, Italy, in 1966.
 

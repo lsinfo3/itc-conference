@@ -11,7 +11,7 @@ During ITC 26 in Karlskrona, Sweden, Professor Onno Boxma has delivered the foll
 
 ## Short Biography
 
-![](/assets/Persistent/OnnoBoxma-150x225.png){:class="typo3-neos-alignment-right"}
+![]({{site.baseurl}}/assets/Persistent/OnnoBoxma-150x225.png){:class="typo3-neos-alignment-right"}
 
 Onno J. Boxma holds the chair of Stochastic Operations Research in the Department of Mathematics and Computer Science in Eindhoven University of Technology. His main research interests are in queueing theory and its applications to the performance analysis of computer, communication, production and traffic systems.<br/>
 Onno has published or edited five books in these areas, and over 180 refereed papers.<br/>

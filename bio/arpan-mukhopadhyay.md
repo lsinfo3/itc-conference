@@ -22,6 +22,6 @@ While most practical systems are composed of heterogeneous interacting entities,
 
 ## Short Bio
 
-![](/assets/Persistent/arpan-156x155.jpeg){:class="typo3-neos-alignment-left"}
+![]({{site.baseurl}}/assets/Persistent/arpan-156x155.jpeg){:class="typo3-neos-alignment-left"}
 
 Dr. Arpan Mukhopadhyay is a researcher working in the broad area of mathematical modeling, performance analysis, optimization, and control of complex networks. His research spans several application areas, e.g., wireless networks, content distribution networks, cloud networks, social networks, etc. His theoretical works on mean field approximations extend the applicability of this performance analysis method to heterogeneous networks and have received Best Paper Awards at IFIP Performance 2015 and ITC 2015. More recently, he has also been working on mathematical problems in smart electrical grids. He obtained the Ph.D. in Electrical and Computer Engineering from the University of Waterloo, Canada, in 2016, the M.E. in Telecommunication Engineering from the Indian Institute of Science, Bangalore, India in 2011 and the B.E. in Electronics and Telecommunication Engineering from Jadavpur University, Kolkata, India in 2009. From March 2016 to February 2017, he was a postdoctoral researcher in the DYOGENE project team of INRIA, Paris, France. He is currently a postdoctoral fellow in the Computer Communications and Applications Laboratory-2 (LCA-2) of École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, where he has been working since March 2017.

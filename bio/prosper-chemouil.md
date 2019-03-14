@@ -9,13 +9,13 @@ He was elected as IAC Chairperson in 2007 at ITC 20 in Ottawa and leading the IA
 
 The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) was pleased to announce that the recipient of the **2015 Arne Jensen Lifetime Achievement Award** is Dr. Prosper Chemouil for his huge contribution to teletraffic research and exceptional dedication to the ITC organization and community.
 
-![](/assets/Persistent/prosperChemouil-itc27-award.jpg)
+![]({{site.baseurl}}/assets/Persistent/prosperChemouil-itc27-award.jpg)
 
 _Dr. Prosper Chemouil receiving the Arne Jensen Lifetime Achievement Award at the occasion of the ITC27 Conference Dinner out of the hands of Michela Meo, TPC co-Chair for ITC27_
 
 ## Short Biography
 
-![](/assets/Persistent/prosperChemouil-150x179.jpg){:class="typo3-neos-alignment-right"}
+![]({{site.baseurl}}/assets/Persistent/prosperChemouil-150x179.jpg){:class="typo3-neos-alignment-right"}
 
 Prosper Chemouil currently an Expert Program Leader on **_Future Networks_** at _Orange Labs Networks_ , the corporate unit of Orange encompassing Research & Development.<br/>
 His main interests are with the design and management of Future Networks and Technologies and their impact on network architecture, traffic engineering and control, and performance and quality of service (QoS). Recently, he has been specifically involved in new networking paradigms like information-centric, programmable and autonomic networking.<br/>
