@@ -91,7 +91,8 @@
                         <a class="right_links" href="{{ page.url | relative_url }}"> {{ c.title }} </a>
                         <nav class="typo3-neos-nodetypes-menu">
                             <ul class="{{ page.sidebarstyle | default:'' }}">
-                                {% for i in c.docs %}
+                                {% assign docs = c.docs | reverse %}
+                                {% for i in docs %}
                                 <li class="normal">
                                     <a href="{{ i.url | relative_url }}"> {{ i.title }}</a>
                                 </li>
