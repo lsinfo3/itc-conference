@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/css/bibsonomy.css"/>
+
+<script type="text/javascript">
+    function toggleVis(itemId){
+        $("#" + itemId).toggle()
+    }
+</script>
+
+<h2>ITC {{ page.path | slice: -7, 2 | abs }}</h2>
+<div id="contentContainer">
+    <div id="content">
+        <p>Browse the ITC publications of previous conferences below or visit our <a href="http://www.bibsonomy.org/cv/user/itc">grouppage</a> at <code>bibsonomy.org</code></p><br/>
+        <h3 class="bib-year">{{ page.year }}</h3>
+        {{ content }}
+    </div id="content">
+</div id="contentContainer">

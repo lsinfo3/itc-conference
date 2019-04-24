@@ -22,6 +22,10 @@ collections:
     posts:
         title: News
         url: /news/
+    itc-library:
+        output: True
+        title: ITC Publications
+        url: /itc-library.html
 
 defaults:
     -
@@ -41,6 +45,12 @@ defaults:
             type: "posts"
         values:
             layout: "post"
+    -
+        scope:
+            type: "itc-library"
+        values:
+            layout: "library"
+            sidebar: "itc-library"
 
 # deployment
 host: 127.0.0.1
