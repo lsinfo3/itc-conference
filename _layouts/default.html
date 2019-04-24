@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8" />
     <title>
-        {{ page.title }} - ITC Conference
+        {{ page.title }}
+        {% if page.collection %}
+        {% capture current %}{{page.collection}}{% endcapture %}
+        {% assign col = site.collections | where:'label',current | first %}
+            - {{ col.title }}
+        {% endif %}
+        - ITC Conference
     </title>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css"/>
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css" />
