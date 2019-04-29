@@ -51,6 +51,7 @@ defaults:
         values:
             layout: "library"
             sidebar: "itc-library"
+            sprite: final-rgb_small-149x69.png
 
 # deployment
 host: 127.0.0.1
