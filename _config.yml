@@ -4,7 +4,7 @@ paginate: 10
 paginate_path: "/news/page:num/"
 baseurl: "/website-itc-conference"
 
-exclude: [ "Gemfile", "Gemfile.lock", "scripts" ]
+exclude: [ "Gemfile", "Gemfile.lock", "scripts", "_Resources" ]
 
 collections:
     congresses:

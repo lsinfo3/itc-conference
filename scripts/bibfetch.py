@@ -5,12 +5,13 @@
 
 # See also https://bitbucket.org/bibsonomy/bibsonomy-python
 # Get your API key at https://www.bibsonomy.org/settings?selTab=1
-# Put username and API key in a file called APIKEY
+# Put username and API key in a file called APIKEY (first line username, second line key)
 
 import bibsonomy
 import sys
 import os
 from pylatexenc.latex2text import LatexNodes2Text
+import requests
 
 def get_api_credentials():
     username = ""
@@ -94,21 +95,7 @@ def generate_html(postres):
     s += "\n</div>\n"
     return s
 
-
-def main():
-    if len(sys.argv) < 2:
-        print("No tag specified")
-        return 1
-
-    username, key = get_api_credentials()
-    if not username or not key:
-        return 1
-
-    json_source = bibsonomy.REST(username, key)
-    bib = bibsonomy.BibSonomy(json_source)
-
-    posts = bib.getPostsForTag("bibtex", [ sys.argv[1] ])
-
+def gen_page(tag, posts):
     html = []
     year = None
 
@@ -128,7 +115,7 @@ def main():
     html.sort(key=lambda x: x[0])
 
     frontmatter = {
-        "title": sys.argv[1].upper(),
+        "title": tag.upper(),
         "year": year if year else "TODO" if posts else "Not available",
     }
 
@@ -141,8 +128,54 @@ def main():
     if not posts:
         lines.append("No entries available.")
 
-    with open("{}.html".format(sys.argv[1]), "w") as f:
+    with open("{}.html".format(tag), "w") as f:
         f.write("\n".join(lines))
+
+def download_pdfs(tag, posts):
+    """Download all PDFs of this conference to a corresponding local folder"""
+    for post in posts:
+        res = post.resource
+        if "url" in res.__dict__ and res.url:
+            fullpath = res.url[res.url.find("_Resources"):]
+            dirname, fname = os.path.split(fullpath)
+
+            if not dirname:
+                print("Invalid URL:", res.url)
+                continue
+
+            if os.path.exists(fullpath):
+                print(fname, "exists -> Skipping")
+                continue
+            else:
+                print("Downloading", fname)
+
+            os.makedirs(dirname, exist_ok=True)
+            pdf = requests.get(res.url)
+            with open(fullpath, "wb") as f:
+                f.write(pdf.content)
+
+
+def main():
+    if len(sys.argv) < 2:
+        print("No tag specified")
+        return 1
+
+    username, key = get_api_credentials()
+    if not username or not key:
+        return 1
+
+    json_source = bibsonomy.REST(username, key)
+    bib = bibsonomy.BibSonomy(json_source)
+
+    posts = bib.getPostsForTag("bibtex", [ sys.argv[1] ])
+
+    if len(sys.argv) > 2 and sys.argv[2] == "pdf":
+        download_pdfs(sys.argv[1], posts)
+    else:
+        gen_page(sys.argv[1], posts)
+
+    return 0
+
 
 if __name__ == "__main__":
     sys.exit(main())
