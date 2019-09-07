@@ -5,7 +5,9 @@ layout: default
 
 <script type="text/javascript">
     function toggleVis(itemId){
-        $("#" + itemId).toggle()
+        // Use getElementById() instead of jquery syntax, because it works when the id contains dots
+        $(document.getElementById(itemId)).toggle()
+        // $("#" + itemId).toggle()
     }
 </script>
 
