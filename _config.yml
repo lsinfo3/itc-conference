@@ -53,6 +53,9 @@ defaults:
             sidebar: "itc-library"
             sprite: final-rgb_small-149x69.png
 
+exclude: [ "Gemfile", "Gemfile.lock", "README.md" ]
+theme: null
+
 # deployment
 host: 127.0.0.1
 port: 4000
