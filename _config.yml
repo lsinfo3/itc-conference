@@ -1,10 +1,15 @@
 title: "ITC Conference"
-#source: _source
-paginate: 10
-paginate_path: "/news/page:num/"
 baseurl: "/website-itc-conference"
 
-exclude: [ "Gemfile", "Gemfile.lock", "scripts", "_Resources" ]
+# News were removed.
+# To enable again: uncomment the following 2 lines, remove "news" and "_posts" entry
+# from exclude list, uncomment respective lines in "collections" and "defaults",
+# and uncomment respective lines in _layouts/default.html for sidebar entries.
+# paginate: 10
+# paginate_path: "/news/page:num/"
+
+exclude: [ "Gemfile", "Gemfile.lock", "scripts", "_Resources", "news", "_posts" ]
+theme: null
 
 collections:
     congresses:
@@ -19,9 +24,9 @@ collections:
         title: Specialist Seminars
         output: True
         url: /specialist-seminars.html
-    posts:
-        title: News
-        url: /news/
+    # posts:
+    #     title: News
+    #     url: /news/
     itc-library:
         output: True
         title: ITC Publications
@@ -41,20 +46,17 @@ defaults:
             sidebar: "about-itc"
     -
         scope:
-            path: ""
-            type: "posts"
-        values:
-            layout: "post"
-    -
-        scope:
             type: "itc-library"
         values:
             layout: "library"
             sidebar: "itc-library"
             sprite: final-rgb_small-149x69.png
-
-exclude: [ "Gemfile", "Gemfile.lock", "README.md" ]
-theme: null
+    # -
+    #     scope:
+    #         path: ""
+    #         type: "posts"
+    #     values:
+    #         layout: "post"
 
 # deployment
 host: 127.0.0.1
