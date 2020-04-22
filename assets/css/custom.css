@@ -35,3 +35,8 @@ html.js body div.in nav.cont_right div.neos-contentcollection a.right_links {
 .tags {
         Display: none;
 }
+
+/* Fix table width */
+table {
+    width: 100%
+}

@@ -1,5 +1,6 @@
 title: "ITC Conference"
-baseurl: "/website-itc-conference"
+baseurl: "/itc-conference"
+domain: "https://itc-conference.org"
 
 # News were removed.
 # To enable again: uncomment the following 2 lines, remove "news" and "_posts" entry

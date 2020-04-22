@@ -22,15 +22,19 @@ III. Information about the data processing
 
 The party responsible for this website (the "controller") for purposes of data protection law is:
 
+<span style="color: red">
 ITC International Teletraffic Congress<br/>
 University of Wuerzburg<br/>
 Institute for Computer Science<br/>
 Chair of Communication Networks<br/>
 Am Hubland<br/>
 97074 Würzburg<br/>
+</span>
 
+<span style="color: red">
 Telephone: +49 931 86331<br/>
 E-Mail: contact@i-teletraffic.org
+</span>
 
 ### II. The rights of users and data subjects
 

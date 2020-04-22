@@ -7,47 +7,40 @@ menu-index: 6
 ## Arne Jensen Lifetime Achievement Awards
 The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community.
 
-* [ITC 30 (Vienna, 2018):](congresses/itc030.html) [Luigi Fratta](bio/luigi-fratta.html)
-* [ITC 29 (Genua, 2017):](congresses/itc029.html)[Hans van den Berg](bio/hans-van-den-berg.html)
-* [ITC 28 (Würzburg, 2016):](congresses/itc028.html) [Phuoc Tran-Gia](bio/phuoc-tran-gia.html)
-* [ITC 27 (Ghent, 2015):](congresses/itc027.html) [Prosper Chemouil](bio/prosper-chemouil.html)
-* [ITC 26 (Karlskrona, 2014):](congresses/itc026.html) [Onno J. Boxma](bio/onno-boxma.html)
-* [ITC 25 (Shanghai, 2013):](congresses/itc025.html) *-none-*
-* [ITC 24 (Cracow, 2012):](congresses/itc024.html) Debasis Mitra
-* [ITC 23 (San Francisco, 2011):](congresses/itc023.html) Villy-Baek Iversen
-* [ITC 22 (Amsterdam, 2010):](congresses/itc022.html) James W. Roberts
-* [ITC 21 (Paris, 2009):](congresses/itc021.html) Paul J. Kühn
+* [ITC 31 (Budapest, 2019)](congresses/itc031.html): [Ulf Körner](bio/ulf-korner.html)
+* [ITC 30 (Vienna, 2018)](congresses/itc030.html): [Luigi Fratta](bio/luigi-fratta.html)
+* [ITC 29 (Genua, 2017)](congresses/itc029.html): [Hans van den Berg](bio/hans-van-den-berg.html)
+* [ITC 28 (Würzburg, 2016)](congresses/itc028.html): [Phuoc Tran-Gia](bio/phuoc-tran-gia.html)
+* [ITC 27 (Ghent, 2015)](congresses/itc027.html): [Prosper Chemouil](bio/prosper-chemouil.html)
+* [ITC 26 (Karlskrona, 2014)](congresses/itc026.html): [Onno J. Boxma](bio/onno-boxma.html)
+* [ITC 25 (Shanghai, 2013)](congresses/itc025.html): *-none-*
+* [ITC 24 (Cracow, 2012)](congresses/itc024.html): Debasis Mitra
+* [ITC 23 (San Francisco, 2011)](congresses/itc023.html): Villy-Baek Iversen
+* [ITC 22 (Amsterdam, 2010)](congresses/itc022.html): James W. Roberts
+* [ITC 21 (Paris, 2009)](congresses/itc021.html): Paul J. Kühn
 
 Before ITC 21, the Award was referred to as **IAC Lifetime Achievement Awards**. The prize was established at the ITC 15 in Washington in 1997.
 
-* [ITC 20 (Ottawa, 2007):](congresses/itc020.html) Jim O’Shaughnessy
-* [ITC 19 (Beijing, 2005):](congresses/itc019.html) Minoru Akiyama, Clemens Pratt
-* [ITC 18 (Berlin, 2003):](congresses/itc018.html) Leendert Cornelis (Leen) Kosten, Pierre Le Gall
-* [ITC 15 (Washington D.C., 1997):](congresses/itc015.html) J.W. Cohen, P.J. Burke
+* [ITC 20 (Ottawa, 2007)](congresses/itc020.html): Jim O’Shaughnessy
+* [ITC 19 (Beijing, 2005)](congresses/itc019.html): Minoru Akiyama, Clemens Pratt
+* [ITC 18 (Berlin, 2003)](congresses/itc018.html): Leendert Cornelis (Leen) Kosten, Pierre Le Gall
+* [ITC 15 (Washington D.C., 1997)](congresses/itc015.html): J.W. Cohen, P.J. Burke
 
 ## ITC Rising Scholar Award
 
-The International Advisory Council (IAC) of the ITC decided to set up a new award: the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.
+The International Advisory Council (IAC) of the ITC decided to set up a new award: the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.<br/>
+There is an open [call for nominations.](awards/rising-scholar-award.html) More information on the call for nomination: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
 
-There is an open [call for nominations.](awards/rising-scholar-award.html) More information on the call for nomination: [https://itc-conference.org/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
-
-
-
-
-
-
-
-
-
-**ITC Rising Scholar Award 2018**
-
-It is our pleasure to award the 2018 ITC Rising Scholar Award to [Dr. Arpan Mukhopadhyay](bio/arpan-mukhopadhyay.html), post-doctoral researcher in the Computer Communations and Applications Laboratory-2 of Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, for fundamental mathematical results on mean-field approximations. His extremely strong and solid theoretic contributions extend a versatile performance analysis method for a very broad range of applications that are following the original spirit of ITC.
-
+* ITC Rising Scholar Award 2019 ([ITC 31, Budapest](congresses/itc031.html)): [Thomas Zinner](bio/thomas-zinner.html)
+* ITC Rising Scholar Award 2018 ([ITC 30, Vienna](congresses/itc030.html)): [Arpan Mukhopadhyay](bio/arpan-mukhopadhyay.html)
 
 
 ## Best Paper Awards and Best Student Paper Awards
 
 Best Students Paper Awards were introduced in ITC 16 (1999) and extended to full participants in ITC 21 (2009).
+
+* [ITC 31 (Budapest, 2019)](congresses/itc031.html)
+    * Best Paper Award: _"A Processor-Sharing model for the Performance of Virtualized Network Functions"_ by Fabrice Guillemin, Veronica Quintuna Rodriguez and Alain Simonian
 
 * [ITC 30 (Vienna, 2018)](congresses/itc030.html)
     * Best Paper Award: _"Statistical Delay Bounds for Automatic Repeat Request Protocols with Pipelining"_ by Mark Akselrod; Markus Fidler
