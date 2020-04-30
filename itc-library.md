@@ -25,7 +25,7 @@ sidebar: itc-library
             </figure>
             <div>
                 <p style="text-align: center;">
-                    <a href="{{ c.url | relative_url }}">ITC {{ c.path | slice: -7, 2 | abs }}</a>
+                    <a href="{{ c.url | relative_url }}">ITC {{ c.path | slice: -5, 2 | abs }}</a>
                 </p>
             </div>
         </div>

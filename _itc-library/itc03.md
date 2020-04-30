@@ -1,5 +1,4 @@
 ---
-sprite: itc-6-149x91.png
 title: ITC03
 year: Not available
 ---

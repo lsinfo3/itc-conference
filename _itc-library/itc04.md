@@ -1,6 +1,5 @@
 ---
-sprite: itc05-small-149x89.png
-title: ITC05
+title: ITC04
 year: Not available
 ---
 
