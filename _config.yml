@@ -9,7 +9,7 @@ domain: "https://itc-conference.org"
 # paginate: 10
 # paginate_path: "/news/page:num/"
 
-exclude: [ "Gemfile", "Gemfile.lock", "scripts", "_Resources", "news", "_posts" ]
+exclude: [ "Gemfile", "Gemfile.lock", "scripts", "news", "_posts" ]
 theme: null
 
 collections:
