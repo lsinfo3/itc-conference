@@ -1,6 +1,7 @@
 ---
 title: ITC22
 year: 2010
+sprite: itc18-27-small-150x87.png
 ---
 
 Dhamdhere, Amogh and Francois, Pierre and Dovrolis, Constantine<br/>

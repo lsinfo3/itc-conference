@@ -1,6 +1,7 @@
 ---
 title: ITC23
 year: 2011
+sprite: itc18-27-small-150x87.png
 ---
 
 Dong, Wei and Ge, Zihui and Lee, Seungjoon<br/>

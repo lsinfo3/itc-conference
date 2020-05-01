@@ -1,6 +1,7 @@
 ---
 title: ITC24
 year: 2012
+sprite: itc18-27-small-150x87.png
 ---
 
 Bosman, J.W. and van der Mei, R.D. and Nunez-Queijaz, R.<br/>

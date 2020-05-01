@@ -1,6 +1,7 @@
 ---
 title: ITC16
 year: 1999
+sprite: itc16-148x78.gif
 ---
 
 Chan, K.S. and Chan, Sammy and Ko, K.T.<br/>

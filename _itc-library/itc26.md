@@ -1,6 +1,7 @@
 ---
 title: ITC26
 year: 2014
+sprite: itc18-27-small-150x87.png
 ---
 
 Inoue, Masuqi<br/>

@@ -1,6 +1,7 @@
 ---
 title: ITC15
 year: 1997
+sprite: itc15-149x85.gif
 ---
 
 le Boudec, Jean-Yves and Ziedins, Arnis<br/>

@@ -1,6 +1,7 @@
 ---
 title: ITC21
 year: 2009
+sprite: itc18-27-small-150x87.png
 ---
 
 Østerbø, Olav<br/>

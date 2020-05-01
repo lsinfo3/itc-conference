@@ -1,6 +1,7 @@
 ---
 title: ITC25
 year: 2013
+sprite: itc18-27-small-150x87.png
 ---
 
 Haddad, Majed and Wiecek, Piotr and Altman, Eitan and Sidi, Habib<br/>

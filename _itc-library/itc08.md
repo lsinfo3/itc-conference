@@ -1,6 +1,7 @@
 ---
 title: ITC08
 year: 1976
+sprite: itc-6-149x91.png
 ---
 
 Gimpelson, L.A. and Rice, J.<br/>

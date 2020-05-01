@@ -1,6 +1,7 @@
 ---
 title: ITC09
 year: 1979
+sprite: itc09-small-149x127.png
 ---
 
 Somoza, P. and Guerrero, A.<br/>

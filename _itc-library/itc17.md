@@ -1,6 +1,7 @@
 ---
 title: ITC17
 year: 2001
+sprite: itc17-2.gif
 ---
 
 He, JiaFu and Sohraby, Khosrow<br/>

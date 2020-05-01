@@ -1,6 +1,7 @@
 ---
 title: ITC01
 year: 1955
+sprite: itc-6-149x91.png
 ---
 
 Brockmeyer, E.<br/>

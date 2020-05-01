@@ -1,6 +1,7 @@
 ---
 title: ITC20
 year: 2007
+sprite: itc18-27-small-150x87.png
 ---
 
 Præstholm, Steffen and Schwefel, Hans-Peter and Andersen, Søren V.<br/>

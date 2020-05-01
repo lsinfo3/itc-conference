@@ -1,6 +1,7 @@
 ---
 title: ITC19
 year: 2005
+sprite: itc18-27-small-150x87.png
 ---
 
 Molina, M. and Niccolini, S. and Duffield, N.G.<br/>

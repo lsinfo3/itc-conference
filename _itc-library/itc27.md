@@ -1,6 +1,7 @@
 ---
 title: ITC27
 year: 2015
+sprite: itc18-27-small-150x87.png
 ---
 
 Becker, N. and Fidler, M.<br/>

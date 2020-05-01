@@ -1,6 +1,7 @@
 ---
 title: ITC18
 year: 2003
+sprite: itc18-27-small-150x87.png
 ---
 
 Yeo, B.S. and Turner, L.F.<br/>

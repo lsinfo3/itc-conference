@@ -1,6 +1,7 @@
 ---
 title: ITC12
 year: 1988
+sprite: itc12-small-150x158.png
 ---
 
 Louvion, J.R. and Boyer, P. and Gravey, A.<br/>

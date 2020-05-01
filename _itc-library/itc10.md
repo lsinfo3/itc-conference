@@ -1,6 +1,7 @@
 ---
 title: ITC10
 year: 1983
+sprite: itc-6-149x91.png
 ---
 
 Becker, Simcha and Herzberg, Meir<br/>

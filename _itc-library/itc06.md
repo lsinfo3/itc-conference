@@ -1,6 +1,7 @@
 ---
 title: ITC06
 year: 1970
+sprite: itc-6-149x91.png
 ---
 
 Hakansson, Leif<br/>

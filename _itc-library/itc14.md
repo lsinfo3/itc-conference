@@ -1,6 +1,7 @@
 ---
 title: ITC14
 year: 1994
+sprite: ITC14-small-150x90.jpg
 ---
 
 Kühn, Paul J. and Labetoulle, Jacques and Roberts, James W.<br/>

@@ -1,6 +1,7 @@
 ---
 title: ITC13
 year: 1991
+sprite: itc13-small-149x59.png
 ---
 
 Granel, E. and Martinez-Dalmau, J.L. and Lopez-Hernaiz, J. and Garcia-Gutierrez, s. and Herranz, S. and Lapayese, I.<br/>

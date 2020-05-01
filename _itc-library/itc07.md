@@ -1,6 +1,7 @@
 ---
 title: ITC07
 year: 1973
+sprite: itc-6-149x91.png
 ---
 
 Rodriguez, A. and Fontana, B. and Die Fagoaga, G.<br/>

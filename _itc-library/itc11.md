@@ -1,6 +1,7 @@
 ---
 title: ITC11
 year: 1985
+sprite: itc11-scanned-150x103.png
 ---
 
 Dec, Sbigniew and Sobczak, Ryszard and Zientalski, Marian<br/>
