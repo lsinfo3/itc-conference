@@ -19,4 +19,4 @@ Area 8: Networked applications (Zhu Li, Lea Skorin-Kapov)
 In addition, there will be a demo session across the areas.<br/>
 Demonstration Session (Mark Berman, Michael Jarschel, Rick McGeer)
 
-More details are available at the [ITC 28 homepage: http://itc28.org/](http://itc28.org/)
+More details are available at the [ITC 28 homepage: https://archive.itc-conference.org/itc28/](https://archive.itc-conference.org/itc28/)

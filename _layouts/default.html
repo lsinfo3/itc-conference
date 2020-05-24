@@ -23,7 +23,7 @@
     <meta name="description" content />
     <meta name="robots" content="index,follow" />
 
-    <link rel="canonical" href="https://itc-conference.org/" />
+    <link rel="canonical" href="{{ site.domain }}" />
 </head>
 
 <body>
@@ -137,7 +137,7 @@
 
     <footer class="footer">
         <div class="in">
-            © 2018 <a href="http://www.i-teletraffic.org">i-teletraffic.org</a>
+            © 2016 <a href="{{ site.baseurl }}/">itc-conference.org</a>
             {% assign pages = site.pages | sort: "menu-index" | where:"menu","footer-nav" %}
             {% for p in pages %}
                  | <a href="{{ p.url | relative_url }}">{{ p.title }}</a>

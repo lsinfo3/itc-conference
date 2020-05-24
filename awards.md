@@ -51,9 +51,9 @@ Best Students Paper Awards were introduced in ITC 16 (1999) and extended to full
     * Best Student Paper Award: _"Performance Modelling of Vehicular Floating Content in Urban Settings"_ by Gaetano Manzo, Marco G. Ajmone Marsan, Gianluca A. Rizzo
 
 * [ITC 28 (Würzburg, 2016)](congresses/itc028.html)
-    * Best Paper Arward: [_"Access-time Aware cache Algorithms"_ by Giovanni Neglia; Damiano Carra; Mingdong Feng; Vaishnav Janardhan; Pietro Michiardi; Dimitra Tsigkari](https://itc28.org/schedule/accepted-papers/area4-paper7.html)
-    * Best Student Paper Award: [_"Port Based Capacity Extensions (PBCEs): Improving SDNs Flow Table Scalability"_ by Robert Bauer; Martina Zitterbart](https://itc28.org/schedule/accepted-papers/area4-paper3.html)
-    * Best Demo Award: [_"Self-Optimization of Software Defined Radios Through Evolutionary Algorithms"_ by Zubair Shaik; André Puschmann; Andreas Mitschele-Thiel](https://itc28.org/schedule/accepted-papers/demos-paper3.html)
+    * Best Paper Arward: [_"Access-time Aware cache Algorithms"_ by Giovanni Neglia; Damiano Carra; Mingdong Feng; Vaishnav Janardhan; Pietro Michiardi; Dimitra Tsigkari](https://archive.itc-conference.org/itc28/schedule/accepted-papers/area4-paper7.html)
+    * Best Student Paper Award: [_"Port Based Capacity Extensions (PBCEs): Improving SDNs Flow Table Scalability"_ by Robert Bauer; Martina Zitterbart](https://archive.itc-conference.org/itc28/schedule/accepted-papers/area4-paper3.html)
+    * Best Demo Award: [_"Self-Optimization of Software Defined Radios Through Evolutionary Algorithms"_ by Zubair Shaik; André Puschmann; Andreas Mitschele-Thiel](https://archive.itc-conference.org/itc28/schedule/accepted-papers/demos-paper3.html)
 
 * [ITC 27 (Ghent, 2015)](congresses/itc027.html)
     * Best Paper Award: _“The Power of Randomized Routing in Heterogeneous Loss Systems”_ by Arpan Mukhopadhyay, Ravi R. Mazumdar, Fabrice Guillemin

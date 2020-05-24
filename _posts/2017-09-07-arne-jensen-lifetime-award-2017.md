@@ -10,4 +10,4 @@ Recipient of the 2017 Arne Jensen Lifetime Award:<br/>
 Prof. Dr. Hans van den Berg
 
 More information:
-[https://itc-conference.org/awards.html]({{site.baseurl}}/awards.html)
+[{{ site.domain }}/awards.html]({{site.baseurl}}/awards.html)

@@ -11,5 +11,5 @@ ITC 31 will be held August 27-29, 2019 at the Budapest University of Technology 
   * Networking Architectures and Paradigms
   * Wireless and Cellular Networks
 
- **More information about ITC 31 at [https://itc31.org](https://itc31.org/)**
+ **More information about ITC 31 at <https://itc31.itc-conference.org/>**
 

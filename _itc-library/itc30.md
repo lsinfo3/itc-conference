@@ -22,25 +22,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
     <strong>Abstract:</strong> We show that a fluid-flow interpretation of Service Curve Earliest Deadline First (SCED) scheduling simplifies deadline derivations for this scheduler.  By exploiting the recently reported isomorphism between min-plus and max-plus network calculus and expressing deadlines in a max-plus algebra deadline computations no longer require pseudo-inverse computations. SCED deadlines are provided for general convex or concave piecewise linear service curves.
 </div>
 
-Liebeherr, Jörg<br/>
-**A Fluid-Flow Interpretation of SCED Scheduling**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Liebeherr18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Liebeherr18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/c98bc4fe8efa7873594e797d6c5385a39e1a1cd9/Liebeherr18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/6c4f06c3652a011d566a91219ad5fd1c/itc)
-
-<div id="Liebeherr18ITC30" style="display: none;" class="bibtex">@inproceedings{Liebeherr18ITC30,
-    title         = { A Fluid-Flow Interpretation of SCED Scheduling },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Liebeherr, Jörg },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Liebeherr18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> We show that a fluid-flow interpretation of Service Curve Earliest Deadline First (SCED) scheduling simplifies deadline derivations for this scheduler.  By exploiting the recently reported isomorphism between min-plus and max-plus network calculus and expressing deadlines in a max-plus algebra deadline computations no longer require pseudo-inverse computations. SCED deadlines are provided for general convex or concave piecewise linear service curves.
-</div>
-
 Burchard, Almut and Liebeherr, Jörg<br/>
 **A General Per-Flow Service Curve for GPS**<br/>
 In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
@@ -48,25 +29,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
 [\[Abstract\]](javascript:toggleVis('abstract_Burchard18ITC30'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc30/Burchard18ITC30.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/41fe6cd828a08a8668c498cf6edbe3f0/itc)
-
-<div id="Burchard18ITC30" style="display: none;" class="bibtex">@inproceedings{Burchard18ITC30,
-    title         = { A General Per-Flow Service Curve for GPS },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Burchard, Almut and Liebeherr, Jörg },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Burchard18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> Generalized Processor Sharing (GPS), which provides the theoretical underpinnings for fair packet scheduling algorithms, has been studied extensively. However, a tight formulation of the available service of a flow only exists for traffic that is regulated by affine arrival envelopes and constant-rate links. In this paper, we show that the universal service curve by Parekh and Gallager can be extended to concave arrival envelopes and links with time-variable capacity. We also dispense with the previously existing assumption of a stable system.
-</div>
-
-Burchard, Almut and Liebeherr, Jörg<br/>
-**A General Per-Flow Service Curve for GPS**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Burchard18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Burchard18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/f5dcfbe54a264ac9a468f9ac7f7b0c3e767be1db/Burchard18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/a68a0fa4708bb338d397782add79ea68/itc)
 
 <div id="Burchard18ITC30" style="display: none;" class="bibtex">@inproceedings{Burchard18ITC30,
     title         = { A General Per-Flow Service Curve for GPS },
@@ -143,25 +105,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
 [\[Abstract\]](javascript:toggleVis('abstract_Hohlfeld18ITC30'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc30/Hohlfeld18ITC30.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/20fd49f4dd38b2c3353b06c19e539468/itc)
-
-<div id="Hohlfeld18ITC30" style="display: none;" class="bibtex">@inproceedings{Hohlfeld18ITC30,
-    title         = { Application-Agnostic Offloading of Datagram Processing },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Hohlfeld, Oliver and Reelfs, Helge and Rüth, Jan and Schmidt, Florian and Zimmermann, Torsten and Hiller, Jens and Wehrle, Klaus },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Hohlfeld18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> As network speed increases, servers struggle to serve all requests directed at them. This challenge is rooted in a partitioned data path where the split between the kernel space networking stack and user space applications induces overheads. To address this challenge, we propose Santa, a architecture to optimize the data path by enabling server applications to (partially) offload packet processing to a generic rule processor. We exemplify Santa by showing how it can drastically accelerate kernel-based UDP packet processingâ\text\euro''a currently neglected domain. Our evaluation focuses on accelerating DNS server for which we find a performance increase by a factor of 5.5.
-</div>
-
-Hohlfeld, Oliver and Reelfs, Helge and Rüth, Jan and Schmidt, Florian and Zimmermann, Torsten and Hiller, Jens and Wehrle, Klaus<br/>
-**Application-Agnostic Offloading of Datagram Processing**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Hohlfeld18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Hohlfeld18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/1dbb8a3e050fcac91b444feb63b7117b7e15c847/Hohlfeld18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/5268cbd96e42f626e6f91358bdbf8117/itc)
 
 <div id="Hohlfeld18ITC30" style="display: none;" class="bibtex">@inproceedings{Hohlfeld18ITC30,
     title         = { Application-Agnostic Offloading of Datagram Processing },
@@ -280,25 +223,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
     <strong>Abstract:</strong> From the point of view of telecommunication providers, video streaming is one of the most demanding applications in today's Internet. Over 73% of the total global network traffic has been attributed to video streaming applications in 2017. In this work, we provide a first step towards a better understanding of the packet level behavior of video streaming traffic to enable more efficient traffic engineering in the future. We perform a measurement study with the popular video streaming platform YouTube and show that the different playout phases of a video streaming session can not only be observed by evaluating application layer metrics, but also from raw and encrypted packet level traces.
 </div>
 
-Geissler, Stefan and Lange, Stanislav and Wamser, Florian and Hoßfeld, Tobias<br/>
-**Deriving YouTube Playout Phases from Encrypted Packet Level Traffic**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Geissler18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Geissler18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/724d58fba5f72afc5bd72521379a44861a016712/Geissler18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/3de86599539e100f0d7e56516c75ab56/itc)
-
-<div id="Geissler18ITC30" style="display: none;" class="bibtex">@inproceedings{Geissler18ITC30,
-    title         = { Deriving YouTube Playout Phases from Encrypted Packet Level Traffic },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Geissler, Stefan and Lange, Stanislav and Wamser, Florian and Hoßfeld, Tobias },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Geissler18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> From the point of view of telecommunication providers, video streaming is one of the most demanding applications in today's Internet. Over 73% of the total global network traffic has been attributed to video streaming applications in 2017. In this work, we provide a first step towards a better understanding of the packet level behavior of video streaming traffic to enable more efficient traffic engineering in the future. We perform a measurement study with the popular video streaming platform YouTube and show that the different playout phases of a video streaming session can not only be observed by evaluating application layer metrics, but also from raw and encrypted packet level traces.
-</div>
-
 Jain, Ish Kumar and Kumar, Rajeev and Panwar, Shivendra<br/>
 **Driven by Capacity or Blockage? A Millimeter Wave Blockage Analysis**<br/>
 In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
@@ -382,25 +306,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
 [\[Abstract\]](javascript:toggleVis('abstract_Hyytia18ITC30'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc30/Hyytia18ITC30.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/81cfe90c25abaf9906cd7763c6d65f57/itc)
-
-<div id="Hyytia18ITC30" style="display: none;" class="bibtex">@inproceedings{Hyytia18ITC30,
-    title         = { Evaluating Rare Events in Mission Critical Dispatching Systems },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Hyytiä, Esa and Righter, Rhonda },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Hyytia18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> Dispatching systems, where jobs are routed to servers immediately upon arrival, appear frequently in parallel computing systems. With a dynamic dispatching policy, the system is generally analytically intractable and performance evaluation is carried out by means of Monte Carlo simulations. A typical performance metric is the mean response time that is often easy to estimate. In contrast, we consider systems where events generating costs are extremely rare. In our reference system, jobs have deadlines for waiting time. When deadlines are loose when compared to the system's load, novel rare event simulation techniques must be applied. We consider both conditioning and importance sampling to this end. The proposed techniques are demonstrated in numerical examples, where we discover interesting performance relationships between the classical dispatching policies; Random split (RND), Round-robin (RR), Join-the-shortest-queue (JSQ) and Least-work-left (LWL).
-</div>
-
-Hyytiä, Esa and Righter, Rhonda<br/>
-**Evaluating Rare Events in Mission Critical Dispatching Systems**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Hyytia18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Hyytia18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/38623c76ff0094682911be2cbea55b688ffd0e6e/Hyytia18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/03e5c2364f25feba81118c9074b2285e/itc)
 
 <div id="Hyytia18ITC30" style="display: none;" class="bibtex">@inproceedings{Hyytia18ITC30,
     title         = { Evaluating Rare Events in Mission Critical Dispatching Systems },
@@ -637,25 +542,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
     <strong>Abstract:</strong> Stochastic network calculus is a tool for computing error bounds on the performance of queueing systems. However, deriving accurate bounds for networks consisting of several queues or subject to non-independent traffic inputs is challenging. In this paper, we investigate the relevance of the tools from analytic combinatorics, especially the kernel method, to tackle this problem. Applying the kernel method allows us to compute the generating functions of the queue state distributions in the stationary regime of the network. As a consequence, error bounds with an arbitrary precision can be computed. In this preliminary work, we focus on simple examples which are representative of the difficulties that the kernel method allows us to overcome.
 </div>
 
-Bouillard, Anne and Comte, Céline and de Panafieu, Élie and Mathieu, Fabien<br/>
-**Of Kernels and Queues: When Network Calculus Meets Analytic Combinatorics**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Bouillard18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Bouillard18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/35a29721e55cab224f5a5aad34d6d27ce3db3f66/Bouillard18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/1c8a4546d2911ef6e536dc035350cb75/itc)
-
-<div id="Bouillard18ITC30" style="display: none;" class="bibtex">@inproceedings{Bouillard18ITC30,
-    title         = { Of Kernels and Queues: When Network Calculus Meets Analytic Combinatorics },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Bouillard, Anne and Comte, Céline and de Panafieu, Élie and Mathieu, Fabien },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Bouillard18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> Stochastic network calculus is a tool for computing error bounds on the performance of queueing systems. However, deriving accurate bounds for networks consisting of several queues or subject to non-independent traffic inputs is challenging. In this paper, we investigate the relevance of the tools from analytic combinatorics, especially the kernel method, to tackle this problem. Applying the kernel method allows us to compute the generating functions of the queue state distributions in the stationary regime of the network. As a consequence, error bounds with an arbitrary precision can be computed. In this preliminary work, we focus on simple examples which are representative of the difficulties that the kernel method allows us to overcome.
-</div>
-
 Vasantam, Thirupathaiah and Mazumdar, Ravi R.<br/>
 **On Occupancy Based Randomized Routing Schemes in Large Systems of Shared Servers**<br/>
 In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
@@ -720,25 +606,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
 [\[Abstract\]](javascript:toggleVis('abstract_Moldovan18ITC30'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc30/Moldovan18ITC30.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/a24456d9eb79bef1244c8fdaf3b6cf74/itc)
-
-<div id="Moldovan18ITC30" style="display: none;" class="bibtex">@inproceedings{Moldovan18ITC30,
-    title         = { Optimal Fairness and Quality in Video Streaming with Multiple Users },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Moldovan, Christian and Skorin-Kapov, Lea and Heegaard, Poul E. and Hoßfeld, Tobias },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Moldovan18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> With the majority of video distribution services relying on the HTTP adaptive streaming paradigm, a great deal of research is geared towards developing algorithms and solutions for improving user perceived quality while making efficient use of available resources. Our goal is to provide the means for benchmarking such solutions in the context of multiple users accessing Video on Demand content while sharing a bottleneck link. For that purpose, we propose a quadratic problem formulation to compute the theoretical optimum in terms of adaptation strategies and corresponding segment downloads across multiple users under given bandwidth constraints. By aiming to maximize both service quality and fairness, we quantify and compare the impact of different fairness objectives (bandwidth fairness, pattern fairness, and session fairness) on resulting quality and achieved QoE fairness. Based on conducted simulations and parameter studies, our results demonstrate the benefits of optimizing for session fairness as compared to other approaches.
-</div>
-
-Moldovan, Christian and Skorin-Kapov, Lea and Heegaard, Poul E. and Hoßfeld, Tobias<br/>
-**Optimal Fairness and Quality in Video Streaming with Multiple Users**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Moldovan18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Moldovan18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/20c7807d47870c071c2ded4421a19def9657f3f2/Moldovan18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/47ad10bac573894a1bac22c915888e33/itc)
 
 <div id="Moldovan18ITC30" style="display: none;" class="bibtex">@inproceedings{Moldovan18ITC30,
     title         = { Optimal Fairness and Quality in Video Streaming with Multiple Users },
@@ -978,25 +845,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
     <strong>Abstract:</strong> A major challenge in mobile video streaming applications is the variability of the wireless channel. Techniques like Apple's HLS and MPEG-DASH typically offer the video in chunks where each chunk is made available with different levels of quality and bitrate. Adaptive clients use estimates of the past network conditions to select the bitrate of the next chunk accordingly. Frequently, this selection is based on the average performance and does not consider the variability of the channel. In this work, we present a method for bitrate adaptation that uses the distribution of the past throughput to provide statistical performance guarantees obtained by the stochastic network calculus. We show how to select the bitrate so that a certain, small probability of buffer underflow is not exceeded. The results are derived for the general case of an arbitrary throughput distribution. Numerical results are included for the example of a Gaussian distribution. Additionally, we present simulation results that show the relevant performance metrics like average bitrate and buffer level of a system that adjusts it's bitrate as suggested by our method. Generally, the method presented in this paper can achieve a bitrate that is close to the average available throughput with little variability of the playback rate while ensuring a defined probability of buffer underflow.
 </div>
 
-Akselrod, Mark and Fidler, Markus and Lübben, Ralf<br/>
-**Stochastic Guarantees for Rate-Adaptive Streaming**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Akselrod18ITC30b'))
-[\[Abstract\]](javascript:toggleVis('abstract_Akselrod18ITC30b'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/b8036d4ce003599e118841064f262dc569c7ba99/Akselrod18ITC30b.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/7be682d16d42ad64b414840f90b47c7a/itc)
-
-<div id="Akselrod18ITC30b" style="display: none;" class="bibtex">@inproceedings{Akselrod18ITC30b,
-    title         = { Stochastic Guarantees for Rate-Adaptive Streaming },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Akselrod, Mark and Fidler, Markus and Lübben, Ralf },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Akselrod18ITC30b" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> A major challenge in mobile video streaming applications is the variability of the wireless channel. Techniques like Apple's HLS and MPEG-DASH typically offer the video in chunks where each chunk is made available with different levels of quality and bitrate. Adaptive clients use estimates of the past network conditions to select the bitrate of the next chunk accordingly. Frequently, this selection is based on the average performance and does not consider the variability of the channel. In this work, we present a method for bitrate adaptation that uses the distribution of the past throughput to provide statistical performance guarantees obtained by the stochastic network calculus. We show how to select the bitrate so that a certain, small probability of buffer underflow is not exceeded. The results are derived for the general case of an arbitrary throughput distribution. Numerical results are included for the example of a Gaussian distribution. Additionally, we present simulation results that show the relevant performance metrics like average bitrate and buffer level of a system that adjusts it's bitrate as suggested by our method. Generally, the method presented in this paper can achieve a bitrate that is close to the average available throughput with little variability of the playback rate while ensuring a defined probability of buffer underflow.
-</div>
-
 Mocanu, Decebal Constantin<br/>
 **Synopsis of the PhD Thesis - Network Computations in Artificial Intelligence**<br/>
 In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
@@ -1072,25 +920,6 @@ In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
 [\[Abstract\]](javascript:toggleVis('abstract_Zhao18ITC30'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc30/Zhao18ITC30.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/2073534ab385f458c934f5c533676c83/itc)
-
-<div id="Zhao18ITC30" style="display: none;" class="bibtex">@inproceedings{Zhao18ITC30,
-    title         = { Time Constrained Service-Aware Migration of Virtualized Services for Mobile Edge Computing },
-    year          = { 2018 },
-    address       = { Vienna, Austria },
-    author        = { Zhao, Peiyue and Dán, György },
-    booktitle     = { 30th International Teletraffic Congress (ITC 30) }
-}</div>
-<div id="abstract_Zhao18ITC30" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> We consider the migration of virtualized services (VSs) in Mobile Edge Computing (MEC), so as to facilitate server maintenance, load balancing under mobility, improved energy efficiency and resource utilization, and incident response. We consider a set of VSs that has to be migrated from a source placement to a target placement, while maintaining service continuity as much as possible. We formulate the VS migration problem as an integer programming problem, and analyze its complexity. We propose an efficient iterative algorithm for computing when and in what order the VSs shall be migrated among the MEC nodes. We evaluate the proposed solution in terms of total service value, efficiency, and scalability. Extensive simulations show that our algorithm is computationally effective, and performs close to optimal.
-</div>
-
-Zhao, Peiyue and Dán, György<br/>
-**Time Constrained Service-Aware Migration of Virtualized Services for Mobile Edge Computing**<br/>
-In *30th International Teletraffic Congress (ITC 30)*. Vienna, Austria 2018<br/>
-[\[BibTeX\]](javascript:toggleVis('Zhao18ITC30'))
-[\[Abstract\]](javascript:toggleVis('abstract_Zhao18ITC30'))
-[\[Download\]](https://itc-conference.org/_Resources/Persistent/e96844c9b7dd9d9292fc1f908477fb0423da31c2/Zhao18ITC30.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/2738d57ac942469554081d7919853821/itc)
 
 <div id="Zhao18ITC30" style="display: none;" class="bibtex">@inproceedings{Zhao18ITC30,
     title         = { Time Constrained Service-Aware Migration of Virtualized Services for Mobile Edge Computing },

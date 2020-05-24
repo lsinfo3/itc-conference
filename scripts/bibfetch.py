@@ -5,6 +5,7 @@
 # Get your API key at https://www.bibsonomy.org/settings?selTab=1
 # Put username and API key in a file called APIKEY (first line username, second line key)
 
+from typing import List, Set
 import argparse
 import bibsonomy
 import sys
@@ -74,7 +75,7 @@ def generate_entry(entry: dict):
     return "".join(content)
 
 
-def gen_page(tag, entries: dict):
+def gen_page(tag: str, entries: List[dict]):
     content = []  # Stores tuples (title, content) for each entry
     year = None
 

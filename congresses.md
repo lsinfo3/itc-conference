@@ -20,7 +20,7 @@ Details about ITC 33 in France in 2021 will come later
 <p>
     <a href="{{ c.url | relative_url }}">
     <b>
-    {% if c.conftitle != "" %}
+    {% if c.conftitle %}
         ITC {{ c.path | slice: -6, 3 | abs }}: <em>{{ c.conftitle }}</em>
     {% else %}
         ITC {{ c.path | slice: -6, 3 | abs }}

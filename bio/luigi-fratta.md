@@ -6,7 +6,7 @@ title: Luigi Fratta
 
 The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community.
 
-The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) is pleased to announce that the recipient of the 2018 Arne Jensen Lifetime Award is Dr. Luigi Fratta. He will give a talk in the [ITC 30 Award Session](https://itc30.org/en/program.html) on Wednesday, 5 Sep 2018.
+The International Advisory Council (IAC) of the International Teletraffic Congress (ITC) is pleased to announce that the recipient of the 2018 Arne Jensen Lifetime Award is Dr. Luigi Fratta. He will give a talk in the [ITC 30 Award Session](https://archive.itc-conference.org/itc30/en/program.html) on Wednesday, 5 Sep 2018.
 "All Around Internet: Past, Present and Future"
 
 
