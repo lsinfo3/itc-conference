@@ -6,6 +6,13 @@ sidebar: about-itc
 sidebarstyle: right_info
 ---
 
+## Site moved
+
+Domains of the form `itcXY.org/net/com` do no longer exist.
+A list of all ITC conferences and their homepages can be found [here]({{ site.baseurl }}/congresses.html).
+Alternatively, they can be accessed using `{{ site.domain }}/itcXY`.
+
+<br/>
 
 # Welcome to ITC!
 
