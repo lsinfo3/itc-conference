@@ -7,7 +7,7 @@ Hoßfeld, Tobias<br/>
 **# ITC 28 Report**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
 [\[BibTeX\]](javascript:toggleVis('hossfeld2016report'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/30fcb2291619b2ce07ad2d03a9f004f96fffca87/ITC28%20Report.pdf)
+[\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc28/ITC28%20Report.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/2debdf7937addb2c3184f95781e3c0a9/itc)
 
 <div id="hossfeld2016report" style="display: none;" class="bibtex">@inproceedings{hossfeld2016report,
@@ -16,14 +16,14 @@ In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<b
     address       = { Würzburg, Germany },
     author        = { Hoßfeld, Tobias },
     booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep }
+    month         = { Sept }
 }</div>
 
 Hoßfeld, Tobias and Mark, Brian and Chan, Gary and Timm-Giel, Andreas<br/>
 **# ITC28 Proceedings**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
 [\[BibTeX\]](javascript:toggleVis('hossfeld2016itc28'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/0a9d8daba83272e08423ab31512e9b071caa364a/ITC28_proceedings.pdf)
+[\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc28/ITC28_proceedings.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/fafcc1538f6dc07e49bc61e1641cb0eb/itc)
 
 <div id="hossfeld2016itc28" style="display: none;" class="bibtex">@inproceedings{hossfeld2016itc28,
@@ -32,14 +32,14 @@ In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<b
     address       = { Würzburg, Germany },
     author        = { Hoßfeld, Tobias and Mark, Brian and Chan, Gary and Timm-Giel, Andreas },
     booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep }
+    month         = { Sept }
 }</div>
 
 Hoßfeld, Tobias and Mark, Brian and Chan, Gary and Timm-Giel, Andreas<br/>
 **# Prefaces to the ITC28**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
 [\[BibTeX\]](javascript:toggleVis('hossfeld2016prefaces'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/f95079e66b03cef2a5e1374c4ac58c40741d4111/PrefaceITC28.pdf)
+[\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc28/PrefaceITC28.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0ff7a0d9bdb4d2682d447a00abaae080/itc)
 
 <div id="hossfeld2016prefaces" style="display: none;" class="bibtex">@inproceedings{hossfeld2016prefaces,
@@ -48,7 +48,7 @@ In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<b
     address       = { Würzburg, Germany },
     author        = { Hoßfeld, Tobias and Mark, Brian and Chan, Gary and Timm-Giel, Andreas },
     booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep }
+    month         = { Sept }
 }</div>
 
 Kleinrouweler, Jan Willem and Cabrero, Sergio and van der Mei, Rob and Cesar, Pablo<br/>
@@ -535,38 +535,6 @@ improves the packet processing w.r.t the latency of latency-sensitive
 traffic even under high traffic loads.
 </div>
 
-Beifuß, Alexander and Runge, Torsten M. and Raumer, Daniel and Emmerich, Paul and Wolfinger, Bernd E. and Carle, Georg<br/>
-**Building a Low Latency Linux Software Router**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Beifus2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Beifus2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/6a723bb2e8552d29946d3e5d1364dbd3b75a9560/Beifus2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/f77583882a0d626ad7587c04d5e6c72b/itc)
-
-<div id="Beifus2016" style="display: none;" class="bibtex">@inproceedings{Beifus2016,
-    title         = { Building a Low Latency Linux Software Router },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Beifuß, Alexander and Runge, Torsten M. and Raumer, Daniel and Emmerich, Paul and Wolfinger, Bernd E. and Carle, Georg },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Beifus2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> Packet processing (e.g. routing, switching, firewall functionality) with
-		commodity hardware is a cost-efficient and flexible alternative to
-		specialized networking hardware. On commodity hardware the CPU typically
-		becomes the bottleneck in packet processing. However, in well-known QoS
-		mechanisms (e.g. DiffServ, IntServ), the outgoing link is assumed to be the
-		bottleneck. This limitation is unfavorable, in particular for
-		latency-sensitive applications (e.g. VoIP, video conferencing, online
-		gaming). Thus, we propose and implement a QoS concept for a Linux software
-		router to prioritize latency-sensitive traffic at the incoming network
-		interface. Our testbed measurements show that our prototype implementation
-		improves the packet processing w.r.t the latency of latency-sensitive
-		traffic even under high traffic loads.
-</div>
-
 Morichetta, Andrea and Bocchi, Enrico and Metwalley, Hassan and Mellia, Marco<br/>
 **CLUE: Clustering for Mining Web URLs**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
@@ -917,42 +885,6 @@ approximation ratio and computational complexity on realistic mobile
 backhaul topologies.
 </div>
 
-Pacifici, Valentino and Jošilo, Slađana and Dán, György<br/>
-**Distributed Algorithms for Content Caching in Mobile Backhaul Networks**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Pacifici2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Pacifici2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/ab0cc02308efd5a35e6dbd6777f8760599cbcbea/Pacifici2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/594251536052c624a4e1e088e686ae3d/itc)
-
-<div id="Pacifici2016" style="display: none;" class="bibtex">@inproceedings{Pacifici2016,
-    title         = { Distributed Algorithms for Content Caching in Mobile Backhaul Networks },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Pacifici, Valentino and Jošilo, Slađana and Dán, György },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Pacifici2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> The growing popularity of mobile multimedia content and the increase of
-		wireless access bitrates are straining backhaul capacity in mobile
-		networks. A cost-effective solution to reduce the strain, enabled by
-		emerging all-IP 4G and 5G mobile backhaul architectures, could be
-		in-network caching of popular content during times of peak demand. In this
-		paper we formulate the problem of content caching in a mobile backhaul as a
-		binary integer programming problem, and we propose a 2-approximation
-		algorithm for the problem. The 2-approximation requires full information
-		about the network topology and the link costs, as well as about the content
-		demands at the different caches, we thus propose two distributed algorithms
-		that are based on local information on the content demands. We show that
-		the distributed algorithms terminate in a finite number of steps, and we
-		provide analytical results on their approximation ratios. We use
-		simulations to evaluate the proposed algorithms in terms of the achieved
-		approximation ratio and computational complexity on realistic mobile
-		backhaul topologies.
-</div>
-
 Araldo, Andrea and Dán, György and Rossi, Dario<br/>
 **Dynamic Cache Partitioning for Encrypted Content Delivery**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
@@ -997,50 +929,6 @@ Our results (i) testify the feasibility of content-oblivious caches and
 global optimum in our evaluation.
 </div>
 
-Araldo, Andrea and Dán, György and Rossi, Dario<br/>
-**Dynamic Cache Partitioning for Encrypted Content Delivery**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Araldo2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Araldo2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/a7bdf72454cb81834a2c22dba62a2a83dd0b5ec4/Araldo2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/d50763f9e9196f7d0d7d450614897519/itc)
-
-<div id="Araldo2016" style="display: none;" class="bibtex">@inproceedings{Araldo2016,
-    title         = { Dynamic Cache Partitioning for Encrypted Content Delivery },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Araldo, Andrea and Dán, György and Rossi, Dario },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Araldo2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> In-network caching is an appealing solution to cope with the increasing
-		bandwidth demand of video, audio and data transfer over the Internet.
-		Nonetheless, an increasing share of content delivery services adopt
-		encryption through HTTPS, which is not compatible with traditional
-		ISP-managed approaches like transparent and proxy caching. This raises the
-		need for solutions involving both Internet Service Providers (ISP) and
-		Content Providers (CP): by design, the solution should preserve
-		business-critical CP information (e.g., content popularity, user
-		preferences) on the one hand, while allowing for a deeper integration of
-		caches in the ISP architecture (e.g., in 5G femto-cells) on the other hand.
-		
-		In this paper we address this issue by considering a content-oblivious
-		ISP-operated cache. The ISP allocates the cache storage to various content
-		providers so as to maximize the bandwidth savings provided by the cache:
-		the main novelty lies in the fact that, to protect business-critical
-		information, ISPs only need to measure the aggregated miss rates of the
-		individual CPs. We propose a cache allocation algorithm based on a
-		perturbed stochastic subgradient method, and prove that the algorithm
-		converges to the allocation that maximizes the overall cache hit rate. We
-		use extensive simulations to validate the algorithm and to assess its
-		convergence rate under stationary and non-stationary content popularities.
-		Our results (i) testify the feasibility of content-oblivious caches and
-		(ii) show that the proposed algorithm can achieve within 15% from the
-		global optimum in our evaluation.
-</div>
-
 Maswood, Mirza Mohd Shahriar and Develder, Chris and Madeira, Edmundo and Medhi, Deep<br/>
 **Dynamic Virtual Network Traffic Engineering with Energy Efficiency in
 Multi-Location Data Center Networks**<br/>
@@ -1082,47 +970,6 @@ VN class with high resource requirement faces high service denial. On the
 other hand, cost for the VN with the highest resource requirement is not
 always the highest in the heavy traffic because of very high service denial
 faced by this VN class.
-</div>
-
-Maswood, Mirza Mohd Shahriar and Develder, Chris and Madeira, Edmundo and Medhi, Deep<br/>
-**Dynamic Virtual Network Traffic Engineering with Energy Efficiency in Multi-location Data Center Networks**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Maswood2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Maswood2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/38dbc9d047ab989a68925d1b29c8a71b6951ec89/Maswood2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/fee0e680a22ae1e4ba899bb38fd02c66/itc)
-
-<div id="Maswood2016" style="display: none;" class="bibtex">@inproceedings{Maswood2016,
-    title         = { Dynamic Virtual Network Traffic Engineering with Energy Efficiency in Multi-location Data Center Networks },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Maswood, Mirza Mohd Shahriar and Develder, Chris and Madeira, Edmundo and Medhi, Deep },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Maswood2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> For cloud enterprise customers that require services on demand, data
-		centers must
-		allocate and partition data center resources in a dynamic fashion. We
-		consider the problem in which a request from an enterprise customer is
-		mapped to a virtual network (VN) that is allocated requiring both bandwidth
-		and compute resources by connecting it from an entry point of the
-		datacenter to one or more servers, should this data center be selected from
-		multiple geographically distributed data centers. 
-		We present a dynamic traffic engineering framework, for which we develop
-		an optimization model based on mixed-integer linear programming (MIP)
-		formulation 
-		that a data center operator can use is at each review point to optimally
-		assign VN customers. 
-		Through a series of studies, we then present results on how different VN
-		customers are treated in terms of request acceptance when each VN class
-		have different resource requirement. We found that a VN class with low
-		resource requirement has a low blocking even in heavy traffic , while the
-		VN class with high resource requirement faces high service denial. On the
-		other hand, cost for the VN with the highest resource requirement is not
-		always the highest in the heavy traffic because of very high service denial
-		faced by this VN class.
 </div>
 
 Obadia, Mathis and Rougier, Jean-Louis and Iannone, Luigi and Bouet, Mathieu and Conan, Vania<br/>
@@ -1204,41 +1051,6 @@ queueing system and evaluate the transient phase of the non-stationary
 system by means of discrete-event simulations. The results of our study
 show that the characteristics of the network have a high impact on the QoS
 and a surprisingly low impact on the QoE under certain conditions.
-</div>
-
-Moldovan, Christian and Hoßfeld, Tobias<br/>
-**Impact of Variances on the QoE in Video Streaming**<br/>
-In *QCMan 2016 (QCMan 2016)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Moldovan2016a'))
-[\[Abstract\]](javascript:toggleVis('abstract_Moldovan2016a'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/aa4cd40a30cf8def6662658965033cae15a89bcc/Moldovan2016a.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/721d535b6f81a8d29147f27ff7aa4435/itc)
-
-<div id="Moldovan2016a" style="display: none;" class="bibtex">@inproceedings{Moldovan2016a,
-    title         = { Impact of Variances on the QoE in Video Streaming },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Moldovan, Christian and Hoßfeld, Tobias },
-    booktitle     = { QCMan 2016 (QCMan 2016) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Moldovan2016a" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> In the current Internet video streaming is dominating fixed and mobile
-		consumer traffic. However, wireless and mobile networks may lack bandwidth
-		or suffer from severe bandwidth fluctuations. The question arises: What is
-		the impact of bandwidth fluctuations on the Quality of Service (QoS) and
-		the user perceived quality? The key contribution of this paper is the
-		analysis of QoS in terms of application-level parameters (stalling duration
-		and frequency) for reliable video-on-demand streaming. The QoS is mapped to
-		Quality of Experience (QoE) based on an existing QoS-QoE model for HTTP
-		streaming. Different network conditions, in particular average and
-		variances of network bandwidths, and video bit rates are taken into account
-		in the analysis. We approach this problem by modeling the video player as a
-		queueing system and evaluate the transient phase of the non-stationary
-		system by means of discrete-event simulations. The results of our study
-		show that the characteristics of the network have a high impact on the QoS
-		and a surprisingly low impact on the QoE under certain conditions.
 </div>
 
 Hohlfeld, Oliver and Fiedler, Hannes and Pujol, Enric and Guse, Dennis<br/>
@@ -1426,44 +1238,6 @@ to permit low latency collaborative applications to be built quickly and
 easily, while requiring no setup for use by the end-user.
 </div>
 
-Hemmings, Matthew and Ingalls, Daniel and Krahn, Robert and McGeer, Rick and Ricart, Glenn and Röder, Marko and Stege, Ulrike<br/>
-**LiveTalk: A Framework for Collaborative Browser-Based Replicated-Computation Applications**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Hemmings2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Hemmings2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/8c44b3b68ae4048b31a04a5ea4de27975711460a/Hemmings2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/17983a3913ac2d57f9ede87b1cffb5ac/itc)
-
-<div id="Hemmings2016" style="display: none;" class="bibtex">@inproceedings{Hemmings2016,
-    title         = { LiveTalk: A Framework for Collaborative Browser-Based Replicated-Computation Applications },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Hemmings, Matthew and Ingalls, Daniel and Krahn, Robert and McGeer, Rick and Ricart, Glenn and Röder, Marko and Stege, Ulrike },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Hemmings2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> In this paper we describe LiveTalk, a framework for Collaborative
-		Browser-based Replicated-Computation applications. LiveTalk permits
-		multiple users separated across the wide area to interact with separate
-		copies of a single application, sharing a single virtual workspace, using
-		very little network bandwidth. LiveTalk features an integrated
-		browser-based programming environment with native graphics and live
-		evaluation, an integrated, pluggable web server, and a simple messaging
-		service that serves to coordinate activity on shared application sessions,
-		and provides for multiple mutually-isolated sessions. The first use case
-		for LiveTalk is collaborative big-data visualizations running on
-		thin-client devices such as cellular phones, tablets, and netbooks. These
-		applications form part of a new class of application where the distributed
-		cloud is leveraged to provide low latency, high-bandwidth access to
-		geographically disparate users while maintaining the feel of immediacy
-		associated with local computation. The primary motivation of this work is
-		to permit low latency collaborative applications to be built quickly and
-		easily, while requiring no setup for use by the end-user.
-		
-</div>
-
 Hyytiä, Esa and Righter, Rhonda and Virtamo, Jorma<br/>
 **Meeting Soft Deadlines in Single- And Multi-Server Systems**<br/>
 In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
@@ -1497,42 +1271,6 @@ obtain the optimal admission policy. For dispatching to parallel servers,
 we develop efficient heuristic admission and dispatching policies, whose
 performances are evaluated by means of numerical examples. Additionally, we
 give some exact closed-form results for heavy-traffic limits.
-</div>
-
-Hyytiä, Esa and Righter, Rhonda and Virtamo, Jorma<br/>
-**Meeting Soft Deadlines in Single- And Multi-Server Systems**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Hyytiae2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Hyytiae2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/b95b5f9327efd4abbf63c17463c23328275609ac/Hyytiae2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/2e1e616d8e4b6c1b8c3fb0f32ce9f8ea/itc)
-
-<div id="Hyytiae2016" style="display: none;" class="bibtex">@inproceedings{Hyytiae2016,
-    title         = { Meeting Soft Deadlines in Single- And Multi-Server Systems },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Hyytiä, Esa and Righter, Rhonda and Virtamo, Jorma },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Hyytiae2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> We consider single- and multi-server systems, where jobs have a maximum
-		waiting time (deadline) defined, e.g., by a service level agreement. A
-		fixed cost is a cost associated with deadline violations and the task is to
-		minimize the long-run cumulative costs. Job sizes (service durations) are
-		observed upon arrival, and current queue backlogs are known. For a single
-		FCFS server, the optimization task is to find the optimal admission policy
-		that may reject a job upon arrival if admitting it would cause in future
-		one or more deadlines to be violated (in expectation). For parallel FCFS
-		servers, the policy must (i) either accept or reject a job upon arrival,
-		and if accepted, (ii) assign it to one of the servers. We derive efficient
-		deadline-aware policies in the MDP framework. For a single server, we
-		obtain the optimal admission policy. For dispatching to parallel servers,
-		we develop efficient heuristic admission and dispatching policies, whose
-		performances are evaluated by means of numerical examples. Additionally, we
-		give some exact closed-form results for heavy-traffic limits.
-		
 </div>
 
 Lundrigan, Philip and Khaledi, Mojgan and Kano, Makito and Subramanyam, Naveen and Kasera, Sneha Kumar<br/>
@@ -2198,48 +1936,6 @@ Keywords: Container Virtualization; Cluster Computing; Distributed
 Computing; Mesh Networking; Privacy; Reliability; Redundancy; QoS;
 </div>
 
-Großmann, Marcel and Eiermann, Andreas<br/>
-**Security of Distributed Container Based Service Clustering with Hypriot Cluster Lab**<br/>
-In *28th International Teletraffic Congress (ITC 28)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Grosmann2016'))
-[\[Abstract\]](javascript:toggleVis('abstract_Grosmann2016'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/99eec83d0c7570b51727e1af6e8b2d0729769c58/Grosmann2016.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/026a567a8a55976b98961417a27ad95f/itc)
-
-<div id="Grosmann2016" style="display: none;" class="bibtex">@inproceedings{Grosmann2016,
-    title         = { Security of Distributed Container Based Service Clustering with Hypriot Cluster Lab },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Großmann, Marcel and Eiermann, Andreas },
-    booktitle     = { 28th International Teletraffic Congress (ITC 28) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Grosmann2016" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> Modern service providers use virtualization for a feasible scalability of
-		their applications.
-		Their approaches mainly exploit virtual machines to stem the quality of
-		service requirements, especially redundancy, reliability and security. 
-		Accordingly, provided services are hosted in data centers, which are able
-		to fulfill the needs. 
-		The standards of entry burden small enterprises to establish their own
-		distributed service delivery cloud. 
-		Hence, we already developed an energy-efficient solution, called Hypriot
-		Cluster Lab (HCL).
-		It adapts Docker technologies in a way that it runs on ARM powered single
-		board computers.
-		Forthwith, we demonstrate how it works with redundancy and replication
-		betwixt several hosts on different locations via wide area networks.
-		Accordingly, we use a mesh network based on virtual private LANs to
-		communicate encrypted over the Internet between the distributed hosts.
-		In our demonstration we present a fault tolerant, reliable and secure
-		extension to interconnect several independent host with HCL to achieve the
-		QoS-requirements.
-		
-		Keywords: Container Virtualization; Cluster Computing; Distributed
-		Computing; Mesh Networking; Privacy; Reliability; Redundancy; QoS;
-</div>
-
 Shaik, Muhammed Zubair Basha and Puschmann, Andre and Mitschele-Thiel, Andreas<br/>
 **Self-Optimization of Software Defined Radios Through Evolutionary
 Algorithms**<br/>
@@ -2454,35 +2150,6 @@ problem to provide the optimal result in any given scenario while avoiding
 stalling events. This paper provides an outlook on the potential that is
 left for improving YouTube's adaptation mechanism that is essential to
 managing the QoE in video streaming.
-</div>
-
-Moldovan, Christian and Sieber, Christian and Heegaard, Poul E. and Hoßfeld, Tobias and Kellerer, Wolfgang<br/>
-**YouTube Can Do Better: Getting the Most Out of Video Adaptation**<br/>
-In *QCMan 2016 (QCMan 2016)*. Würzburg, Germany 2016<br/>
-[\[BibTeX\]](javascript:toggleVis('Moldovan2016b'))
-[\[Abstract\]](javascript:toggleVis('abstract_Moldovan2016b'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/32097c79c621453f21b7d8af099c9e0934d81bb3/Moldovan2016b.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/557fff5422fb81516a85452fd9c972da/itc)
-
-<div id="Moldovan2016b" style="display: none;" class="bibtex">@inproceedings{Moldovan2016b,
-    title         = { YouTube Can Do Better: Getting the Most Out of Video Adaptation },
-    year          = { 2016 },
-    address       = { Würzburg, Germany },
-    author        = { Moldovan, Christian and Sieber, Christian and Heegaard, Poul E. and Hoßfeld, Tobias and Kellerer, Wolfgang },
-    booktitle     = { QCMan 2016 (QCMan 2016) },
-    month         = { sep },
-    misc          = {   days = 12 }
-}</div>
-<div id="abstract_Moldovan2016b" style="display: none;" class="abstract">
-    <strong>Abstract:</strong> In this paper, we look at YouTube's algorithm for the adaptation of the
-		video resolution, and analyze how much more mileage can be gotten out of
-		it. In previous work, we analyzed the efficiency of YouTube's adaptation
-		strategy by using isotonic regression that has the disadvantage of not
-		eliminate stalling events. As a next step, we apply use an optimization
-		problem to provide the optimal result in any given scenario while avoiding
-		stalling events. This paper provides an outlook on the potential that is
-		left for improving YouTube's adaptation mechanism that is essential to
-		managing the QoE in video streaming.
 </div>
 
 Gebert, Steffen and Geissler, Stefan and Zinner, Thomas and Nguyen-Ngoc, Anh and Lange, Stanislav and Tran-Gia, Phuoc<br/>

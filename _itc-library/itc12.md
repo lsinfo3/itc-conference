@@ -563,20 +563,6 @@ Buttò, M. and Colombo, G.<br/>
     misc          = {   misc = TS5_1A }
 }</div>
 
-Buttò, M. and Colombo, G.<br/>
-**Analytic models for switching networks with wideband traffic**<br/>
- 1988<br/>
-[\[BibTeX\]](javascript:toggleVis('butto88'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/a06901e7a0602aa0fcb62f508803aa0ff5c3315b/butto88.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/9899beb36e1eb3dcb1080ee10b3591aa/itc)
-
-<div id="butto88" style="display: none;" class="bibtex">@inproceedings{butto88,
-    title         = { Analytic models for switching networks with wideband traffic },
-    year          = { 1988 },
-    author        = { Buttò, M. and Colombo, G. },
-    misc          = {   misc = TS5_1A }
-}</div>
-
 Zafirovic-Vukotic, M. and Niemegeers, I.G.<br/>
 **Analytical modelling and performance analysis of the Orwell access mechanism**<br/>
  1988<br/>
@@ -1470,20 +1456,6 @@ Filipiak, J. and Chlebus, E.<br/>
     title         = { Modelling and control of time-varying telephone traffic },
     year          = { 1988 },
     author        = { Filipiak, J. and Chlebus, E. },
-    misc          = {   misc = TS2_2A }
-}</div>
-
-Filipiak, J. and Chemouil, P. and Chlebus, E.<br/>
-**Modelling and control of time-varying telephone traffic**<br/>
- 1988<br/>
-[\[BibTeX\]](javascript:toggleVis('filipiak88'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/08876c815be7ef92767859565a89f8315f1f68af/filipiak88.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/b6d5227f4803823cf44ed587647555e4/itc)
-
-<div id="filipiak88" style="display: none;" class="bibtex">@inproceedings{filipiak88,
-    title         = { Modelling and control of time-varying telephone traffic },
-    year          = { 1988 },
-    author        = { Filipiak, J. and Chemouil, P. and Chlebus, E. },
     misc          = {   misc = TS2_2A }
 }</div>
 

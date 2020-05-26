@@ -19,21 +19,6 @@ sprite: itc18-27-small-150x87.png
     misc          = {   misc = TS15 }
 }</div>
 
-Østerbø, Olav<br/>
-**A Discrete Time Queueing Model for End-to-End Delay and Jitter Analysis**<br/>
- 2009<br/>
-[\[BibTeX\]](javascript:toggleVis('osterbo09'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7c386dc3b96a98773f01b34e9995cad6c02d9f0f/osterbo09.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/99ab18a80abb660ff3359b9956de076a/itc)
-
-<div id="osterbo09" style="display: none;" class="bibtex">@inproceedings{osterbo09,
-    title         = { A Discrete Time Queueing Model for End-to-End Delay and Jitter Analysis },
-    year          = { 2009 },
-    author        = { Østerbø, Olav },
-    pages         = { 1-8 },
-    misc          = {   misc = TS15 }
-}</div>
-
 Tizghadam, Ali and Leon-Garcia, Alberto<br/>
 **A Graph Theoretical Approach to Traffic Engineering and Network Control Problem**<br/>
  2009<br/>
@@ -303,21 +288,6 @@ Hamidian, Ali and Körner, Ulf<br/>
     misc          = {   misc = TS2 }
 }</div>
 
-Hamidian, Ali and K�rner, Ulf<br/>
-**Distributed Reservation-Based QoS in Ad Hoc Networks With Internet Access Connectivity**<br/>
- 2009<br/>
-[\[BibTeX\]](javascript:toggleVis('hamidian09'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/0a2e00ad5e8fe5985fab472bc564667989b89822/hamidian09.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/5c8220ea1d9c4691c2262e715a8480d0/itc)
-
-<div id="hamidian09" style="display: none;" class="bibtex">@inproceedings{hamidian09,
-    title         = { Distributed Reservation-Based QoS in Ad Hoc Networks With Internet Access Connectivity },
-    year          = { 2009 },
-    author        = { Hamidian, Ali and K�rner, Ulf },
-    pages         = { 1-8 },
-    misc          = {   misc = TS2 }
-}</div>
-
 Undheim, Astrid and Emstad, Peder J.<br/>
 **Distribution of Loss Volume and Estimation of Loss for Aggregated Video Traffic**<br/>
  2009<br/>
@@ -498,42 +468,12 @@ Garcia-Jimenez, Santiago and Magaña, Eduardo and Morato, Daniel and Izal, Mikel
     misc          = {   misc = TS7 }
 }</div>
 
-Garcia-Jimenez, Santiago and Maga\ na, Eduardo and Morato, Daniel and Izal, Mikel<br/>
-**Improving Efficiency of IP Alias Resolution Based on Offsets Between IP Addresses**<br/>
- 2009<br/>
-[\[BibTeX\]](javascript:toggleVis('garcia-jimenez09'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/fefd55a92678025189c7811554623407c2fe04b5/garcia-jimenez09.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/33318bc36d3468fdc80858a82027d5d8/itc)
-
-<div id="garcia-jimenez09" style="display: none;" class="bibtex">@inproceedings{garcia-jimenez09,
-    title         = { Improving Efficiency of IP Alias Resolution Based on Offsets Between IP Addresses },
-    year          = { 2009 },
-    author        = { Garcia-Jimenez, Santiago and Maga\ na, Eduardo and Morato, Daniel and Izal, Mikel },
-    pages         = { 1-8 },
-    misc          = {   misc = TS7 }
-}</div>
-
 Fortuny, Cédric and Brun, Olivier and Hamouda, Mohamed Zied Ben and Garcia, Jean-Marie<br/>
 **Integration of Equipment Constraints in the Capacity-Planning Process**<br/>
  2009<br/>
 [\[BibTeX\]](javascript:toggleVis('fortuny09'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc21/fortuny09.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/c22be6168c6703bb39f2ccdf161be601/itc)
-
-<div id="fortuny09" style="display: none;" class="bibtex">@inproceedings{fortuny09,
-    title         = { Integration of Equipment Constraints in the Capacity-Planning Process },
-    year          = { 2009 },
-    author        = { Fortuny, Cédric and Brun, Olivier and Hamouda, Mohamed Zied Ben and Garcia, Jean-Marie },
-    pages         = { 1-8 },
-    misc          = {   misc = TS6 }
-}</div>
-
-Fortuny, Cédric and Brun, Olivier and Hamouda, Mohamed Zied Ben and Garcia, Jean-Marie<br/>
-**Integration of Equipment Constraints in the Capacity-Planning Process**<br/>
- 2009<br/>
-[\[BibTeX\]](javascript:toggleVis('fortuny09'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/936581eb092c9f751a21aeb01ba6f075bc441403/fortuny09.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/c4627530fa48fb2e6099dd814f2cd929/itc)
 
 <div id="fortuny09" style="display: none;" class="bibtex">@inproceedings{fortuny09,
     title         = { Integration of Equipment Constraints in the Capacity-Planning Process },
@@ -612,21 +552,6 @@ Le Cadre, Hélène and Bouhtou, Mustapha and Tuffin, Bruno<br/>
 
 <div id="lecadre09" style="display: none;" class="bibtex">@inproceedings{lecadre09,
     title         = { Modeling MNO and MVNOs Dynamic Interconnection Relations: Is Cooperative Content Investment Protable for Both Providers? },
-    year          = { 2009 },
-    author        = { Le Cadre, Hélène and Bouhtou, Mustapha and Tuffin, Bruno },
-    pages         = { 1-8 },
-    misc          = {   misc = TS6 }
-}</div>
-
-Le Cadre, Hélène and Bouhtou, Mustapha and Tuffin, Bruno<br/>
-**Modeling MNO and MVNO�s Dynamic Interconnection Relations: Is Cooperative Content Investment Protable for Both Providers?**<br/>
- 2009<br/>
-[\[BibTeX\]](javascript:toggleVis('lecadre09'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/c170a02552800a5650a4b5c3c58901a518f410bc/lecadre09.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0fd264c5dbd8bec6d94d46a770eb0386/itc)
-
-<div id="lecadre09" style="display: none;" class="bibtex">@inproceedings{lecadre09,
-    title         = { Modeling MNO and MVNO�s Dynamic Interconnection Relations: Is Cooperative Content Investment Protable for Both Providers? },
     year          = { 2009 },
     author        = { Le Cadre, Hélène and Bouhtou, Mustapha and Tuffin, Bruno },
     pages         = { 1-8 },

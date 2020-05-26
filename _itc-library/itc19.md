@@ -229,21 +229,6 @@ Pla, Vicent and Casares-Giner, Vicente and Martínez, Jorge<br/>
     misc          = {   misc = TS2_2 }
 }</div>
 
-Pla, Vicent and Casares-Giner, Vicente and Martínez, Jorge<br/>
-**A Matrix Analytic Solution of a Finite Buffer Queue with PH Distributed Customers' Impatience**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('pla05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/37c98eee078f5fab8066fc6f5a384300075610b2/pla05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/bdf1b16c1aaae0c7bcc5e98a39f99e78/itc)
-
-<div id="pla05" style="display: none;" class="bibtex">@inproceedings{pla05,
-    title         = { A Matrix Analytic Solution of a Finite Buffer Queue with PH Distributed Customers' Impatience },
-    year          = { 2005 },
-    author        = { Pla, Vicent and Casares-Giner, Vicente and Martínez, Jorge },
-    pages         = { 1175-1184 },
-    misc          = {   misc = TS2_2 }
-}</div>
-
 Yang, Tao and Wu, Shuxing and Wu, Weiling<br/>
 **A Multi-hop Cellular Architecture with Fixed Relay Nodes and its Reverse Link Capacity Analysis**<br/>
  2005<br/>
@@ -454,21 +439,6 @@ Casilari, Eduardo and Triviño-Cabrera, Alicia<br/>
     misc          = {   misc = TS1_3 }
 }</div>
 
-Casilari, Eduardo and Trivi\ no-Cabrera, Alicia<br/>
-**A Practical Study of the Random Waypoint Mobility Model in Simulations of Ad hoc Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('casilari05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/0a9d4772acb2d0e059efa6500e465f5f5826bfbe/casilari05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/481d15f314249de35a97eb17bfbdb728/itc)
-
-<div id="casilari05" style="display: none;" class="bibtex">@inproceedings{casilari05,
-    title         = { A Practical Study of the Random Waypoint Mobility Model in Simulations of Ad hoc Networks },
-    year          = { 2005 },
-    author        = { Casilari, Eduardo and Trivi\ no-Cabrera, Alicia },
-    pages         = { 115-124 },
-    misc          = {   misc = TS1_3 }
-}</div>
-
 Ohzahata, Satoshi and Kawashima, Konosuke<br/>
 **A Pure P2P Network Size Estimation Method Using Network Measurements and Computer Simulation Experiments**<br/>
  2005<br/>
@@ -490,21 +460,6 @@ Fodor, Gábor and Telek, Miklós<br/>
 [\[BibTeX\]](javascript:toggleVis('fodor05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/fodor05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/14865a615880b1333235430157112591/itc)
-
-<div id="fodor05" style="display: none;" class="bibtex">@inproceedings{fodor05,
-    title         = { A Recursive Formula to Calculate the Steady State of CDMA Networks },
-    year          = { 2005 },
-    author        = { Fodor, Gábor and Telek, Miklós },
-    pages         = { 1285-1294 },
-    misc          = {   misc = TS2_4 }
-}</div>
-
-Fodor, Gábor and Telek, Miklós<br/>
-**A Recursive Formula to Calculate the Steady State of CDMA Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('fodor05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/0f0bb22fc7555bbddaa3cb219bdf40e9f6997266/fodor05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/2c043ce78895e38136f85b2b5031de0c/itc)
 
 <div id="fodor05" style="display: none;" class="bibtex">@inproceedings{fodor05,
     title         = { A Recursive Formula to Calculate the Steady State of CDMA Networks },
@@ -664,42 +619,12 @@ Menäi, Mohamed-Fouz and Fromentoux, Gaël<br/>
     misc          = {   misc = TS2_17 }
 }</div>
 
-Menäi, Mohamed-Fouz and Fromentoux, Gaël<br/>
-**A UML Tool for Urbanism and Control Architecture Design Applied to 3GPP Based Architectures**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('menai05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/abe35d9e5caa7f97076a39266e279810b045cffe/menai05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/42b84a766cf53eb810d3c6e311fb38ba/itc)
-
-<div id="menai05" style="display: none;" class="bibtex">@inproceedings{menai05,
-    title         = { A UML Tool for Urbanism and Control Architecture Design Applied to 3GPP Based Architectures },
-    year          = { 2005 },
-    author        = { Menäi, Mohamed-Fouz and Fromentoux, Gaël },
-    pages         = { 1987-1996 },
-    misc          = {   misc = TS2_17 }
-}</div>
-
 Holanda, Raimir and García, Jorge<br/>
 **A new Methodology for Packet trace Classification and Compression based on Semantic Traffic Characterization**<br/>
  2005<br/>
 [\[BibTeX\]](javascript:toggleVis('holanda05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/holanda05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0f143df41e6c5255a5470301ad2e0892/itc)
-
-<div id="holanda05" style="display: none;" class="bibtex">@inproceedings{holanda05,
-    title         = { A new Methodology for Packet trace Classification and Compression based on Semantic Traffic Characterization },
-    year          = { 2005 },
-    author        = { Holanda, Raimir and García, Jorge },
-    pages         = { 719-728 },
-    misc          = {   misc = TS1_14 }
-}</div>
-
-Holanda, Raimir and García, Jorge<br/>
-**A new Methodology for Packet trace Classification and Compression based on Semantic Traffic Characterization**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('holanda05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7637c8e2b14eccf5dfadb19d9ff4d25d642acc90/holanda05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/79fc7bac048bdddd53e33e8d12af5d1f/itc)
 
 <div id="holanda05" style="display: none;" class="bibtex">@inproceedings{holanda05,
     title         = { A new Methodology for Packet trace Classification and Compression based on Semantic Traffic Characterization },
@@ -1069,21 +994,6 @@ Głąbowski, Mariusz and Stasiak, Marciej<br/>
     misc          = {   misc = TS2_6 }
 }</div>
 
-Głąbowski, Mariusz and Stasiak, Marciej<br/>
-**Analytical Model of Switching Networks with Bandwidth Reservation and Several Attempts of Setting up a Connection**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('glabowski05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/2ec408362772cfd54534aa0184ce356488b97efe/glabowski05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/062a7ccdc6d7899c83295bae44054d66/itc)
-
-<div id="glabowski05" style="display: none;" class="bibtex">@inproceedings{glabowski05,
-    title         = { Analytical Model of Switching Networks with Bandwidth Reservation and Several Attempts of Setting up a Connection },
-    year          = { 2005 },
-    author        = { Głąbowski, Mariusz and Stasiak, Marciej },
-    pages         = { 1405-1414 },
-    misc          = {   misc = TS2_6 }
-}</div>
-
 Roijers, F. and van den Berg, J. L. and Fan, X.<br/>
 **Analytical Modelling of TCP File Tansfer Times over 802.11 Wireless LANs**<br/>
  2005<br/>
@@ -1174,42 +1084,12 @@ Jensen, Terje and Østerbø, Olav<br/>
     misc          = {   misc = TS1_13 }
 }</div>
 
-Jensen, Terje and Østerbø, Olav<br/>
-**Blocking Probability for GSM Service Requests during Overload**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('jensen05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/886522895910a8af6ee40be609e904a3095c01a1/jensen05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/e3c32cc65bbe92da0a52ddf77b276baa/itc)
-
-<div id="jensen05" style="display: none;" class="bibtex">@inproceedings{jensen05,
-    title         = { Blocking Probability for GSM Service Requests during Overload },
-    year          = { 2005 },
-    author        = { Jensen, Terje and Østerbø, Olav },
-    pages         = { 643-652 },
-    misc          = {   misc = TS1_13 }
-}</div>
-
 Bréhon, Y. and Kofman, D.<br/>
 **Bus-Label Switched Paths, an approach to reduce the cost of multilayer networks**<br/>
  2005<br/>
 [\[BibTeX\]](javascript:toggleVis('brehon05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/brehon05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/986cfcbcdc29308d83395d0d28b57f33/itc)
-
-<div id="brehon05" style="display: none;" class="bibtex">@inproceedings{brehon05,
-    title         = { Bus-Label Switched Paths, an approach to reduce the cost of multilayer networks },
-    year          = { 2005 },
-    author        = { Bréhon, Y. and Kofman, D. },
-    pages         = { 2449-2462 },
-    misc          = {   misc = TS3_3 }
-}</div>
-
-Bréhon, Y. and Kofman, D.<br/>
-**Bus-Label Switched Paths, an approach to reduce the cost of multilayer networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('brehon05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/b317a26c485e39324ebd5c7c4fce5d54b0617e0a/brehon05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/1668d01eb209907b0310743339b495d1/itc)
 
 <div id="brehon05" style="display: none;" class="bibtex">@inproceedings{brehon05,
     title         = { Bus-Label Switched Paths, an approach to reduce the cost of multilayer networks },
@@ -1354,21 +1234,6 @@ Hoßfeld, Tobias and Mäder, Andreas and Tutschku, Kurt and Tran-Gia, Phuoc and 
     misc          = {   misc = TS2_14 }
 }</div>
 
-Hoßfeld, Tobias and Mäder, Andreas and Tutschku, Kurt and Tran-Gia, Phuoc and Andersen, Frank-Uwe and de Meer, Hermann and Dedinski, Ivan<br/>
-**Comparison of Crawling Strategies for an Optimized Mobile P2P Architecture**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('hossfeld05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/90e9ef3485703c78a8bf0a06d628960f0895add0/hossfeld05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/359ad6be434c9a58e2249cc852a41c3d/itc)
-
-<div id="hossfeld05" style="display: none;" class="bibtex">@inproceedings{hossfeld05,
-    title         = { Comparison of Crawling Strategies for an Optimized Mobile P2P Architecture },
-    year          = { 2005 },
-    author        = { Hoßfeld, Tobias and Mäder, Andreas and Tutschku, Kurt and Tran-Gia, Phuoc and Andersen, Frank-Uwe and de Meer, Hermann and Dedinski, Ivan },
-    pages         = { 1817-1826 },
-    misc          = {   misc = TS2_14 }
-}</div>
-
 Martin, Ruediger and Menth, Michael and Charzinski, Joachim<br/>
 **Comparison of Link-by-Link Admission Control and Capacity Overprovisioning**<br/>
  2005<br/>
@@ -1435,21 +1300,6 @@ Yang, Xiaonan and Mondragón, Raúl J.<br/>
 [\[BibTeX\]](javascript:toggleVis('yangmondragon05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/yangmondragon05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/ecb37a92dd45794caead8cbd549ec102/itc)
-
-<div id="yangmondragon05" style="display: none;" class="bibtex">@inproceedings{yangmondragon05,
-    title         = { Connectivity Improvement by Delayed Transmission for Different Mobility Models of Ad-Hoc Network },
-    year          = { 2005 },
-    author        = { Yang, Xiaonan and Mondragón, Raúl J. },
-    pages         = { 749-758 },
-    misc          = {   misc = TS1_15 }
-}</div>
-
-Yang, Xiaonan and Mondragón, Raúl J.<br/>
-**Connectivity Improvement by Delayed Transmission for Different Mobility Models of Ad-Hoc Network**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('yangmondragon05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/2114caad67b48643b99c21a90af087a2df9c1b11/yangmondragon05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0020239ebce68b6bdac03e3cfd7e0dc3/itc)
 
 <div id="yangmondragon05" style="display: none;" class="bibtex">@inproceedings{yangmondragon05,
     title         = { Connectivity Improvement by Delayed Transmission for Different Mobility Models of Ad-Hoc Network },
@@ -1593,42 +1443,12 @@ Hartleb, Franz and Kleinewillinghöfer-Kopp, Ruth<br/>
     misc          = {   misc = TS2_3 }
 }</div>
 
-Hartleb, Franz and Kleinewillinghöfer-Kopp, Ruth<br/>
-**Dimensioning Wavelength-Routed Multi-Fiber WDM Networks with Limited Number of Wavelength Converters**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('hartleb05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/929f5ddb6f40f69fdc7704e38876ec614ba89686/hartleb05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/4622670e36fa9511d8a7712be62476c4/itc)
-
-<div id="hartleb05" style="display: none;" class="bibtex">@inproceedings{hartleb05,
-    title         = { Dimensioning Wavelength-Routed Multi-Fiber WDM Networks with Limited Number of Wavelength Converters },
-    year          = { 2005 },
-    author        = { Hartleb, Franz and Kleinewillinghöfer-Kopp, Ruth },
-    pages         = { 1185-1194 },
-    misc          = {   misc = TS2_3 }
-}</div>
-
 Mäder, Andreas and Staehle, Dirk and Schröder, Bernd<br/>
 **Dimensioning of Hardware Components in UMTS Networks with Sectorized NodeBs**<br/>
  2005<br/>
 [\[BibTeX\]](javascript:toggleVis('maeder05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/maeder05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/252dcf9302f783208ecbfe11a8615cc9/itc)
-
-<div id="maeder05" style="display: none;" class="bibtex">@inproceedings{maeder05,
-    title         = { Dimensioning of Hardware Components in UMTS Networks with Sectorized NodeBs },
-    year          = { 2005 },
-    author        = { Mäder, Andreas and Staehle, Dirk and Schröder, Bernd },
-    pages         = { 889-898 },
-    misc          = {   misc = TS1_17 }
-}</div>
-
-Mäder, Andreas and Staehle, Dirk and Schröder, Bernd<br/>
-**Dimensioning of Hardware Components in UMTS Networks with Sectorized NodeBs**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('maeder05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/9bffcda78ff45f5d0673ab5544902c1051679b12/maeder05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/09a74d37b4b351fe45b47b5e2c53f94b/itc)
 
 <div id="maeder05" style="display: none;" class="bibtex">@inproceedings{maeder05,
     title         = { Dimensioning of Hardware Components in UMTS Networks with Sectorized NodeBs },
@@ -1668,42 +1488,12 @@ Lischelb, Xi and Schelb, Richard and Görg, Carmelita and Timm-Giel, Andreas<br/
     misc          = {   misc = TS1_9 }
 }</div>
 
-Lischelb, Xi and Schelb, Richard and Görg, Carmelita and Timm-Giel, Andreas<br/>
-**Dimensioning of UTRAN Iub Links for Elastic Internet Traffic**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('lischelb05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/f23b222810b2711380c95edfd5955a39f53f40fc/lischelb05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/44c5b6f49e303a20da5af895e8b85343/itc)
-
-<div id="lischelb05" style="display: none;" class="bibtex">@inproceedings{lischelb05,
-    title         = { Dimensioning of UTRAN Iub Links for Elastic Internet Traffic },
-    year          = { 2005 },
-    author        = { Lischelb, Xi and Schelb, Richard and Görg, Carmelita and Timm-Giel, Andreas },
-    pages         = { 415-424 },
-    misc          = {   misc = TS1_9 }
-}</div>
-
 George, Lise and Jonckheere, Matthieu and Leskelä, Lasse<br/>
 **Does Repacking Improve Performance of Multiclass Loss Networks with Overflow Routing?**<br/>
  2005<br/>
 [\[BibTeX\]](javascript:toggleVis('george05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/george05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0ec590218f95e91b0171aba2d04d3e91/itc)
-
-<div id="george05" style="display: none;" class="bibtex">@inproceedings{george05,
-    title         = { Does Repacking Improve Performance of Multiclass Loss Networks with Overflow Routing? },
-    year          = { 2005 },
-    author        = { George, Lise and Jonckheere, Matthieu and Leskelä, Lasse },
-    pages         = { 1365-1374 },
-    misc          = {   misc = TS2_6 }
-}</div>
-
-George, Lise and Jonckheere, Matthieu and Leskelä, Lasse<br/>
-**Does Repacking Improve Performance of Multiclass Loss Networks with Overflow Routing?**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('george05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/d3e5d2080cb8c63919f2fcf72b522050d72e5a67/george05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/7151253ffea1e91a9d6c6a0635830da6/itc)
 
 <div id="george05" style="display: none;" class="bibtex">@inproceedings{george05,
     title         = { Does Repacking Improve Performance of Multiclass Loss Networks with Overflow Routing? },
@@ -1848,21 +1638,6 @@ Yang, Jinmei and Huang, Changcheng<br/>
     misc          = {   misc = TS1_20 }
 }</div>
 
-Østerbø, Olav<br/>
-**End-to-End Delay Models with Priority**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('osterbo05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/58c45d29befc8854d3e37aa620e3fb0b2af2b9db/osterbo05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/86e9f2772e3f21f5085ab8e751a8396b/itc)
-
-<div id="osterbo05" style="display: none;" class="bibtex">@inproceedings{osterbo05,
-    title         = { End-to-End Delay Models with Priority },
-    year          = { 2005 },
-    author        = { Østerbø, Olav },
-    pages         = { 1049-1058 },
-    misc          = {   misc = TS1_20 }
-}</div>
-
 Vacirca, Franceso and Ziegler, Thomas and Hasenleithner, Eduard<br/>
 **Estimating Frequency and Effects of TCP Spurious Retransmission Timeouts by Traffic Monitoring in Operational GPRS Networks**<br/>
  2005<br/>
@@ -1983,21 +1758,6 @@ Hansen, Audun Fosselie and Kvalbein, Amund and Gjessing, Stein and ̆Cĭ̧ić, T
     misc          = {   misc = TS2_10 }
 }</div>
 
-Hansen, Audun Fosselie and Kvalbein, Amund and Gjessing, Stein and ̆Cĭ̧ić, Tarik and Jensen, Terje and Østerbø, Olav N. and Lysne, Olav<br/>
-**Fast, Effective and Stable IP Recovery Using Resilient Routing Layers**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('hansen05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/bd972ae3bf1e4b13106047a20b6f5fdccd3534d5/hansen05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/1ffd2871b3e11a714f6bcdba167079ac/itc)
-
-<div id="hansen05" style="display: none;" class="bibtex">@inproceedings{hansen05,
-    title         = { Fast, Effective and Stable IP Recovery Using Resilient Routing Layers },
-    year          = { 2005 },
-    author        = { Hansen, Audun Fosselie and Kvalbein, Amund and Gjessing, Stein and ̆Cĭ̧ić, Tarik and Jensen, Terje and Østerbø, Olav N. and Lysne, Olav },
-    pages         = { 1631-1640 },
-    misc          = {   misc = TS2_10 }
-}</div>
-
 Yi, Yung and Shakkottai, Sanjay<br/>
 **FluNet: A Hybrid Internet Simulation/Emulation Environment for a Fast Queue Regime**<br/>
  2005<br/>
@@ -2019,21 +1779,6 @@ Arvidsson, ̊Ake and Hederstierna, Anders and Hellmer, Stefan<br/>
 [\[BibTeX\]](javascript:toggleVis('arvidsson05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/arvidsson05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/8f6446534cca0b8d3a08f8d336bee499/itc)
-
-<div id="arvidsson05" style="display: none;" class="bibtex">@inproceedings{arvidsson05,
-    title         = { Forecasting Cellular Mobile Traffic: An Econometric Approach },
-    year          = { 2005 },
-    author        = { Arvidsson, ̊Ake and Hederstierna, Anders and Hellmer, Stefan },
-    pages         = { 1581-1590 },
-    misc          = {   misc = TS2_10 }
-}</div>
-
-Arvidsson, ̊Ake and Hederstierna, Anders and Hellmer, Stefan<br/>
-**Forecasting Cellular Mobile Traffic: An Econometric Approach**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('arvidsson05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/5e0211a6cafc3a6a5a72676754d7db0a35d831a8/arvidsson05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/ab6555b454edc08530f5b3ad9e523942/itc)
 
 <div id="arvidsson05" style="display: none;" class="bibtex">@inproceedings{arvidsson05,
     title         = { Forecasting Cellular Mobile Traffic: An Econometric Approach },
@@ -2178,21 +1923,6 @@ Li, Yi and Ko, King-Tim and Chen, Guanrong<br/>
     misc          = {   misc = TS1_12 }
 }</div>
 
-Li, Yi and Ko, King-Tim and Chen, Guanrong<br/>
-**Hınfty Optimization of PI-Controlled AQM**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('liko05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/25d7c93fa48d65f0b4fcee43195c9259220c7590/liko05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/ffcb8ff4ce03b6fc56f920d56c53fe4e/itc)
-
-<div id="liko05" style="display: none;" class="bibtex">@inproceedings{liko05,
-    title         = { Hınfty Optimization of PI-Controlled AQM },
-    year          = { 2005 },
-    author        = { Li, Yi and Ko, King-Tim and Chen, Guanrong },
-    pages         = { 603-612 },
-    misc          = {   misc = TS1_12 }
-}</div>
-
 Wille, Emilio C. G. and Mellia, Marco and Leonardi, Emilio and Marsan, Marco A.<br/>
 **IP Network Design with End-to-End QoS Constraints: The VPN Case**<br/>
  2005<br/>
@@ -2223,21 +1953,6 @@ Dahmouni, Hamaza and Rossé, David and Morin, Bertrand and Vaton, Sandrine<br/>
     misc          = {   misc = TS1_6 }
 }</div>
 
-Dahmouni, Hamaza and Rossé, David and Morin, Bertrand and Vaton, Sandrine<br/>
-**Impact of Data Traffic Composition on GPRS Performance**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('dahmouni05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/5b7c174fe96b376a2aa75d1d4605d5570bee0683/dahmouni05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/d73cb5f3129ff31d1e6e6aebf9c34534/itc)
-
-<div id="dahmouni05" style="display: none;" class="bibtex">@inproceedings{dahmouni05,
-    title         = { Impact of Data Traffic Composition on GPRS Performance },
-    year          = { 2005 },
-    author        = { Dahmouni, Hamaza and Rossé, David and Morin, Bertrand and Vaton, Sandrine },
-    pages         = { 233-242 },
-    misc          = {   misc = TS1_6 }
-}</div>
-
 Kortebi, A. and Queslati, S. and Roberts, J.<br/>
 **Implicit Service Differentiation using Deficit Round Robin**<br/>
  2005<br/>
@@ -2259,21 +1974,6 @@ Vergetis, Evangelos and Guérin, Roch and Sarkar, Saswati<br/>
 [\[BibTeX\]](javascript:toggleVis('vergetis05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/vergetis05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/639d39452483dd9131fa102f214034d2/itc)
-
-<div id="vergetis05" style="display: none;" class="bibtex">@inproceedings{vergetis05,
-    title         = { Improving Performance Through Channel Diversity in the Presence of Bursty Losses },
-    year          = { 2005 },
-    author        = { Vergetis, Evangelos and Guérin, Roch and Sarkar, Saswati },
-    pages         = { 1687-1696 },
-    misc          = {   misc = TS2_11 }
-}</div>
-
-Vergetis, Evangelos and Guérin, Roch and Sarkar, Saswati<br/>
-**Improving Performance Through Channel Diversity in the Presence of Bursty Losses**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('vergetis05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/f445d0984d9525a374d38bd151828b5004cbe0e1/vergetis05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/859d3380a25fded4b7506164f179be74/itc)
 
 <div id="vergetis05" style="display: none;" class="bibtex">@inproceedings{vergetis05,
     title         = { Improving Performance Through Channel Diversity in the Presence of Bursty Losses },
@@ -2792,21 +2492,6 @@ Li, Ning and Guo, Yan and Tian, Chang and Zheng, Shao-ren<br/>
     misc          = {   misc = TS1_18 }
 }</div>
 
-Éltetö, Tamás and Telek, Miklós<br/>
-**Numerical Analysis of Infinite Server Queues with Correlated Arrivals**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('eltetoe05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/ad1b39bb1ff16f3c9aae7520609e881b62f35c0e/eltetoe05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/b724b1a2b3fb4dce3b8f8c17a5a3ffdd/itc)
-
-<div id="eltetoe05" style="display: none;" class="bibtex">@inproceedings{eltetoe05,
-    title         = { Numerical Analysis of Infinite Server Queues with Correlated Arrivals },
-    year          = { 2005 },
-    author        = { Éltetö, Tamás and Telek, Miklós },
-    pages         = { 949-958 },
-    misc          = {   misc = TS1_18 }
-}</div>
-
 Dube, Parijat and Liu, Zhen and Sahu, Sambit and Silber, Jeremy<br/>
 **On Designing Application- Specific Overlays**<br/>
  2005<br/>
@@ -2837,42 +2522,12 @@ Cho, Hyunjoon and Girard, André and Rosenberg, Catherine<br/>
     misc          = {   misc = TS2_7 }
 }</div>
 
-Cho, Hyunjoon and Girard, André and Rosenberg, Catherine<br/>
-**On Optimal End-to-End QoS Budget Partitioning in Network Dimensioning**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('cho05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/a194d79a4f8bd994d3934b093b7a502778ab2d1a/cho05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/72f1382fe856b25e0aaefacc5966542c/itc)
-
-<div id="cho05" style="display: none;" class="bibtex">@inproceedings{cho05,
-    title         = { On Optimal End-to-End QoS Budget Partitioning in Network Dimensioning },
-    year          = { 2005 },
-    author        = { Cho, Hyunjoon and Girard, André and Rosenberg, Catherine },
-    pages         = { 1445-1454 },
-    misc          = {   misc = TS2_7 }
-}</div>
-
 Elayoubi, S.-E. and Fourestié, B.<br/>
 **On Trajectory Splitting for Accelerating Dynamic Simulations in Mobile Wireless Networks**<br/>
  2005<br/>
 [\[BibTeX\]](javascript:toggleVis('elayoubifourestie05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/elayoubifourestie05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/24f3d407030659445ddace82bcbcaea5/itc)
-
-<div id="elayoubifourestie05" style="display: none;" class="bibtex">@inproceedings{elayoubifourestie05,
-    title         = { On Trajectory Splitting for Accelerating Dynamic Simulations in Mobile Wireless Networks },
-    year          = { 2005 },
-    author        = { Elayoubi, S.-E. and Fourestié, B. },
-    pages         = { 1717-1726 },
-    misc          = {   misc = TS2_12 }
-}</div>
-
-Elayoubi, S.-E. and Fourestié, B.<br/>
-**On Trajectory Splitting for Accelerating Dynamic Simulations in Mobile Wireless Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('elayoubifourestie05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/beff9f5df5c4e469daab795608b0c315cf419d6e/elayoubifourestie05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/76983f5c7a901f2ec360d990fe64a0b8/itc)
 
 <div id="elayoubifourestie05" style="display: none;" class="bibtex">@inproceedings{elayoubifourestie05,
     title         = { On Trajectory Splitting for Accelerating Dynamic Simulations in Mobile Wireless Networks },
@@ -2912,21 +2567,6 @@ Binzenhöfer, Andreas and Staehle, Dirk and Henjes, Robert<br/>
     misc          = {   misc = TS2_14 }
 }</div>
 
-Binzenhöfer, Andreas and Staehle, Dirk and Henjes, Robert<br/>
-**On the Fly Estimation of the Peer Population in a Chord-based P2P System**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('binzenhoefer05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7cc671f9c4174b72178e22e230c765026f330233/binzenhoefer05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/e81fc402518ac7f65ed3b0f22ee73301/itc)
-
-<div id="binzenhoefer05" style="display: none;" class="bibtex">@inproceedings{binzenhoefer05,
-    title         = { On the Fly Estimation of the Peer Population in a Chord-based P2P System },
-    year          = { 2005 },
-    author        = { Binzenhöfer, Andreas and Staehle, Dirk and Henjes, Robert },
-    pages         = { 1827-1836 },
-    misc          = {   misc = TS2_14 }
-}</div>
-
 Scharf, Michael<br/>
 **On the Response Time of Large-scale Composite Web Services**<br/>
  2005<br/>
@@ -2957,21 +2597,6 @@ Bonald, T. and Proutière, A.<br/>
     misc          = {   misc = TS2_8 }
 }</div>
 
-Bonald, T. and Proutière, A.<br/>
-**On the Traffic Capacity of Cellular Data Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('bonald05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/a338a24a5a4792f45966798c061cfba7cce3defa/bonald05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/7622f26450cd0f301b686d4b3f32c97f/itc)
-
-<div id="bonald05" style="display: none;" class="bibtex">@inproceedings{bonald05,
-    title         = { On the Traffic Capacity of Cellular Data Networks },
-    year          = { 2005 },
-    author        = { Bonald, T. and Proutière, A. },
-    pages         = { 1507-1516 },
-    misc          = {   misc = TS2_8 }
-}</div>
-
 Schehrer, Rudolf<br/>
 **On the explicit Calculation of Overflow Moments of the High Priority Traffic in Loss Systems with Selective Trunk Reservation**<br/>
  2005<br/>
@@ -2993,21 +2618,6 @@ Sarker, Jahangir H. and Häggman, Sven-Gustav<br/>
 [\[BibTeX\]](javascript:toggleVis('sarkerhaggman05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/sarkerhaggman05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/9d7b79ae6a7830bba766afdc1840fad7/itc)
-
-<div id="sarkerhaggman05" style="display: none;" class="bibtex">@inproceedings{sarkerhaggman05,
-    title         = { One Directional Real-Time Traffic Flows over the GPRS Air Interface },
-    year          = { 2005 },
-    author        = { Sarker, Jahangir H. and Häggman, Sven-Gustav },
-    pages         = { 633-642 },
-    misc          = {   misc = TS1_13 }
-}</div>
-
-Sarker, Jahangir H. and Häggman, Sven-Gustav<br/>
-**One Directional Real-Time Traffic Flows over the GPRS Air Interface**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('sarkerhaggman05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/857e72de407d2e11a4ff3fa0faeab23dfe10f219/sarkerhaggman05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/bd4c1618a49309517467c34a823d03bb/itc)
 
 <div id="sarkerhaggman05" style="display: none;" class="bibtex">@inproceedings{sarkerhaggman05,
     title         = { One Directional Real-Time Traffic Flows over the GPRS Air Interface },
@@ -3062,21 +2672,6 @@ Cédric, Fortuny and Olivier, Brun and Jean-Marie, Garcia<br/>
     misc          = {   misc = TS2_3 }
 }</div>
 
-Cédric, Fortuny and Olivier, Brun and Jean-Marie, Garcia<br/>
-**Optimization of Routing Metrics in IP networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('cedric05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7fbe089e55bf5fe4fd672266beadd7f8ae87afad/cedric05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/f3a62462924775f18320eeb742f87a19/itc)
-
-<div id="cedric05" style="display: none;" class="bibtex">@inproceedings{cedric05,
-    title         = { Optimization of Routing Metrics in IP networks },
-    year          = { 2005 },
-    author        = { Cédric, Fortuny and Olivier, Brun and Jean-Marie, Garcia },
-    pages         = { 1225-1234 },
-    misc          = {   misc = TS2_3 }
-}</div>
-
 Chen, Qing and Niu, Zhisheng<br/>
 **Outage-Based Power and Rate Control Game for Single-Channel Ad Hoc Networks**<br/>
  2005<br/>
@@ -3113,21 +2708,6 @@ Molnár, Sándor and Kardos, Sndor and Trinh, Tuan A.<br/>
 [\[BibTeX\]](javascript:toggleVis('molnar05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/molnar05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/3b42cb32d2b2703ebf4f091744e58c21/itc)
-
-<div id="molnar05" style="display: none;" class="bibtex">@inproceedings{molnar05,
-    title         = { Parameter Setting Games in TCP Vegas and FAST TCP },
-    year          = { 2005 },
-    author        = { Molnár, Sándor and Kardos, Sndor and Trinh, Tuan A. },
-    pages         = { 483-492 },
-    misc          = {   misc = TS1_10 }
-}</div>
-
-Molnár, Sándor and Kardos, Sndor and Trinh, Tuan A.<br/>
-**Parameter Setting Games in TCP Vegas and FAST TCP**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('molnar05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/5f6137e205d9d80280ae0f49105863f120cd12bb/molnar05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/43046bc7a27763da6f897c9e24cc8c96/itc)
 
 <div id="molnar05" style="display: none;" class="bibtex">@inproceedings{molnar05,
     title         = { Parameter Setting Games in TCP Vegas and FAST TCP },
@@ -3466,21 +3046,6 @@ Zhang, Jian and Hämäläinen, Timo and Raatikainen, Pertti and Kaario, Kimmo<br
     misc          = {   misc = TS2_10 }
 }</div>
 
-Zhang, Jian and Hämäläinen, Timo and Raatikainen, Pertti and Kaario, Kimmo<br/>
-**QoS Provisioning and Pricing for Delay-sensitive Applications in DiffServ Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('zhanghaemaelaeinen05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/8cab1529d4050c74e38c8650f0df7c5ab7bd302a/zhanghaemaelaeinen05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/d59f56543aa456059beac49cdacde9d1/itc)
-
-<div id="zhanghaemaelaeinen05" style="display: none;" class="bibtex">@inproceedings{zhanghaemaelaeinen05,
-    title         = { QoS Provisioning and Pricing for Delay-sensitive Applications in DiffServ Networks },
-    year          = { 2005 },
-    author        = { Zhang, Jian and Hämäläinen, Timo and Raatikainen, Pertti and Kaario, Kimmo },
-    pages         = { 1601-1610 },
-    misc          = {   misc = TS2_10 }
-}</div>
-
 Sikdar, Biplab<br/>
 **Queueing Analysis of IEEE 802.11 Point Coordination Function**<br/>
  2005<br/>
@@ -3607,21 +3172,6 @@ Müller, Thorsten and Schüler, Jörg<br/>
 [\[BibTeX\]](javascript:toggleVis('mueller05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/mueller05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/e9039196b0a705e997e7dd338536a5a8/itc)
-
-<div id="mueller05" style="display: none;" class="bibtex">@inproceedings{mueller05,
-    title         = { Relative Frequency of TCP Retransmission Timeouts for Burst Segment Losses },
-    year          = { 2005 },
-    author        = { Müller, Thorsten and Schüler, Jörg },
-    pages         = { 677-686 },
-    misc          = {   misc = TS1_14 }
-}</div>
-
-Müller, Thorsten and Schüler, Jörg<br/>
-**Relative Frequency of TCP Retransmission Timeouts for Burst Segment Losses**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('mueller05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/0af509f7525fd7526ac304157bcb900e8b5205d4/mueller05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/b1b19e8fc6a1216ab87b0bcd2ba842ab/itc)
 
 <div id="mueller05" style="display: none;" class="bibtex">@inproceedings{mueller05,
     title         = { Relative Frequency of TCP Retransmission Timeouts for Burst Segment Losses },
@@ -4020,21 +3570,6 @@ Fiedler, Markus and Chevul, Stefan and Radtke, Olaf and Tutschku, Kurt and Binze
     misc          = {   misc = TS2_7 }
 }</div>
 
-Fiedler, Markus and Chevul, Stefan and Radtke, Olaf and Tutschku, Kurt and Binzenhöfer, Andreas<br/>
-**The Network Utility Function: A Practicable Concept for Assessing Network Impact on Distributed Services**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('fiedler05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/5479b84c47a47856673a73070c4528bc710c81d1/fiedler05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/5f977f13d61182cace8d5d55c43d48c4/itc)
-
-<div id="fiedler05" style="display: none;" class="bibtex">@inproceedings{fiedler05,
-    title         = { The Network Utility Function: A Practicable Concept for Assessing Network Impact on Distributed Services },
-    year          = { 2005 },
-    author        = { Fiedler, Markus and Chevul, Stefan and Radtke, Olaf and Tutschku, Kurt and Binzenhöfer, Andreas },
-    pages         = { 1465-1474 },
-    misc          = {   misc = TS2_7 }
-}</div>
-
 Xin, Zhan-Hong and Gong, Ju-Fa and Huang, Lin-Juan<br/>
 **The Optimum Trunks Reservation Strategy for Dynamic Routing**<br/>
  2005<br/>
@@ -4125,21 +3660,6 @@ Hamidian, Ali and Körner, Ulf<br/>
     misc          = {   misc = TS1_15 }
 }</div>
 
-Hamidian, Ali and Körner, Ulf<br/>
-**Towards a Solution Providing QoS in Ad Hoc Networks**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('hamidian05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/de915bcbf2db4ff8c24279107264a92611a1d204/hamidian05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/51852794738c676f48bc8109597d1caf/itc)
-
-<div id="hamidian05" style="display: none;" class="bibtex">@inproceedings{hamidian05,
-    title         = { Towards a Solution Providing QoS in Ad Hoc Networks },
-    year          = { 2005 },
-    author        = { Hamidian, Ali and Körner, Ulf },
-    pages         = { 791-800 },
-    misc          = {   misc = TS1_15 }
-}</div>
-
 Kaneda, Shigeru and Akinaga, Yoshikazu and Shinagawa, Noriteru and Mura, Akira<br/>
 **Traffic Control by Influencing Users Behavior in Mobile Networks**<br/>
  2005<br/>
@@ -4221,21 +3741,6 @@ Lebeugle, F. and Proutière, A.<br/>
 [\[BibTeX\]](javascript:toggleVis('lebeugle05'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc19/lebeugle05.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/9383d899a626c31957e2bf443ef017dc/itc)
-
-<div id="lebeugle05" style="display: none;" class="bibtex">@inproceedings{lebeugle05,
-    title         = { User-level performance in WLAN hotspots },
-    year          = { 2005 },
-    author        = { Lebeugle, F. and Proutière, A. },
-    pages         = { 1517-1526 },
-    misc          = {   misc = TS2_8 }
-}</div>
-
-Lebeugle, F. and Proutière, A.<br/>
-**User-level performance in WLAN hotspots**<br/>
- 2005<br/>
-[\[BibTeX\]](javascript:toggleVis('lebeugle05'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/1b212165302650fbaf38fb3b3f207b555b025b18/lebeugle05.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/4eab3f57c33d2b8a527e3a2ce52254ad/itc)
 
 <div id="lebeugle05" style="display: none;" class="bibtex">@inproceedings{lebeugle05,
     title         = { User-level performance in WLAN hotspots },

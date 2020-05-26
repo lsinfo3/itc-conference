@@ -124,21 +124,6 @@ Arvidsson, Åke and Du, Manxing and Aurelius, Andreas and Kihl, Maria<br/>
     misc          = {   misc = TS-1 }
 }</div>
 
-Arvidsson, Åke and Du, Manxing and Aurelius, Andreas and Kihl, Maria<br/>
-**Analysis of user demand patterns and locality for YouTube traffic.**<br/>
- 2013<br/>
-[\[BibTeX\]](javascript:toggleVis('arvidsson2013analysis'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7ab3a68197787bade667162b582d0edc0ae255b7/arvidsson2013analysis.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/7d9547bbf5809adae1722c6b318b01d7/itc)
-
-<div id="arvidsson2013analysis" style="display: none;" class="bibtex">@inproceedings{arvidsson2013analysis,
-    title         = { Analysis of user demand patterns and locality for YouTube traffic. },
-    year          = { 2013 },
-    author        = { Arvidsson, Åke and Du, Manxing and Aurelius, Andreas and Kihl, Maria },
-    pages         = { 1--9 },
-    misc          = {   misc = TS-1 }
-}</div>
-
 Gaivoronski, Alexei A and Strasunskas, Darijus and Nesse, Per J and Svaet, Stein<br/>
 **Beyond best effort: Choosing connectivity portfolio for cloud brokering platform by risk/profit tradeoff**<br/>
  2013<br/>

@@ -765,20 +765,6 @@ Hanay, Y. Sinan and Koizumi, Yuki and Arakawa, Shinichi and Murata, Masayuki<br/
     misc          = {   misc = W6 }
 }</div>
 
-Hanay, Y. Sinan and Koizumi, Yuki and Arakawa, Shinichi and Murata, Masayuki<br/>
-**Virtual Network Topology Control with Oja and APEX Learning**<br/>
- <br/>
-[\[BibTeX\]](javascript:toggleVis('hanay12'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/5b5717e80f9c9dd2626593556d40833734206175/hanay12.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/71dc29b74d2c635b2a28ed2ead79f744/itc)
-
-<div id="hanay12" style="display: none;" class="bibtex">@inproceedings{hanay12,
-    title         = { Virtual Network Topology Control with Oja and APEX Learning },
-    year          = {  },
-    author        = { Hanay, Y. Sinan and Koizumi, Yuki and Arakawa, Shinichi and Murata, Masayuki },
-    pages         = { 1-6 }
-}</div>
-
 Burger, Valentin and Lehrieder, Frank and Hoßfeld, Tobias and Seedorf, Jan<br/>
 **Who Profits from Peer-to-Peer File-Sharing? Traffic Optimization Potential in BitTorrent Swarms**<br/>
  2012<br/>
@@ -790,21 +776,6 @@ Burger, Valentin and Lehrieder, Frank and Hoßfeld, Tobias and Seedorf, Jan<br/>
     title         = { Who Profits from Peer-to-Peer File-Sharing? Traffic Optimization Potential in BitTorrent Swarms },
     year          = { 2012 },
     author        = { Burger, Valentin and Lehrieder, Frank and Hoßfeld, Tobias and Seedorf, Jan },
-    pages         = { 1-8 },
-    misc          = {   misc = TS3 }
-}</div>
-
-Burger, Valentin and Lehrieder, Frank and Ho�feld, Tobias and Seedorf, Jan<br/>
-**Who Profits from Peer-to-Peer File-Sharing? Traffic Optimization Potential in BitTorrent Swarms**<br/>
- 2012<br/>
-[\[BibTeX\]](javascript:toggleVis('burger12'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/64d506ba21403808f59624049d9102c7a607f08f/burger12.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/64315b98b0f711095f18acc4ee8673ad/itc)
-
-<div id="burger12" style="display: none;" class="bibtex">@inproceedings{burger12,
-    title         = { Who Profits from Peer-to-Peer File-Sharing? Traffic Optimization Potential in BitTorrent Swarms },
-    year          = { 2012 },
-    author        = { Burger, Valentin and Lehrieder, Frank and Ho�feld, Tobias and Seedorf, Jan },
     pages         = { 1-8 },
     misc          = {   misc = TS3 }
 }</div>

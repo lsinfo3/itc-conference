@@ -578,21 +578,6 @@ Hoßfeld, Tobias and Hirth, Matthias and Tran-Gia, Phuoc<br/>
     misc          = {   misc = TS4 }
 }</div>
 
-Ho�feld, Tobias and Hirth, Matthias and Tran-Gia, Phuoc<br/>
-**Modeling of Crowdsourcing Platforms and Granularity of Work Organization in Future Internet**<br/>
- 2011<br/>
-[\[BibTeX\]](javascript:toggleVis('hossfeld11-2'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/b43989ac5d75483660a460db59c9f887ba4a8b5a/hossfeld11-2.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/103e71bebdad48977cda47c0698aac0f/itc)
-
-<div id="hossfeld11-2" style="display: none;" class="bibtex">@inproceedings{hossfeld11-2,
-    title         = { Modeling of Crowdsourcing Platforms and Granularity of Work Organization in Future Internet },
-    year          = { 2011 },
-    author        = { Ho�feld, Tobias and Hirth, Matthias and Tran-Gia, Phuoc },
-    pages         = { 1-8 },
-    misc          = {   misc = TS4 }
-}</div>
-
 Mikoshi, Taiju and Takenaka, Toyofumi and Sugiyama, Ryuta and Masuda, Akeo and Shiomoto, Kohei<br/>
 **Multi-Layer Network Topology Design for Large-Scale Network**<br/>
  2011<br/>
@@ -988,21 +973,6 @@ Hoßfeld, Tobias and Biedermann, Sebastian and Schatz, Raimund and Platzer, Alex
     title         = { The Memory Effect and Its Implications on Web QoE Modeling },
     year          = { 2011 },
     author        = { Hoßfeld, Tobias and Biedermann, Sebastian and Schatz, Raimund and Platzer, Alexander and Egger, Sebastian and Fiedler, Markus },
-    pages         = { 1-8 },
-    misc          = {   misc = TS3 }
-}</div>
-
-Ho�feld, Tobias and Biedermann, Sebastian and Schatz, Raimund and Platzer, Alexander and Egger, Sebastian and Fiedler, Markus<br/>
-**The Memory Effect and Its Implications on Web QoE Modeling**<br/>
- 2011<br/>
-[\[BibTeX\]](javascript:toggleVis('hossfeld11'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/870cfba71663360a5f0689c597cdea58d1611ffa/hossfeld11.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/820d518d05efefb9d45a7af6cb7782f0/itc)
-
-<div id="hossfeld11" style="display: none;" class="bibtex">@inproceedings{hossfeld11,
-    title         = { The Memory Effect and Its Implications on Web QoE Modeling },
-    year          = { 2011 },
-    author        = { Ho�feld, Tobias and Biedermann, Sebastian and Schatz, Raimund and Platzer, Alexander and Egger, Sebastian and Fiedler, Markus },
     pages         = { 1-8 },
     misc          = {   misc = TS3 }
 }</div>

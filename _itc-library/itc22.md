@@ -315,21 +315,6 @@ Omic, Jasmina and Martín-Hernández, Javier and van Mieghem, Piet<br/>
     misc          = {   misc = TS4 }
 }</div>
 
-Omic, Jasmina and Martín-Hernández, Javier and van Mieghem, Piet<br/>
-**Network Protection against Worms and Cascading Failures using Modularity Partitioning**<br/>
- 2010<br/>
-[\[BibTeX\]](javascript:toggleVis('omic10'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/dc3bb6b3706350236e8bdf21e151ddabf1675124/omic10.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/e423305f85621205468a605a7b4ea9dc/itc)
-
-<div id="omic10" style="display: none;" class="bibtex">@inproceedings{omic10,
-    title         = { Network Protection against Worms and Cascading Failures using Modularity Partitioning },
-    year          = { 2010 },
-    author        = { Omic, Jasmina and Martín-Hernández, Javier and van Mieghem, Piet },
-    pages         = { 1-8 },
-    misc          = {   misc = TS4 }
-}</div>
-
 Mathieu, Fabien and Perino, Diego<br/>
 **On Resource Aware Algorithms in Epidemic Live Streaming**<br/>
  2010<br/>
@@ -375,36 +360,6 @@ Pescapé, Antonio and Rossi, Dario and Tammaro, Davide and Valenti, Silvio<br/>
     misc          = {   misc = TS9 }
 }</div>
 
-Pescapé, Antonio and Rossi, Dario and Tammaro, Davide and Valenti, Silvio<br/>
-**On the Impact of Sampling on Traffic Monitoring and Analysis**<br/>
- 2010<br/>
-[\[BibTeX\]](javascript:toggleVis('pescape10'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/15d1779a2e385223ba2e88325b4d2613ba69e81d/pescape10.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/13757bde9477a1fb53179dd695a7400f/itc)
-
-<div id="pescape10" style="display: none;" class="bibtex">@inproceedings{pescape10,
-    title         = { On the Impact of Sampling on Traffic Monitoring and Analysis },
-    year          = { 2010 },
-    author        = { Pescapé, Antonio and Rossi, Dario and Tammaro, Davide and Valenti, Silvio },
-    pages         = { 1-8 },
-    misc          = {   misc = TS9 }
-}</div>
-
-Kurant, Maciej and Markopoulou, Athina and Thiran, Patrick<br/>
-**On the bias of BFS (Breadth First Search)**<br/>
- 2010<br/>
-[\[BibTeX\]](javascript:toggleVis('kurant10'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/1a42cf0636bf722d3ea8a767977b1c52bdcf42c3/kurant10.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/9fdea3521ea831f7e1700f85d7bac883/itc)
-
-<div id="kurant10" style="display: none;" class="bibtex">@inproceedings{kurant10,
-    title         = { On the bias of BFS (Breadth First Search) },
-    year          = { 2010 },
-    author        = { Kurant, Maciej and Markopoulou, Athina and Thiran, Patrick },
-    pages         = { 1-8 },
-    misc          = {   misc = TS4 }
-}</div>
-
 Bhulai, Sandjai and Hoekstra, Gerard and van der Mei, Rob<br/>
 **Optimal Concurrent Access Strategies in Mobile Communication Networks**<br/>
  2010<br/>
@@ -426,21 +381,6 @@ Sagnol, Guillaume and Gaubert, Stéphane and Bouhtou, Mustapha<br/>
 [\[BibTeX\]](javascript:toggleVis('sagnol10'))
 [\[Download\]](https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-conference-public/-/raw/master/itc22/sagnol10.pdf?inline=true)
 [\[BibSonomy\]](https://www.bibsonomy.org/bibtex/0b4b0545661c219000c7f5cb259e4ff6/itc)
-
-<div id="sagnol10" style="display: none;" class="bibtex">@inproceedings{sagnol10,
-    title         = { Optimal Monitoring in Large Networks by Successive c-Optimal Designs },
-    year          = { 2010 },
-    author        = { Sagnol, Guillaume and Gaubert, Stéphane and Bouhtou, Mustapha },
-    pages         = { 1-8 },
-    misc          = {   misc = TS9 }
-}</div>
-
-Sagnol, Guillaume and Gaubert, Stéphane and Bouhtou, Mustapha<br/>
-**Optimal Monitoring in Large Networks by Successive c-Optimal Designs**<br/>
- 2010<br/>
-[\[BibTeX\]](javascript:toggleVis('sagnol10'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/7cfc22f1055985f4a0e81547de5dbb3cd51949c3/sagnol10.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/e73c3507010c046d043e5a901c8d2d20/itc)
 
 <div id="sagnol10" style="display: none;" class="bibtex">@inproceedings{sagnol10,
     title         = { Optimal Monitoring in Large Networks by Successive c-Optimal Designs },

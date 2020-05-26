@@ -302,21 +302,6 @@ Hyytiä, Esa and Righter, Rhonda and Aalto, Samuli<br/>
     misc          = {   misc = S5 }
 }</div>
 
-Hyytiä, Esa and Righter, Rhonda and Aalto, Samuli<br/>
-**Energy-aware Job Assignment in Server Farms with Setup Delays under LCFS and PS**<br/>
- 2014<br/>
-[\[BibTeX\]](javascript:toggleVis('hyytia2014energy'))
-[\[Download\]](http://i-teletraffic.org/_Resources/Persistent/c83baa3fed42b437686e256bded587c0c0c207e6/hyytia2014energy.pdf)
-[\[BibSonomy\]](https://www.bibsonomy.org/bibtex/66caf5979cb2adf39b6cc7571bbff360/itc)
-
-<div id="hyytia2014energy" style="display: none;" class="bibtex">@inproceedings{hyytia2014energy,
-    title         = { Energy-aware Job Assignment in Server Farms with Setup Delays under LCFS and PS },
-    year          = { 2014 },
-    author        = { Hyytiä, Esa and Righter, Rhonda and Aalto, Samuli },
-    pages         = { 1--9 },
-    misc          = {   misc = S5 }
-}</div>
-
 Hekkala, Atso and Boumard, Sandrine and Lasanen, Mika<br/>
 **Exponential companding and active constellation extension comparisons for PAPR reduction**<br/>
  2014<br/>
