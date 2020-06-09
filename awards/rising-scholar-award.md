@@ -2,13 +2,9 @@
 title: Rising Scholar Award
 ---
 
-## ITC Rising Scholar Award 2018
-
-It is our pleasure to award the 2018 ITC Rising Scholar Award to [Dr. Arpan Mukhopadhyay](../bio/arpan-mukhopadhyay.html), post-doctoral researcher in the Computer Communations and Applications Laboratory-2 of Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, for fundamental mathematical results on mean-field approximations. His extremely strong and solid theoretic contributions extend a versatile performance analysis method for a very broad range of applications that are following the original spirit of ITC.
-
 ## ITC Rising Scholar Award
 
-In 2017, the International Advisory Council (IAC) of the ITC decided to set up a new award, the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.
+In 2017, the International Advisory Council (IAC) of the ITC decided to set up a new award, the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.<br/>
 There is an open call for nominations, and the ITC Rising Scholar Award was given for the first time at ITC 30 in Vienna in September 2018.
 
 **Eligible Nominees**
@@ -35,20 +31,23 @@ The Nominator must be registered at the ITC mailing list and active in the ITC c
 
 The task of the ITC Rising Scholar Award Committee is to identify and select maximal one Award Recipient per year to be proposed to the IAC, which takes the final decision. The Award Committee consists of a chairperson and two to four members, with at least one IAC member, at least one member of the active Teletraffic Community, and up to two most recent awardees (cycled in a sliding window fashion). The IAC nominates the Award Committee on a yearly basis.
 
-For ITC 31, the award committee is as follows.
+For ITC 32, the award committee is as follows.
 
-* John Daigle, University of Mississippi, USA
 * Markus Fiedler, Blekinge Institute of Technology (BTH), Sweden (chairperson)
-* Udo Krieger, University of Bamberg, Germany
 * Arpan Mukhopadhyay, Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 * Dario Rossi, Telecom ParisTech / Ecole Polytechnique, France
+* Sabine Wittevrongel, Ghent University, Belgium
+* Thomas Zinner, NTNU, Trondheim, Norway
+
+
 
 **Award Recipient**<br/>
 The Award Recipient will receive a certificate. The Award will be published on the ITC web site.
 
-**Nomination Timeline for 2019**<br/>
-Deadline for nominations: March 15, 2019
+**Nomination Timeline for 2020**<br/>
+Deadline for nominations: April 15, 2020
+
 
 Nominations are to be sent to [rsa@lists.i-teletraffic.org](mailto:rsa@lists.i-teletraffic.org)
 
-Notifications by June 15, 2019
+Notifications by June 15, 2020
