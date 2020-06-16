@@ -1,4 +1,5 @@
 _site
 scripts/APIKEY
+scripts/.mypy_cache
 *.pyc
 .vim

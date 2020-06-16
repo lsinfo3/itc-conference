@@ -27,8 +27,12 @@ for i in sys.argv[1:]:
     else:
         files.append(i)
 
-if not files:
+if not files or (len(sys.argv) > 1 and sys.argv[1] in ("-h", "--help")):
     print("No files specified")
+
+    print("Converts ITC html pages to jekyll markdown.")
+    print("Usage: convertpage.py [--anyfrontmatterkey=value]... files...")
+    print("Example: convertpage.py \"--title=custom title with spaces\" --somekey=foo page.html")
     sys.exit(1)
 
 for currentfile in files:
