@@ -27,12 +27,14 @@ Sprites must be set manually, as `bibfetch.py` script does not do this automatic
 ## Repositories
 
 * This repo contains <https://itc-conference.org>
+* ITC template repo for new ITC sites: <https://github.com/lsinfo3/itc-template>
 * Paper repos are here:
     * Public papers, bib files, and bibsonomy prepare script: <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-public>
     * Private papers (only pdfs): <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-private>
 * Repo used to redirect `i-teletraffic.org` to `itc-conference.org`: <https://github.com/lsinfo3/i-teletraffic-redirect>
 
     It is not possible to redirect domains to other domains using Host Europe, because apparently, it is not included in the in the "Domain Basic" package.
+    Github also allows only one domain per repository.
 
     As a workaround, we connected `i-teletraffic` to this repo and added a single `index.html` that redirects to `itc-conference.org`.
 * Archive of older ITCs: https://github.com/lsinfo3/itc-clones
@@ -66,12 +68,12 @@ Was used to port the website over to jekyll and is probably no longer needed.
 
 # Adding a new conference
 
-* Create entry in `_congresses`
-* Create entry in `_redirect`
-* Upload papers to bibsonomy
+1. Create entry in `_congresses`
+2. Create entry in `_redirect`
+3. Upload papers to bibsonomy
 
     See readme in public paper repo on how to prepare bib files: <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-public>
-* Generate entry in `_itc-library` using `bibfetch.py`
+4. Generate entry in `_itc-library` using `bibfetch.py`
 
 See the individual sections for further information on each step.
 
