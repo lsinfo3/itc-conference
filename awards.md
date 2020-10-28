@@ -7,6 +7,7 @@ menu-index: 6
 ## Arne Jensen Lifetime Achievement Awards
 The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community.
 
+* [ITC 32 (Osaka, 2020)](congresses/itc032.html): [Hiroshi Saito](bio/hiroshi-saito.html)
 * [ITC 31 (Budapest, 2019)](congresses/itc031.html): [Ulf Körner](bio/ulf-korner.html)
 * [ITC 30 (Vienna, 2018)](congresses/itc030.html): [Luigi Fratta](bio/luigi-fratta.html)
 * [ITC 29 (Genua, 2017)](congresses/itc029.html): [Hans van den Berg](bio/hans-van-den-berg.html)
@@ -31,13 +32,16 @@ Before ITC 21, the Award was referred to as **IAC Lifetime Achievement Awards**.
 The International Advisory Council (IAC) of the ITC decided to set up a new award: the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.<br/>
 There is an open [call for nominations.](awards/rising-scholar-award.html) More information on the call for nomination: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
 
+* ITC Rising Scholar Award 2020 ([ITC 32, Osaka](congresses/itc032.html)): [Zhiyuan Jiang](bio/zhiyuan-jiang.html)
 * ITC Rising Scholar Award 2019 ([ITC 31, Budapest](congresses/itc031.html)): [Thomas Zinner](bio/thomas-zinner.html)
 * ITC Rising Scholar Award 2018 ([ITC 30, Vienna](congresses/itc030.html)): [Arpan Mukhopadhyay](bio/arpan-mukhopadhyay.html)
-
 
 ## Best Paper Awards and Best Student Paper Awards
 
 Best Students Paper Awards were introduced in ITC 16 (1999) and extended to full participants in ITC 21 (2009).
+
+* [ITC 32 (Osaka, 2020)](congresses/itc032.html)
+    * HURRA! Human readable router anomaly detection by Jose M Navarro, and Dario Rossi (Huawei Technologies Co. Ltd., France)
 
 * [ITC 31 (Budapest, 2019)](congresses/itc031.html)
     * Best Paper Award: _"A Processor-Sharing model for the Performance of Virtualized Network Functions"_ by Fabrice Guillemin, Veronica Quintuna Rodriguez and Alain Simonian
