@@ -24,6 +24,7 @@ table {
 
 | Year | ITC                                                | Submitted | Accepted       | % Accepted | Tracks | Attendees |
 | :--- | :-----------------------------                     | :---      | :---           | :-------   | :--    | :--       |
+| 2020 | [ITC 32]({{ site.baseurl }}/congresses/itc32.html) | 58        | 20             | 36%        | 1      | 100       |
 | 2019 | [ITC 31]({{ site.baseurl }}/congresses/itc31.html) | 34        | 15             | 44.12%     | 1      | 48        |
 | 2018 | [ITC 30]({{ site.baseurl }}/congresses/itc30.html) | 46        | 18 (+11 other) | 39.13%     | 1      | 76        |
 | 2017 | [ITC 29]({{ site.baseurl }}/congresses/itc29.html) | 91        | 28 (+2 demos)  | 30.77%     | 1      | 71        |
