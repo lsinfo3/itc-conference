@@ -11,6 +11,8 @@ domain: "https://itc-conference.org"
 
 exclude: [ "README.md", "Gemfile", "Gemfile.lock", "scripts", "news", "_posts" ]
 theme: null
+plugins:
+    - jekyll-seo-tag
 
 collections:
     congresses:
