@@ -2,7 +2,7 @@
 title: Zhiyuan Jiang
 ---
 
-## Zhiyuan Jiang: Rising Scholar Award 2019
+## Zhiyuan Jiang: Rising Scholar Award 2020
 
 The goal of the [ITC Rising Scholar Award ]({{ site.baseurl }}/awards.html) is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.
 

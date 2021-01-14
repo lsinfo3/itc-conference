@@ -9,7 +9,7 @@ There is an open call for nominations, and the ITC Rising Scholar Award was give
 
 **Eligible Nominees**
 
-The Nominee must be within seven years of having obtained her/his PhD degree. A substantial amount of the research body in the research accomplishment should be rooted in work that was published at ITC; contributions to teletraffic modelling and analysis are particularly welcome. The Nominee may not be any of the following: the Nominator (self-nominations are not accepted); an IAC member; or an award committee member.
+The Nominee must be within seven years of having obtained her/his PhD degree. Research contributions to teletraffic modelling and analysis are particularly welcome. The Nominee may not be any of the following: the Nominator (self-nominations are not accepted); an IAC member; or an award committee member.
 
 **Nomination Process**
 
@@ -31,11 +31,11 @@ The Nominator must be registered at the ITC mailing list and active in the ITC c
 
 The task of the ITC Rising Scholar Award Committee is to identify and select maximal one Award Recipient per year to be proposed to the IAC, which takes the final decision. The Award Committee consists of a chairperson and two to four members, with at least one IAC member, at least one member of the active Teletraffic Community, and up to two most recent awardees (cycled in a sliding window fashion). The IAC nominates the Award Committee on a yearly basis.
 
-For ITC 32, the award committee is as follows.
+For ITC 33, the award committee is as follows.
 
 * Markus Fiedler, Blekinge Institute of Technology (BTH), Sweden (chairperson)
-* Arpan Mukhopadhyay, Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
-* Dario Rossi, Telecom ParisTech / Ecole Polytechnique, France
+* Zhiyuan Jiang, Shanghai University, China
+* Dario Rossi, Huawei, France
 * Sabine Wittevrongel, Ghent University, Belgium
 * Thomas Zinner, NTNU, Trondheim, Norway
 
@@ -44,10 +44,10 @@ For ITC 32, the award committee is as follows.
 **Award Recipient**<br/>
 The Award Recipient will receive a certificate. The Award will be published on the ITC web site.
 
-**Nomination Timeline for 2020**<br/>
-Deadline for nominations: April 15, 2020
+**Nomination Timeline for 2021**<br/>
+Deadline for nominations: April 15, 2021
 
 
 Nominations are to be sent to [rsa@lists.i-teletraffic.org](mailto:rsa@lists.i-teletraffic.org)
 
-Notifications by June 15, 2020
+Notifications by June 15, 2021
