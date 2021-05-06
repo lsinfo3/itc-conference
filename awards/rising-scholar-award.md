@@ -45,9 +45,8 @@ For ITC 33, the award committee is as follows.
 The Award Recipient will receive a certificate. The Award will be published on the ITC web site.
 
 **Nomination Timeline for 2021**<br/>
-Deadline for nominations: April 15, 2021
-
+Deadline for nominations: May 31, 2021 (extended)
 
 Nominations are to be sent to [rsa@lists.i-teletraffic.org](mailto:rsa@lists.i-teletraffic.org)
 
-Notifications by June 15, 2021
+Notifications by July 15, 2021 (extended)
