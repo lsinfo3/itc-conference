@@ -5,7 +5,7 @@ menu-index: 7
 ---
 
 ## ITC Mailinglist
-News about ITC 28 and ITC in general will be published via the ITC mailing list. Only members of that moderated mailing list can post news to all the list members. Please subscribe to the mailing list at [](https://lists.i-teletraffic.org/cgi-bin/mailman/listinfo/itc)
+News about ITC 28 and ITC in general will be published via the ITC mailing list. Only members of that moderated mailing list can post news to all the list members. Please subscribe to the mailing list [here](https://lists.i-teletraffic.org/cgi-bin/mailman/listinfo/itc)
 
 ## Twitter & Linked.in
 
