@@ -90,7 +90,9 @@ See other conference pages for more detailed examples.
 
 The `_redirect` subfolder contains pages that redirect to the respective ITC site, so that each site can be accessed using `https://itc-conference.org/itcXY`.
 
-To add a new redirect, create a new file and set the `target` attribute to the desired URL, e.g. for ITC 31:
+**Note:** To assign a custom domain, see [here](https://github.com/lsinfo3/itc-template#custom-domain).
+
+To add a new redirect, create a new file in the `_redirect`folder and set the `target` attribute to the desired URL, e.g. for ITC 31:
 
 itc31.html:
 ```
