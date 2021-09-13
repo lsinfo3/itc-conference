@@ -9,8 +9,8 @@ A [world map of all congresses](https://www.google.com/maps/d/edit?hl=en&authuse
 
 Some [basic statistics]({{ site.baseurl }}/congress_statistics.html) about the ITC congresses are also available. Information on ITC can also be found in Wikipedia ["International Teletraffic Congress"](https://en.wikipedia.org/wiki/International_Teletraffic_Congress).
 
-
-[ITC 34: Teletraffic Engineering for Smart Networking](https://itc34.itc-conference.org)
+<p>
+<b>[ITC 34: Teletraffic Engineering for Smart Networking](https://itc34.itc-conference.org)</b><br/>
 4. - 16. September 2022, Shenzhen, China
 
 {% assign congresses = site.congresses | reverse %}
