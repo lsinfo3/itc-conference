@@ -3,3 +3,5 @@ scripts/APIKEY
 scripts/.mypy_cache
 *.pyc
 .vim
+vendor
+.bundle
