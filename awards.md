@@ -40,8 +40,11 @@ There is an open [call for nominations.](awards/rising-scholar-award.html) More 
 
 Best Students Paper Awards were introduced in ITC 16 (1999) and extended to full participants in ITC 21 (2009).
 
+* [ITC 33 (Avignon, 2021)](congresses/itc033.html)
+    * *"AÇAI: Ascent Similarity Caching with Approximate Indexes"* by Tareq Si Salem, Giovanni Neglia and Damiano Carra
+
 * [ITC 32 (Osaka, 2020)](congresses/itc032.html)
-    * HURRA! Human readable router anomaly detection by Jose M Navarro, and Dario Rossi (Huawei Technologies Co. Ltd., France)
+    * *"HURRA! Human readable router anomaly detection"* by Jose M Navarro, and Dario Rossi (Huawei Technologies Co. Ltd., France)
 
 * [ITC 31 (Budapest, 2019)](congresses/itc031.html)
     * Best Paper Award: _"A Processor-Sharing model for the Performance of Virtualized Network Functions"_ by Fabrice Guillemin, Veronica Quintuna Rodriguez and Alain Simonian
