@@ -26,9 +26,9 @@ The rootedness on solid methodological ground allowed ITC to adapt its technolog
 The goal of the ITC Rising Scholar Award  is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science. There is an open call for nominations: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
 
 
-## ITC 32 in Japan
+## ITC 34 in Shenzhen
 
-ITC 32 will be held 22 - 24 September 2020, Osaka, Japan. In 1985, ITC 11 was held in Kyoto. After 35 years ITC goes back to Japan.
+ITC 34 will be held 4 - 16 September 2022, Shenzhen, China. In 2005, ITC 19 was held in Beijing. After 17 years ITC goes back to China.
 
 
 ## 100 Most Frequent Errors
