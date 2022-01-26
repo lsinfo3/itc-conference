@@ -28,7 +28,7 @@ The goal of the ITC Rising Scholar Award  is to recognize young researchers with
 
 ## ITC 34 in Shenzhen
 
-ITC 34 will be held 4 - 16 September 2022, Shenzhen, China. In 2005, ITC 19 was held in Beijing. After 17 years ITC goes back to China.
+ITC 34 will be held 4 - 16 September 2022, Shenzhen, China. In 2005, ITC 19 was held in Beijing. After 17 years ITC goes back to China. [https://itc34.itc-conference.org]
 
 
 ## 100 Most Frequent Errors
