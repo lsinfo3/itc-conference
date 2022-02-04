@@ -29,15 +29,15 @@ Sprites must be set manually, as `bibfetch.py` script does not do this automatic
 * This repo contains <https://itc-conference.org>
 * ITC template repo for new ITC sites: <https://github.com/lsinfo3/itc-template>
 * Paper repos are here:
-    * Public papers, bib files, and bibsonomy prepare script: <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-public>
-    * Private papers (only pdfs): <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-private>
+  * Public papers, bib files, and bibsonomy prepare script: <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-public>
+  * Private papers (only pdfs): <https://gitlab2.informatik.uni-wuerzburg.de/itc-conference/itc-publications-private>
 * Repo used to redirect `i-teletraffic.org` to `itc-conference.org`: <https://github.com/lsinfo3/i-teletraffic-redirect>
 
     It is not possible to redirect domains to other domains using Host Europe, because apparently, it is not included in the in the "Domain Basic" package.
     Github also allows only one domain per repository.
 
     As a workaround, we connected `i-teletraffic` to this repo and added a single `index.html` that redirects to `itc-conference.org`.
-* Archive of older ITCs: https://github.com/lsinfo3/itc-clones
+* Archive of older ITCs: <https://github.com/lsinfo3/itc-clones>
 
     Is connected to `archive.itc-conference.org`. Pages can be accessed using `archive.itc-conference.org/itcXY`.
 
@@ -45,7 +45,7 @@ Sprites must be set manually, as `bibfetch.py` script does not do this automatic
 # Scripts
 
 First, install dependencies
-```
+```sh
 $ pip install -r scripts/requirements.txt
 ```
 
