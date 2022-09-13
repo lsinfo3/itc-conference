@@ -8,13 +8,13 @@ title: IAC Members
 The current members of IAC are:
   
   * Yan Chen (liason chair)
-  * Markus Fiedler(Treasurer)
+  * Markus Fiedler(treasurer)
   * Oliver Hohlfeld (communications chair)
   * Stefano Secci (member)
   * Kohei Shiomoto (member)
-  * Lea Skorin-Kapov (Secretary)
-  * Sabine Wittevrongel (Chairperson)
-  * Thomas Zinner (Vice-Chairperson) 
+  * Lea Skorin-Kapov (secretary)
+  * Sabine Wittevrongel (chairperson)
+  * Thomas Zinner (vice-chairperson) 
 
 In addition to present IAC Members, Honorary IAC Members and ITC Key Members have been also involved in the organization of ITC events.
 

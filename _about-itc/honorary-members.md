@@ -7,7 +7,6 @@ title: Honorary Members
 
 The following experts are former Representatives, now Honorary Members of the IAC, and have have greatly contributed to Teletraffic development and the ITC Institution _(in alphabetical order)._
 
-
 * Minoru Akiyama, Shibaura Institute of Technology, Japan
 * Mario Bonatti, Retired, Italy
 * Onno Boxma, Delft University, The Netherlands
@@ -21,8 +20,11 @@ The following experts are former Representatives, now Honorary Members of the IA
 * Paolo de Ferra, Retired, Italy
 * Luigi Fratta, Politecnico University of Milano, Italy
 * Oscar Gonzalez-Soto, Consultant, Spain
-* Gezà Gosztony, Péter Pázmány Catholic University, Hubgary
+* Gezà Gosztony, Péter Pázmány Catholic University, Hungary
+* Fabrice Guillemin, Orange Labs, France 
+* Tobias Hossfeld, University of Würzburg, Germany 
 * Villy-Baek Iversen, Technical University of Denmark, Denmark
+* Nikhil Jain, Qualcomm Technologies, USA
 * Steve S. Katz, Retired, USA
 * Konosuke Kawashima, Tokyo University of Agriculture & Technology, Japan
 * Peter Key, MicroSoft Research, UK
@@ -33,11 +35,15 @@ The following experts are former Representatives, now Honorary Members of the IA
 * Al Lewis, Retired, Canada
 * Xiongjian Liang, Beijing Univ. of Post & Telecommunications, China
 * Deep Medhi, University of Missouri - Kansas City, United States
+* Michael Menth, University of Tuebingen, Germany
+* Michela Meo, Politecnico Tororino, Italy 
 * Vladimir Neiman, Retired, Russia
+* Zhisheng Niu, Tsinghua University, China 
 * Jim O'Shauhnessy, Retired, Canada
 * Charlie Pack, Monmouth University, USA
 * Clemens W. Pratt, -, Australia
 * Philip Richards, NewStep Networks, Canada
+* Dario Rossi, Telecom ParisTech, France 
 * Hiroshi Saito, NTT, Japan
 * David Songhurst, -, UK
 * Ignat Stanev, Technical Univesity of Sofia, Bulgaria
