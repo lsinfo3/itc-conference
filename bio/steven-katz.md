@@ -46,9 +46,9 @@ Steven S. Katz will be remembered by us as a technical innovator and a
 mentor for many US colleagues in our research community.
 
 ### References
-*  Katz, Steven S. _"Statistical Performance Evaluation of a Switched Communications Network"_, Fifth International Teletraffic Congress, New York, 1967
+*  Katz, Steven S. _"Statistical Performance Evaluation of a Switched Communications Network"_, [Fifth International Teletraffic Congress](/congresses/itc005.html), New York, 1967
 *  Katz, Steven S.: _"A Capacity Investigation of the No . 1 ESS Signal Processor Machine from Traffic Data"_, unpublished memorandum, 1968 [Cited in the next publication]
-*  Farber, Norman: _"A Model for Estimating the Real-Time Capacity of Certain Classes of Central Processors"_, Sixth International Teletraffic Congress, Munich, 1970
-*  Katz, Steven S.: _"Trunk Engineering of Non Hierarchical Networks"_, Sixth International Teletraffic Congress, Munich, 1970
-*  Ash, Gerald R., Cardwell, Richard H., and Murray, R.P.: _“Design and optimization of networks with dynamic routing"_, Bell Syst. Tech. J ., vol.60, n°. 8, Oct. 1981
-*  Ash, Gerald R., Chemouil, Prosper, Kashper, Arik, Katz, Steven S., Yamazaki, Katsuyuki, and Watanabe, Yu: _"Robust Design and Planning of a Worldwide Intelligent Network"_, IEEE Journal on Selected Areas of Telecommunications, Vol. 7. N°. 8. October 1989
+*  Farber, Norman: _"[A Model for Estimating the Real-Time Capacity of Certain Classes of Central Processors](/itc-library/itc06.html)"_, [Sixth International Teletraffic Congress](/congresses/itc006.html), Munich, 1970
+*  Katz, Steven S.: _"[Trunk Engineering of Non Hierarchical Networks](/itc-library/itc06.html)"_, [Sixth International Teletraffic Congress](/congresses/itc006.html), Munich, 1970
+*  Ash, Gerald R., Cardwell, Richard H., and Murray, R.P.: _"[Design and optimization of networks with dynamic routing](https://doi.org/10.1002/j.1538-7305.1981.tb00297.x)"_, Bell Syst. Tech. J ., vol.60, n°. 8, Oct. 1981
+*  Ash, Gerald R., Chemouil, Prosper, Kashper, Arik, Katz, Steven S., Yamazaki, Katsuyuki, and Watanabe, Yu: _"[Robust Design and Planning of a Worldwide Intelligent Network](https://doi.org/10.1109/49.35567)"_, IEEE Journal on Selected Areas of Telecommunications, Vol. 7. N°. 8. October 1989
