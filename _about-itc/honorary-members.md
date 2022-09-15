@@ -9,8 +9,8 @@ The following experts are former Representatives, now Honorary Members of the IA
 
 * Minoru Akiyama, Shibaura Institute of Technology, Japan
 * Mario Bonatti, Retired, Italy
-* Onno Boxma, Delft University, The Netherlands
-* Prosper Chemouil, Orange Labs, France
+* [Onno Boxma](/bio/onno-boxma.html), Delft University, The Netherlands
+* [Prosper Chemouil](/bio/prosper-chemouil.html), Orange Labs, France
 * Carles Coles, Retired, UK
 * Carlos-Alberto Costa-Nunes, GVT, Brazil
 * Maurizio Decina, Politecnico di Milano, Italy
@@ -18,7 +18,7 @@ The following experts are former Representatives, now Honorary Members of the IA
 * Lars Envall, Retired, Denmark
 * David Everitt, NICTA, Australia
 * Paolo de Ferra, Retired, Italy
-* Luigi Fratta, Politecnico University of Milano, Italy
+* [Luigi Fratta](/bio/luigi-fratta.html), Politecnico University of Milano, Italy
 * Oscar Gonzalez-Soto, Consultant, Spain
 * Gezà Gosztony, Péter Pázmány Catholic University, Hungary
 * Fabrice Guillemin, Orange Labs, France 
@@ -28,7 +28,7 @@ The following experts are former Representatives, now Honorary Members of the IA
 * [Steven S. Katz](/bio/steven-katz.html) (1939-2022), USA
 * Konosuke Kawashima, Tokyo University of Agriculture & Technology, Japan
 * Peter Key, MicroSoft Research, UK
-* Ulf Körner, Lund University, Sweden
+* [Ulf Körner](/bio/ulf-korner.html), Lund University, Sweden
 * Paul J. Kühn, Emeritus Chairman, University of Stuttgart, Germany
 * Jacques Labetoulle, Institut Telecom, France
 * Pierre Le Gall, Retired, France,
@@ -44,12 +44,12 @@ The following experts are former Representatives, now Honorary Members of the IA
 * Clemens W. Pratt, -, Australia
 * Philip Richards, NewStep Networks, Canada
 * Dario Rossi, Telecom ParisTech, France 
-* Hiroshi Saito, NTT, Japan
+* [Hiroshi Saito](/bio/hiroshi-saito.html), NTT, Japan
 * David Songhurst, -, UK
 * Ignat Stanev, Technical Univesity of Sofia, Bulgaria
 * Henk Tijms, -, The Netherlands
-* Phuoc Tran-Gia, Wuerzburg University, Germany
-* Johan Van den Berg, TNO and Twente University, The Netherlands
+* [Phuoc Tran-Gia](/bio/phuoc-tran-gia.html), Wuerzburg University, Germany
+* [Johan (Hans) Van den Berg](/bio/hans-van-den-berg.html), TNO and Twente University, The Netherlands
 * Benny Van Houdt, University of Antwerp, Belgium
 * Eduardo Villar, Retired, Spain
 * Manuel Villèn-Altamirano, Teleconica I+D, Spain
