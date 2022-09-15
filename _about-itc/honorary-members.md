@@ -25,7 +25,7 @@ The following experts are former Representatives, now Honorary Members of the IA
 * Tobias Hossfeld, University of Würzburg, Germany 
 * Villy-Baek Iversen, Technical University of Denmark, Denmark
 * Nikhil Jain, Qualcomm Technologies, USA
-* Steve S. Katz, Retired, USA
+* [Steven S. Katz](/bio/steven-katz.html) (1939-2022), USA
 * Konosuke Kawashima, Tokyo University of Agriculture & Technology, Japan
 * Peter Key, MicroSoft Research, UK
 * Ulf Körner, Lund University, Sweden
