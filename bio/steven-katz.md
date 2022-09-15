@@ -7,7 +7,7 @@ title: Steven S. Katz
 Steven S. Katz made most of his career at AT&T Bell Labs, mostly before
 AT&T divestiture. He had been involved in teletraffic very early in the 60s:
 he made his first ITC publication on performance evaluation of switches at
-[ITC 5 in New York City (1967)](congresses/itc005.html). He worked with Norman Farber to develop a
+[ITC 5 in New York City (1967)](/congresses/itc005.html). He worked with Norman Farber to develop a
 model for estimating the traffic  capacity of Electronic Switching Systems
 (ESS 1), the switches being installed in AT&T network at that time. This
 resulted in a paper presented by Norman at ITC 6 in Munich Germany, while
@@ -25,7 +25,7 @@ international WIN (Worldwide Intelligent Routing) Research Project. A
 presentation of this project was presented at the 6th ITC Specialist Seminar
 in Adelaide, Australia in 1989.
 
-Steven S. Katz was highly involved in the [International Advisory Council](about-itc/honorary-members.html) of
+Steven S. Katz was highly involved in the [International Advisory Council](/about-itc/honorary-members.html) of
 the ITC, being the US representative from the late 70s, after R.I.
 Wilkinson. When AT&T was dismantled, he remained in the IAC  as AT&T’s
 representative, while Charlie Pack became the BellCore representative.
@@ -33,7 +33,7 @@ Accordingly, IAC membership status started to migrate from country
 representation to company representation. 
 
 Finally Steve and Charlie both invited the ITC community in [Washington DC,
-USA, for ITC 15 in 1997](congresses/itc015.html). That was a memorable event when we experienced a
+USA, for ITC 15 in 1997](/congresses/itc015.html). That was a memorable event when we experienced a
 significant heatwave, as the gift t-shirt assessed. Following ITC 15,
 Steve stepped down from the IAC and he was replaced by Patricia Wirth, from
 Bell Labs too.
