@@ -6,7 +6,7 @@ year: 2023
 
 Keisuke Ishibashi, Takumi Uchida<br/>
 **Estimating Traffic Latent Due to QoS Deterioration: A Time-Series Causal Inference Approach**<br/>
-In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
+In *35th International Teletraffic Congress (ITC-35)*. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper1'))
 [\[Abstract\]](javascript:toggleVis('abstract_1'))
 [\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final1.pdf)
