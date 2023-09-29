@@ -1,4 +1,3 @@
-
 ---
 title: ITC35
 year: 2023
