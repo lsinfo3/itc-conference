@@ -26,9 +26,9 @@ The rootedness on solid methodological ground allowed ITC to adapt its technolog
 The goal of the ITC Rising Scholar Award  is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science. There is an open call for nominations: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
 
 
-## ITC 35 in Turin
+## ITC 36 in Trondheim
 
-ITC 35 will be held 3 - 5 October 2023 at Politecnico di Torino, Italy. [itc35.itc-conference.org](https://itc35.itc-conference.org)
+ITC 36 will be held 26 - 30 May 2023 at NTNU Trondheim, Norway. [itc36.itc-conference.org](https://itc36.itc-conference.org)
 
 
 ## 100 Most Frequent Errors
