@@ -24,7 +24,7 @@ table {
 
 | Year | ITC                                                | Submitted | Accepted       | % Accepted | Tracks | Attendees |
 | :--- | :-----------------------------                     | :---      | :---           | :-------   | :--    | :--       |
-| 2023 | [ITC 35]({{ site.baseurl }}/congresses/itc035.html) | 31        | 13             | 42%        | 1      | 50     |
+| 2023 | [ITC 35]({{ site.baseurl }}/congresses/itc035.html) | 31        | 13             | 42%        | 1      | 45     |
 | 2022 | [ITC 34]({{ site.baseurl }}/congresses/itc034.html) | 17        | 10 (+21 other) | 59%        | 1      | online    |
 | 2021 | [ITC 33]({{ site.baseurl }}/congresses/itc033.html) | 27        | 11 (+4 invited)| 40%        | 1      | 144       |
 | 2020 | [ITC 32]({{ site.baseurl }}/congresses/itc032.html) | 58        | 20             | 36%        | 1      | 100       |
