@@ -28,9 +28,9 @@ collections:
         title: Specialist Seminars
         output: True
         url: /specialist-seminars.html
-    # posts:
-    #     title: News
-    #     url: /news/
+    posts:
+        title: News
+        url: /news/
     itc-library:
         output: True
         title: ITC Publications
