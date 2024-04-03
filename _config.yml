@@ -6,10 +6,10 @@ domain: "https://itc-conference.org"
 # To enable again: uncomment the following 2 lines, remove "news" and "_posts" entry
 # from exclude list, uncomment respective lines in "collections" and "defaults",
 # and uncomment respective lines in _layouts/default.html for sidebar entries.
-# paginate: 10
-# paginate_path: "/news/page:num/"
+ paginate: 10
+ paginate_path: "/news/page:num/"
 
-exclude: [ "README.md", "Gemfile", "Gemfile.lock", "vendor", "scripts", "news", "_posts" ]
+exclude: [ "README.md", "Gemfile", "Gemfile.lock", "vendor", "scripts" ]
 theme: null
 plugins:
     - jekyll-seo-tag
