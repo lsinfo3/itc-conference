@@ -114,7 +114,7 @@
              
                 <a class="right_links" href="{{ site.baseurl }}/news.html">What's new?</a>
                 <ul class="right_info">
-                    {% for i in site.posts limit: 5 %}
+                    {% for i in site.posts limit: 3 %}
                     {% capture postdate %}{{ i.date }}{% endcapture %}
                     <li>
                         <h2><a href="{{ i.url | relative_url }}">{{ i.title }}</a></h2>
