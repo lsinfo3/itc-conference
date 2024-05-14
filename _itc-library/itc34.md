@@ -3,9 +3,7 @@ title: ITC34
 year: 2022
 ---
 
---
-title: Main Conference
---
+Main Conference
 
 Mahsa Noroozi, Markus Fidler<br/>
 **Age- and Deviation-of-Information of Time-Triggered and Event-Triggered Systems**<br/>
@@ -315,9 +313,9 @@ In *34th International Teletraffic Congress (ITC-34)*.  Shenzhen, China 2022<br/
 </div>
 
 
---
-title:  Joint Workshop of Smart Industrial Networking and Satellite Based IoT
---
+
+ Joint Workshop of Smart Industrial Networking and Satellite Based IoT
+
 
 
 Jinzhou Li, Shouye Lv, Chenglin Wang, Shuai Liao, Shaoqiong Zhou, Yang Liu <br/>
