@@ -8,7 +8,7 @@ Keisuke Ishibashi, Takumi Uchida<br/>
 In *35th International Teletraffic Congress (ITC-35)*. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper1'))
 [\[Abstract\]](javascript:toggleVis('abstract_1'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final1.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final1.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper1" style="display: none;" class="bibtex">
@@ -33,7 +33,7 @@ Stefan Geißler, David Raunecker, Stanislav Lange, Tobias Hossfeld<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper2'))
 [\[Abstract\]](javascript:toggleVis('abstract_2'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final3.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final3.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper2" style="display: none;" class="bibtex">
@@ -56,7 +56,7 @@ Ankita Koley, Chandramani Singh<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper3'))
 [\[Abstract\]](javascript:toggleVis('abstract_3'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final13.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final13.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper3" style="display: none;" class="bibtex">
@@ -82,7 +82,7 @@ Jianhang Zhu, Jie Gong<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper4'))
 [\[Abstract\]](javascript:toggleVis('abstract_4'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final29.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final29.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper4" style="display: none;" class="bibtex">
@@ -119,7 +119,7 @@ Vinay Kumar Bindiganavile Ramadas<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper5'))
 [\[Abstract\]](javascript:toggleVis('abstract_5'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final32.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final32.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper5" style="display: none;" class="bibtex">
@@ -142,7 +142,7 @@ Ludovic Thomas, Jean-Yves Le Boudec<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper6'))
 [\[Abstract\]](javascript:toggleVis('abstract_6'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final35.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final35.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper6" style="display: none;" class="bibtex">
@@ -165,7 +165,7 @@ Tan Chen, Jintao Yan, Yuxuan Sun, Sheng Zhou, Deniz Gunduz, Zhisheng Niu<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper7'))
 [\[Abstract\]](javascript:toggleVis('abstract_7'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final38.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final38.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper7" style="display: none;" class="bibtex">
@@ -188,7 +188,7 @@ Asmad Bin Abdul Razzaque, Andrea Baiocchi<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper8'))
 [\[Abstract\]](javascript:toggleVis('abstract_8'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final70.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final70.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper8" style="display: none;" class="bibtex">
@@ -211,7 +211,7 @@ Florian Wiedner, Max Helm, Alexander Daichendt, Jonas Andre, Georg Carle<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper9'))
 [\[Abstract\]](javascript:toggleVis('abstract_9'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final71.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final71.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper9" style="display: none;" class="bibtex">
@@ -234,7 +234,7 @@ Giampaolo Bovenzi, Davide Di Monda, Antonio Montieri, Valerio Persico, Antonio P
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper10'))
 [\[Abstract\]](javascript:toggleVis('abstract_10'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final76.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final76.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper10" style="display: none;" class="bibtex">
@@ -259,7 +259,7 @@ Max Helm, Benedikt Jaeger, Christopher Pfefferle, Georg Carle<br/>
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper11'))
 [\[Abstract\]](javascript:toggleVis('abstract_11'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final91.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final91.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper11" style="display: none;" class="bibtex">
@@ -282,7 +282,7 @@ Ziad TLAISS, Alexandre FERRIEUX, Isabel AMIGO, Isabelle HAMCHAOUI, Sandrine VATO
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper12'))
 [\[Abstract\]](javascript:toggleVis('abstract_12'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final93.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final93.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper12" style="display: none;" class="bibtex">
@@ -309,7 +309,7 @@ Hadi Hosseini, Ahmed Almutairi, Syed Muhammad Hashir, Ehsan Aryafar, Joseph Camp
 In *35th International Teletraffic Congress (ITC-35) *. Torino, Italy 2023<br/>
 [\[BibTeX\]](javascript:toggleVis('itcpaper13'))
 [\[Abstract\]](javascript:toggleVis('abstract_13'))
-[\[Download\]](https://puma2.inet.tu-berlin.de/~oliver/itc-library/itc35//itc2023-final94.pdf)
+[\[Download\]](https://thomasez.folk.ntnu.no/itc35/itc2023-final94.pdf)
 [\[BibSonomy\]]()
 
 <div id="itcpaper13" style="display: none;" class="bibtex">
