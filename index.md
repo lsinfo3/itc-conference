@@ -23,7 +23,7 @@ The goal of the ITC Rising Scholar Award  is to recognize young researchers with
 
 ## ITC 36 in Trondheim
 
-ITC 36 will be held 26 - 30 May 2023 at NTNU Trondheim, Norway. [itc36.itc-conference.org](https://itc36.itc-conference.org)
+ITC 36 will be held 26 - 30 May 2025 at NTNU Trondheim, Norway. [itc36.itc-conference.org](https://itc36.itc-conference.org)
 
 
 ## 100 Most Frequent Errors
