@@ -40,6 +40,12 @@ There is an open [call for nominations.](awards/rising-scholar-award.html) More 
 
 Best Students Paper Awards were introduced in ITC 16 (1999) and extended to full participants in ITC 21 (2009).
 
+* [ITC 35 (Turino, 2023)](congresses/itc035.html)
+    * *"Network-Calculus Service Curves of the Interleaved Regulator" by Ludovic Thomas and Jean-Yves Le Boudec (École Polytechnique Fédérale de Lausanne)
+
+* [ITC 34 (Shenzhen, 2022)](congresses/itc034.html)
+	* *
+
 * [ITC 33 (Avignon, 2021)](congresses/itc033.html)
     * *"AÇAI: Ascent Similarity Caching with Approximate Indexes"* by Tareq Si Salem, Giovanni Neglia and Damiano Carra
 
