@@ -11,7 +11,7 @@ Some [basic statistics]({{ site.baseurl }}/congress_statistics.html) about the I
 
 <p>
 <b><a href="https://itc36.itc-conference.org">ITC 36</a></b><br/>
-26. - 30. Mai 2024, Trondheim, Norway
+02. - 06. June 2024, Trondheim, Norway
 
 {% assign congresses = site.congresses | reverse %}
 {% for c in congresses %}
