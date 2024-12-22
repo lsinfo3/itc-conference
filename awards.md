@@ -5,7 +5,7 @@ menu-index: 6
 ---
 
 ## Arne Jensen Lifetime Achievement Awards
-The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community.
+The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community. There is an open call for nominations. More information on the call for nomination: [{{ site.domain }}/awards/lifetime-achievement-award.html](awards/lifetime-achievement-award.html)
 
 * [ITC 32 (Osaka, 2020)](congresses/itc032.html): [Hiroshi Saito](bio/hiroshi-saito.html)
 * [ITC 31 (Budapest, 2019)](congresses/itc031.html): [Ulf Körner](bio/ulf-korner.html)
@@ -30,7 +30,7 @@ Before ITC 21, the Award was referred to as **IAC Lifetime Achievement Awards**.
 ## ITC Rising Scholar Award
 
 The International Advisory Council (IAC) of the ITC decided to set up a new award: the ITC Rising Scholar Award. The goal of the ITC Rising Scholar Award is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science.<br/>
-There is an open [call for nominations.](awards/rising-scholar-award.html) More information on the call for nomination: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
+
 
 * ITC Rising Scholar Award 2020 ([ITC 32, Osaka](congresses/itc032.html)): [Zhiyuan Jiang](bio/zhiyuan-jiang.html)
 * ITC Rising Scholar Award 2019 ([ITC 31, Budapest](congresses/itc031.html)): [Thomas Zinner](bio/thomas-zinner.html)

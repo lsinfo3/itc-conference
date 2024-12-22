@@ -16,9 +16,9 @@ Since its inception, ITC witnessed the evolution of communications and networkin
 The rootedness on solid methodological ground allowed ITC to adapt its technological focus without losing identity. Also today, ITC remains a wide and lively community of researchers and practitioners dedicated to push back the limits of knowledge in the area of networking. As such, ITC is regularly organizing events like congresses, specialist seminars and workshops to gather experts and to discuss latest changes in design, modelling, and performance evaluation of communication systems, networks, and services.
 
 
-## ITC Rising Scholar Award
+## Arne Jensen Lifetime Achievement Award
 
-The goal of the ITC Rising Scholar Award  is to recognize young researchers with significant contributions to the ITC Community in the field of performance, traffic modeling and control in communication networks and networking science. There is an open call for nominations: [{{ site.domain }}/awards/rising-scholar-award.html](awards/rising-scholar-award.html)
+The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community. More information on the open call for nomination: [{{ site.domain }}/awards/lifetime-achievement-award.html](awards/lifetime-achievement-award.html)
 
 
 ## ITC 36 in Trondheim
