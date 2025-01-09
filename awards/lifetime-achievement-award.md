@@ -14,7 +14,7 @@ The Nominee must have provided exceptional contributions to traffic modeling, co
 
 **Nomination Process**
 
-These documents are submitted via email to the conference chair, before the deadline.
+These documents are submitted via email to the committee chair, before the deadline.
 * A concise statement (one sentence) of the achievement(s) for which the award is being sought.
 * A letter from the Nominator, justifying the nomination, the significance of the work, and the Nominee's research accomplishments and contributions (max. two pages, 11pt font).
 * Curriculum Vitae, including publications, of the Nominee.
