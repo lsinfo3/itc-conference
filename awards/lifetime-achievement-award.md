@@ -32,7 +32,7 @@ The Nominator should solicit endorsements from colleagues in the field that are 
 
 The task of the Arne Jensen Lifetime Award Committee is to identify and select maximal one Award Recipient per year to be proposed to the IAC, which takes the final decision. The Award Committee consists of a chairperson and two to four members, including and up to two awardees. The IAC nominates the Award Committee on a yearly basis.
 
-For ITC 36, the award committee is currently composed.
+For ITC 36, the award committee omprises Michela Meo, Sem Borst, and Hans van den Berg. Questions should be sent to the committee chair.
 
 
 **Award Recipient**<br/>
@@ -41,6 +41,7 @@ The Award Recipient will receive a certificate. The recipient is also invited to
 **Nomination Timeline for 2025**<br/>
 Deadline for nominations: February 28, 2025 
 
-Nominations are to be sent by email to the committee chair, xy: 
+The nomination materials must be e-mailed by February 28th, 2025 to the committee chair Michela Meo at: michela.meo@polito.it with "Arne Jensen Lifetime Award Nomination" in the subject line. 
 
-Notifications by March 31st.
+
+Notifications shall be sent by March 31st.
