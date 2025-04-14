@@ -7,6 +7,7 @@ menu-index: 6
 ## Arne Jensen Lifetime Achievement Awards
 The Arne Jensen Lifetime Award has been created in memory of Arne Jensen, Founder of the International Teletraffic Congress (ITC) and Chair of the International Advisory Council (IAC) from its inception in 1955 until 1991. The Award is presented at ITCs to an individual who has provided exceptional contribution to traffic modeling, control and performance, and dedication to the teletraffic community. There is an open call for nominations. More information on the call for nomination: [{{ site.domain }}/awards/lifetime-achievement-award.html](awards/lifetime-achievement-award.html)
 
+* [ITC 36 (Trondheim, 2025)](congresses/itc036.html): [Deep Medhi](bio/deep-medhi.html)
 * [ITC 32 (Osaka, 2020)](congresses/itc032.html): [Hiroshi Saito](bio/hiroshi-saito.html)
 * [ITC 31 (Budapest, 2019)](congresses/itc031.html): [Ulf Körner](bio/ulf-korner.html)
 * [ITC 30 (Vienna, 2018)](congresses/itc030.html): [Luigi Fratta](bio/luigi-fratta.html)
