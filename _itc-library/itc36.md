@@ -322,32 +322,32 @@ In *36th International Teletraffic Congress (ITC-36)*. Trondheim, Norway 2025<br
 
 ## ITC 36 PhD Workshop Abstracts
 
-Simone Bozzolan, Diletta Olliaro, Stefano Calzavara, Andrea Marin, Gianfranco Balbo, Matteo Sereno</br>
-**Stochastic Models for Remote Timing Attacks**<br/>
+Simone Bozzolan, Diletta Olliaro, Stefano Calzavara, Andrea Marin, Gianfranco Balbo, Matteo Sereno </br>
+**Stochastic Models for Remote Timing Attacks** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_2.pdf)
 
 Trond Vatten</br>
-**Tenant-Based Network Slice Embedding with Service Function Chaining**<br/>
+**Tenant-Based Network Slice Embedding with Service Function Chaining** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_3.pdf)
 
-Asmad Razzaque, Alexey Rolich, Andrea Baiocchi</br>
-**SIC-based Massive Random Multiple Access: A Practical Approach**<br/>
+Asmad Razzaque, Alexey Rolich, Andrea Baiocchi </br>
+**SIC-based Massive Random Multiple Access: A Practical Approach** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_4.pdf)
 
-H. V. Kalpanie Mendis</br>
-**Performability-Aware Network Slicing for Mission-Critical Smart Grid Communications**<br/>
+H. V. Kalpanie Mendis </br>
+**Performability-Aware Network Slicing for Mission-Critical Smart Grid Communications** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_5.pdf)
 
-Simon Raffeck, Stefan Geißler, Tobias Hoßfeld</br>
-**Conducting Time-synchronized Measurements in 5G Campus Networks**<br/>
+Simon Raffeck, Stefan Geißler, Tobias Hoßfeld </br>
+**Conducting Time-synchronized Measurements in 5G Campus Networks** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_6.pdf)
 
-Marija Gajic</br>
-**Quantification of the Impact of 5G Network Slicing on Quality of Experience and Survivability**<br/>
+Marija Gajic </br>
+**Quantification of the Impact of 5G Network Slicing on Quality of Experience and Survivability** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_7.pdf)
 
-Sebastian G. Grøsvik</br>
-**Parameterizing 5G NR to Enable Novel Mobile Use Cases**<br/>
+Sebastian G. Grøsvik </br>
+**Parameterizing 5G NR to Enable Novel Mobile Use Cases** <br/>
 [\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_8.pdf)
 
 
