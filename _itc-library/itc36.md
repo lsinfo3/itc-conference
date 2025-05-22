@@ -3,6 +3,8 @@ title: ITC36
 year: 2025
 ---
 
+## ITC 36 Conference Papers
+
 Diletta Olliaro, Michela Meo, Matteo Sereno, Andrea Marin, Marco Ajmone Marsan<br/>
 **Energy/Performance Trade-Off in RANs with Dynamic Management of Frequency Bands**<br/>
 In *36th International Teletraffic Congress (ITC-36)*. Trondheim, Norway 2025<br/>
@@ -316,3 +318,42 @@ In *36th International Teletraffic Congress (ITC-36)*. Trondheim, Norway 2025<br
     <strong>Abstract:</strong>Routing loops in IGP networks (OSPF, IS-IS) can easily appear due to misconfigurations of routing policies as it is difficult for network administrators to define loop-free policies in large-scale multi-instance and multi-protocol environments. In this paper, we present a scalable verification solution analyzing routing configuration and policies. We first provide examples of common routing loop scenarios and analyze the most popular root causes. We then introduce efficient algorithms to detect loops indeed by preferences and route imports. As output, these algorithms automatically provide explanations so that end users can break them. We present a performance evaluation over a large IP RAN (Radio Access Network) and details about our implementation.
 
 </div>
+
+
+## ITC 36 PhD Workshop Abstracts
+
+Simone Bozzolan, Diletta Olliaro, Stefano Calzavara, Andrea Marin, Gianfranco Balbo, Matteo Sereno</br>
+**Stochastic Models for Remote Timing Attacks**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_2.pdf)
+
+Trond Vatten</br>
+**Tenant-Based Network Slice Embedding with Service Function Chaining**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_3.pdf)
+
+Asmad Razzaque, Alexey Rolich, Andrea Baiocchi</br>
+**SIC-based Massive Random Multiple Access: A Practical Approach**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_4.pdf)
+
+H. V. Kalpanie Mendis</br>
+**Performability-Aware Network Slicing for Mission-Critical Smart Grid Communications**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_5.pdf)
+
+Simon Raffeck, Stefan Geißler, Tobias Hoßfeld</br>
+**Conducting Time-synchronized Measurements in 5G Campus Networks**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_6.pdf)
+
+Marija Gajic</br>
+**Quantification of the Impact of 5G Network Slicing on Quality of Experience and Survivability**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_7.pdf)
+
+Sebastian G. Grøsvik</br>
+**Parameterizing 5G NR to Enable Novel Mobile Use Cases**<br/>
+[\[Download\]](https://thomasez.folk.ntnu.no/phditc36/PHDITC25_8.pdf)
+
+
+
+## WONECA Abstracts
+
+Link to the Abstracts of the WONECA Workshop: [\[Download\]](https://thomasez.folk.ntnu.no/woneca2025/WoNeCa-2025-Submissions.pdf)
+
+
