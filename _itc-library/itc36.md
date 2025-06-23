@@ -361,12 +361,12 @@ Amr Rizk, Leibniz University Hannover, Germany
 <div id="woneca_abstract_1" style="display: none;" class="abstract">
     <strong>Abstract:</strong>In this talk, we contrast the state of the art in stochastic bounds for single node queueing models
 with a new class of bounds with a telescoping property. This property allows expressing the
-CCDF of the steady-state waiting time P[W > \sigma] exactly for simple (GI/G/1 or AR/G/1) queues
+CCDF of the steady-state waiting time $P[W > \sigma]$ exactly for simple (GI/G/1 or AR/G/1) queues
 as well as for Markovian fluid queues. Remarkably, this expression that takes the form of an
 infinite sum with positive terms allows deriving closed-form bounds by evaluating a finite
 number of terms. Keys to this expression are (i) an exponential change of measure that reverses
 the sign of the drift of the underlying random walk, and (ii) a representation of the overshoot
-\( R_\sigma = \sum_{i=1}^{T} X_i - \sigma \)
+$\( R_\sigma = \sum_{i=1}^{T} X_i - \sigma \)$
 𝑖𝑖=1 of a point process. In this talk, we will discuss the main idea behind this
 class of bounds in comparison to the weakness of current Martingale waiting time bounds. This
 talk is based on a previously published paper [1].
