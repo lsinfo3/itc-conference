@@ -367,7 +367,7 @@ as well as for Markovian fluid queues. Remarkably, this expression that takes th
 infinite sum with positive terms allows deriving closed-form bounds by evaluating a finite
 number of terms. Keys to this expression are (i) an exponential change of measure that reverses
 the sign of the drift of the underlying random walk, and (ii) a representation of the overshoot
-$\( R_\sigma = \sum_{i=1}^{T} X_i - \sigma \)$
+$( R_\sigma = \sum_{i=1}^{T} X_i - \sigma \)$
 𝑖𝑖=1 of a point process. In this talk, we will discuss the main idea behind this
 class of bounds in comparison to the weakness of current Martingale waiting time bounds. This
 talk is based on a previously published paper [1].
