@@ -1,6 +1,7 @@
 ---
 title: ITC36
 year: 2025
+use_math: true
 ---
 
 ## ITC 36 Conference Papers
